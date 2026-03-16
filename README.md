@@ -40,6 +40,7 @@ It combines **text RAG over safety documents** with a **vision‑language model 
 ├─ data/ # Local raw data: videos, PDFs, HWP, PPT (git‑ignored)
 ├─ .gitignore
 └─ README.md
+##
 
 
 > Note: Large raw data files (videos, PDFs, etc.) and generated artifacts are ignored by Git.  

@@ -1,0 +1,486 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+W - 25 - 2017
+탄소나노튜브취급작업환경
+노출농도관리지침
+2017.
+
+[Semantic Chunk 2]
+11.
+
+[Semantic Chunk 3]
+한국산업안전보건공단
+안전보건기술지침의개요
+○제정자: 한국산업안전보건공단산업안전보건연구원이나루
+○제·개정경과
+- 2017년산업위생분야제정위원회심의
+○관련규격및자료
+- 김종범, 김경환, 최병길, 송경석, 배귀남[2016].
+
+[Semantic Chunk 4]
+국내일부다중벽탄소나노튜브의
+직업노출기준추정.
+
+[Semantic Chunk 5]
+한국환경과학회지.
+
+[Semantic Chunk 6]
+25권4호
+- 윤충식등[2016].
+
+[Semantic Chunk 7]
+카본나노튜브노출기준설정에관한연구, 산업안전보건연구원
+- BSI[2007].
+
+[Semantic Chunk 8]
+Nanotechnologies—Part 2: Guide to safe handling and disposal of
+manufactured nanomaterials.
+
+[Semantic Chunk 9]
+London: BSI Group;6699(2)
+- Nakanishi J (ed)[2011].
+
+[Semantic Chunk 10]
+Risk assessment of manufactured nanomaterials: “Approaches”
+—Overview of approaches and results.
+
+[Semantic Chunk 11]
+Final report issued on August 17, 2011.
+
+[Semantic Chunk 12]
+NEDO
+project (P06041) “Research and Development of Nanoparticle Characterization Methods.”
+- Nakanishi J (ed)[2011].
+
+[Semantic Chunk 13]
+Risk assessment of manufactured nanomaterials: carbon
+nanotubes
+(CNTs).
+
+[Semantic Chunk 14]
+NEDO
+project
+(P06041)
+“Research
+and
+development
+of
+nanoparticle characterisation methods.”
+- Nanocyl.
+
+[Semantic Chunk 15]
+Responsible care and nanomaterials case study Nanocyl.
+
+[Semantic Chunk 16]
+Presentation
+at European Responsible Care Conference, Prague.
+
+[Semantic Chunk 17]
+Brussels, Belgium: The European
+Chemical
+Industry
+Council
+(CEFIC)
+[cited
+2016
+Oct
+11]
+Available
+from:
+URL:http://www.cefic.org/Documents/ResponsibleCare/04_Nanocyl.pdf
+- Pauluhn J [2010].
+
+[Semantic Chunk 18]
+Subchronic 13-week inhalation exposure of rats to multiwalled
+carbon nanotubes: toxic effects are determined by density of agglomerate structures,
+not fibrillar structures.
+
+[Semantic Chunk 19]
+Toxicol Sci 113(1):226–242
+○관련법규․규칙․고시등
+- 해당사항없음
+○기술지침의적용및문의
+-
+이
+기술지침에
+대한
+의견
+또는
+문의는
+한국산업안전보건공단
+홈페이지
+(www.kosha.or.kr)의안전보건기술지침소관분야별문의처안내를참고하시기
+바랍니다.
+
+[Semantic Chunk 20]
+- 동지침내에서인용된관련규격및자료, 법규등에관하여최근개정본이있을
+경우에는해당개정본의내용을참고하시기바랍니다.
+
+[Semantic Chunk 21]
+공표일자: 2017년11월27일
+제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+W - 25 - 2017
+- 1 -
+탄소나노튜브취급작업환경노출농도관리지침
+1.
+
+[Semantic Chunk 22]
+목
+적
+이지침은탄소나노튜브가공기중으로비산되어노동자가영향을받을잠재적인위험이
+있는작업장에서작업환경관리를할때적용할수있는탄소나노튜브노출농도를권고함을
+목적으로한다.
+
+[Semantic Chunk 23]
+탄소나노튜브는현재국내에서작업환경측정대상물질은아니지만, 건강
+유해성이
+우려되는
+물질이다.
+
+[Semantic Chunk 24]
+국제암연구소(International
+Agency
+for
+Research
+on
+Cancer, IARC)에서는다중벽탄소나노튜브-7(Multi-Walled Carbon Nanotubes-7)만을
+사람에게암을일으킬가능성이있는물질(Group 2B: Possibly carconogenic to humans)로
+지정하였다.
+
+[Semantic Chunk 25]
+탄소나노튜브의유해성이우려되므로, 탄소나노튜브를취급하는작업장에서는
+탄소나노튜브노출을평가하고, 이를제안된노출농도와비교하여작업장환경을
+관리할필요가있으므로, 이지침에서탄소나노튜브노출농도등에관한기술적사항을
+권고함을목적으로한다.
+
+[Semantic Chunk 26]
+2.
+
+[Semantic Chunk 27]
+적용범위
+이지침은탄소나노튜브를취급하는작업장에서탄소나노튜브를측정·분석(원소탄소
+기준)하여노출농도를적용할때관련된사항에한한다.
+
+[Semantic Chunk 28]
+3.
+
+[Semantic Chunk 29]
+용어의정의
+(1) 이지침에서사용되는용어의정의는다음과같다.
+
+[Semantic Chunk 30]
+(가) “비산”이라함은먼지등의물질이사방으로날아흩어짐을말한다.
+
+[Semantic Chunk 31]
+(나) “디젤배출물”이라함은디젤입자상물질을포함한질소산화물, 탄화수소,
+일산화탄소, 이산화탄소, 물등을말한다.
+
+[Semantic Chunk 32]
+(다) “무영향관찰용량(No observed adverse effect level)”이라함은시험물질을
+사용한용량-반응시험에서노출집단과적절한비노출집단간유해한영향의
+KOSHA GUIDE
+W - 25 - 2017
+- 2 -
+빈도나심각성이통계적으로또는생물학적으로유의한차이가없는노출
+수준을말한다.
+
+[Semantic Chunk 33]
+영문약어로는“NOAEL"을말한다.
+
+[Semantic Chunk 34]
+(라) “불확실성계수(Uncertainty factor)"이라함은종내및종간의다양성, 동물
+실험의질및기간등을고려하여상이한인구집단에있어실제적으로허용
+가능한용량을결정하기위해적용하는계수를말한다.
+
+[Semantic Chunk 35]
+(마) “호흡률(inhalation rate)”이라함은단위시간을기준으로분당호흡횟수와매
+호흡마다내뱉는공기체적의곱을말한다.
+
+[Semantic Chunk 36]
+(2) 기타이지침에서사용하는용어의정의는특별한규정이있는경우를제외하고는
+산업안전보건법, 동법시행령, 동법시행규칙및안전규칙에서정하는바에따른다.
+
+[Semantic Chunk 37]
+4.
+
+[Semantic Chunk 38]
+국내·외탄소나노튜브노출농도
+(1) 탄소나노튜브노출농도를질량농도기준으로제안하고있는곳은미국국립
+산업안전보건연구소(NIOSH, 1㎍/㎥), 일본산업기술종합연구소(AIST, 30㎍/㎥),
+나노실기업(Nanocyl, 2.5㎍/㎥), 베이어회사(Bayer, 50㎍/㎥), 그리고국내에서는
+김종범등(142㎍/㎥)이있다.
+
+[Semantic Chunk 39]
+(2) 다만, 영국BSI(British Standard Institution)과독일IFA(Instutut for Auslandsbeziehungen)에서는
+탄소나노튜브노출농도를입자계수농도기준으로0.01개/㎤로제안하고있다.
+
+[Semantic Chunk 40]
+현재까지알려진국내·외탄소나노튜브의노출농도를정리하면<표1>과같다.
+
+[Semantic Chunk 41]
+KOSHA GUIDE
+W - 25 - 2017
+- 3 -
+연구기관및연구진
+작업노출한계(Occupational exposure limit, OEL)
+미국NIOSH REL [2013]
+1 µg/㎥
+일본AIST (NEDO project)
+Nakanishi (ed) [2011a,b, 2015]
+30 µg/㎥
+(8-hr TWA) for CNT
+Nanocyl [2009]
+2.5 µg/㎥
+(8-hr TWA) for MWCNT
+Bayer
+[Pauluhn, 2010]
+50 µg/㎥
+영국BSI [2007]
+독일IFA [2009]
+0.01 fibers/ml for fibrous nanomaterials
+with high aspect ratios (> 3:1 and length > 5,000 nm)
+김종범등[2016]
+142 µg/㎥for MWCNT
+<표1> 국내·외탄소나노튜브노출농도
+(3) 작업환경관리를위해탄소나노튜브노출농도의제정근거및측정· 분석방법의
+타당성을검토하여국내에서적용가능한노출농도를제안할필요가있다.
+
+[Semantic Chunk 42]
+5.
+
+[Semantic Chunk 43]
+국내탄소나노튜브취급사업장작업환경측정결과(원소탄소농도기준)
+(1) <표2>는2016년을기준으로탄소나노튜브를제조및사용하는곳에서원소탄소
+농도를측정한결과이다.
+
+[Semantic Chunk 44]
+가장높은원소탄소농도는14㎍/㎥로탄소나노튜브제조
+및사용공정에서나타났다.
+
+[Semantic Chunk 45]
+사업장
+농도(㎍/㎥)
+제조여부
+A
+LOD ∼0.55
+사용
+B
+LOD ∼0.32
+제조및사용
+C
+4.49
+사용
+D
+LOD ∼0.66
+사용
+E
+LOD ∼14.24
+제조및사용
+F
+LOD
+사용
+G
+3.19 ∼7.45
+사용
+대기
+1.40 ∼3.48
+배경농도
+<표2> 탄소나노튜브제조공정의원소탄소농도
+KOSHA GUIDE
+W - 25 - 2017
+- 4 -
+(2) 대기중에디젤배출물등의영향으로도원소탄소가검출되므로, 탄소나노튜브취급
+사업장에서탄소나노튜브노출관리를위해서는대기중의원소탄소농도를고려
+하여야한다.
+
+[Semantic Chunk 46]
+국내대기중원소탄소농도는1.40∼3.48 ㎍/㎥으로나타났다.
+
+[Semantic Chunk 47]
+6.
+
+[Semantic Chunk 48]
+탄소나노튜브노출농도(NOAELH) 설정단계
+(1) 원소탄소농도를기준으로탄소나노튜브노출농도를설정하였다.
+
+[Semantic Chunk 49]
+탄소나노튜브
+측정및분석은“탄소나노튜브및탄소나노섬유(원소탄소분석)에대한작업환경
+측정·분석기술지침(KOSHA GUIDE A-162-2016)”을사용하였다.
+
+[Semantic Chunk 50]
+(2) 독성평가자료선택
+(가) 무영향관찰용량(NOAELR) 0.1 ㎎/㎥선택
+현재까지보고된탄소나노튜브에대한동물시험결과는<표3>과같다.
+
+[Semantic Chunk 51]
+본
+지침에서는그중가장낮은농도의무영향관찰용량(No Observed Adverse Effect
+Level) 0.1 ㎎/㎥을기초자료로선택하였다.
+
+[Semantic Chunk 52]
+Wistar rats을사용한독성시험1)으로부터
+나온결과이며, 동물기관지폐포세척액(Bronchoalveloar lavage fluid)의호중구
+수증가를건강에미치는영향으로보고결정한농도이다.
+
+[Semantic Chunk 53]
+1) Ma-Hock, Lan, et al.
+
+[Semantic Chunk 54]
+"Inhalation toxicity of multiwall carbon nanotubes in rats
+exposed for 3 months."
+
+[Semantic Chunk 55]
+Toxicological Sciences 112.2 (2009): 468-481
+KOSHA GUIDE
+W - 25 - 2017
+- 5 -
+연구기관및
+연구진
+Nanocyl
+(Ma-Hock,
+2009)
+일본AIST(NEDO
+project 2011, 2015)
+Bayer
+(Pauluhn,
+2010)
+Kim Jong
+Bum at al,.
+
+[Semantic Chunk 56]
+(2016)
+시험법
+OECD 413
+종류　
+MWCNT
+SWCNT
+MWCNT
+MWCNT
+MWCNT
+시험물질수
+1
+2
+5
+1
+1
+직경(nm)
+5-15
+8.2
+44
+10-15
+358.46 (GMD)
+길이(nm)
+100-10,000
+230
+940
+(long 3,400)
+200-1,000
+-
+N2-BET
+비표면적(m2/g)
+250-300
+1,064, 1,000
+69,
+(13-440)
+257
+　
+시험물질농도
+(㎎/㎥)
+0.1, 0.5, 2.5
+0.03, 0.13
+0.37
+0.1, 0.4,
+1.62, 5.98
+0, 0.2, 0.5, 1.0
+MMAD (μm)
+0.8-2.0
+2.2-2.9
+　
+NOAELR (㎎/㎥)
+0.1
+0.13
+0.37
+0.1
+0.98
+<표3> 동물을이용한시험에서탄소나노튜브의물리·화학적특성과독성값
+(3) 불확실성계수(Uncertainty factor, UF) 결정
+(가) 동물실험결과를인체에적용하기때문에이에대한불확실성계수3을선택하였다.
+
+[Semantic Chunk 57]
+(나) 국내에서사용되는탄소나노튜브의물리적·화학적특성이다양하므로제품에대한
+불확실성계수4를선택하였다.
+
+[Semantic Chunk 58]
+구분
+불확실성계수(Uncertainty Factor)
+연구기관및연구진
+KOSHA GUIDE2)
+일본AIST
+(NEDO, 2011)
+김종범등
+(2016)
+동물→사람
+(Interspecies TK)
+3
+3
+12
+아급성(subacute) (4주) →
+아만성(subchronic) (13주)
+2
+2
+독성동태학적계수
+1
+3
+카본나노튜브특성의다양성
+4
+총
+24
+6
+36
+<표4> KOSHA GUIDE 및국외연구에서사용된불확실성계수
+KOSHA GUIDE
+W - 25 - 2017
+- 6 -
+(4) 탄소나노튜브노출농도(NOAELH) 설정
+(가) 체중은우리나라성인체중70.6 ㎏를사용하였다.
+
+[Semantic Chunk 59]
+(나) 호흡률은일하는성인남자의호흡률17.9 ㎥/day를사용하였다.
+
+[Semantic Chunk 60]
+(다) 노출계수를반영한계산식은아래<그림1>과같다.
+
+[Semantic Chunk 61]
+× 
+
+×
+×min××min×
+×min××min×
+× 
+× 
+
+<그림1> 무영향관찰용량(NOAELH) 계산식
+7.
+
+[Semantic Chunk 62]
+작업환경관리를위한탄소나노튜브노출농도(NOAELH) 10㎍/㎥제안
+(1) 탄소나노튜브노출농도(NOAELH) 10㎍/㎥는원소탄소농도를기준으로하여야한다.
+
+[Semantic Chunk 63]
+(2) 계산값이11㎍/㎥인데10㎍/㎥으로제안하는이유는탄소나노튜브의순도가100%가
+되지않고90% 정도수준임을감안하여야하며, 탄소나노튜브의원소탄소농도를
+분석하기때문이다.
+
+[Semantic Chunk 64]
+(3) 10 ㎍/㎥은동물(래트) 기관지폐포세척액의호중구수증가를근거로한것이다.
+
+[Semantic Chunk 65]
+탄소나노튜브가발암성물질로의심되거나이에대한영향을고려한다면, 노동자의
+탄소나노튜브노출을낮출수있는가장낮은농도로작업환경을관리할것을권고
+한다.
+
+[Semantic Chunk 66]
+2) 카본나노튜브노출기준설정에관한연구에서권고한불확실성계수를본지침에서사용.
+

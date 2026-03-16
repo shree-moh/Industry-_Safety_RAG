@@ -1,0 +1,434 @@
+[Semantic Chunk 1]
+    
+KOSHA GUIDE
+X - 1 - 2014
+리스크관리의용어정의에관한지침
+2014.
+
+[Semantic Chunk 2]
+11.
+
+[Semantic Chunk 3]
+한국산업안전보건공단
+안전보건기술지침의개요
+○작성자: 사단법인한국안전학회리스크관리연구위원회
+서울과학기술대학교안전공학과박달재
+○개정자: 한국산업안전보건공단전문기술총괄실
+○제·개정경과
+- 2010년8월위험관리분야제정위원회심의(제정)
+- 2011년6월리스크관리분야제정위원회심의(개정)
+- 2014년11월리스크관리분야제정위원회심의(개정)
+○관련규격및자료
+- ISO GUIDE 73, Risk management-vocabulary, 2009
+- ISO/IEC 73, Risk management-vocabulary-Guidelines for use in standards,
+2002
+-
+ISO/IEC
+GUIDE
+51,
+Safety
+aspects-Guidelines
+for
+their
+inclusion
+in
+standards, 1999
+- KOSHA GUIDE G-13-2011(프로젝트위험관리에관한안전가이드)
+- KS A ISO/IEC GUIDE 73:2002(리스크관리-용어-규격에사용하기위한지침)
+- KOSHA GUIDE X-14-2014(4M 리스크평가기법에관한기술지침)
+○기술지침의적용및문의
+- 이기술지침에대한의견또는문의는한국산업안전보건공단홈페이지안전보건
+기술지침소관분야별문의처안내를참고하시기바랍니다.
+
+[Semantic Chunk 4]
+- 동지침내에서인용된관련규격및자료등에관하여최근개정본이있을경우
+해당최근개정본을참고하시기바랍니다.
+
+[Semantic Chunk 5]
+공표일자: 2014년11월24일
+제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+X - 1 - 2014
+- 2 -
+리스크관리의용어정의에관한지침
+1.
+
+[Semantic Chunk 6]
+목
+적
+이지침은특정조직, 단체또는개인등이리스크관리에서사용되는용어의의미를
+올바르게해석하고이해하는데그목적이있다.
+
+[Semantic Chunk 7]
+2.
+
+[Semantic Chunk 8]
+적용범위
+이지침은특정조직, 단체또는개인등이리스크관리를수행하는사업장에적용한
+다.
+
+[Semantic Chunk 9]
+3. 용어의정의
+3.1.
+
+[Semantic Chunk 10]
+리스크관리(Risk management)와관련된용어
+(1) “리스크(Risk)”라함은특정목적에영향을주는긍정또는부정적인상황의발생기
+회에대한불확실성을말한다.
+
+[Semantic Chunk 11]
+(가) 리스크는사상(Event)의발생가능성(Likelihood)과그결과(Consequence)의조합
+으로표현될수있다.
+
+[Semantic Chunk 12]
+(나) 리스크는안전․보건측면에서일반적으로부정적인결과가발생될가능성이있을
+경우사용된다.
+
+[Semantic Chunk 13]
+(다) 여기서사용되는리스크는적용분야별또는의미상으로위험, 위험성, 유해성, 위
+험도및유해도등으로표현될수있다.
+
+[Semantic Chunk 14]
+(2) “리스크관리(Risk management)”라함은리스크와직․간접적으로관련된모든활
+동으로서리스크평가(Risk assessment), 리스크처리(Risk treatment), 리스크정보
+KOSHA GUIDE
+X - 1 - 2014
+- 3 -
+교환및상담(Communication & consultation) 등의세부절차를통하여특정조직또
+는단체의리스크를총괄적으로관리하는것을포함한다.
+
+[Semantic Chunk 15]
+(3) “리스크관리시스템(Risk management system)”이라함은특정조직또는단체의
+리스크를지속적으로관리하기위한조직화된체계를말한다.
+
+[Semantic Chunk 16]
+이시스템에는전략계
+획, 의사결정, 조직의문화등을포함한다.
+
+[Semantic Chunk 17]
+(4) “리스크관리정책(Risk management policy)”이라함은리스크관리와관련된특정
+조직의방침과전체목적에대한설명을의미한다. (5) “리스크관리계획(Risk management plan)”이라함은리스크관리에적용되는관리
+구성요소및수단, 접근방식을구체화하기위해리스크관리시스템에포함되는계획
+을말한다.
+
+[Semantic Chunk 18]
+(가) 관리구성요소는절차, 실행, 책임자지정, 활동시기및순서를포함한다.
+
+[Semantic Chunk 19]
+(나) 리스크관리계획은제품, 공정및프로젝트, 조직전체또는일부에적용될수있
+다.
+
+[Semantic Chunk 20]
+3.2.
+
+[Semantic Chunk 21]
+리스크관리절차(Risk management process)와관련된용어
+“리스크관리절차(Risk management process)”라함은특정조직또는단체에대한환
+경조건설정을시작으로리스크를확인, 분석, 평가하고그리스크를어떻게처리할것
+인지에대한리스크처리방법, 리스크검토및모니터링, 내부및외부와의리스크정
+보교환및상담등세부적인단계의적용을말한다.
+
+[Semantic Chunk 22]
+3.2.1 환경조건(Context)
+“환경조건(Context)”이라함은리스크를관리할때그리고리스크기준및범위를설
+정할때고려해야할외부또는내부의변수를말한다. (1) “외부환경조건(External context)”이라함은특정조직또는단체가목적을달성하고
+자추구하는외부환경조건을말한다. 외부환경조건은다음과같은항목을포함한
+다.
+KOSHA GUIDE
+X - 1 - 2014
+- 4 -
+(가) 국외, 국내, 지방또는지역의문화, 사회, 정치, 법률, 규정, 재정, 기술, 경제및경
+쟁환경조건
+(나) 조직의목적에영향을미치는핵심원동력
+(다) 외부관계자의평가와인식및외부관계자와의관계
+(2) “내부환경조건(Internal context)”이라함은특정조직또는단체가목적을달성하고
+자추구하는내부환경조건을말한다.
+
+[Semantic Chunk 23]
+내부환경조건은다음과같은항목을포함한
+다.
+
+[Semantic Chunk 24]
+(가) 조직의지배구조, 조직구성, 규칙및책임
+(나) 목적달성을위한정책, 전략
+(다) 조직의자원및역량(자본, 시간, 인력, 공정, 시스템및기술)
+(라) 정보시스템, 정보흐름, 의사결정과정(공식및비공식포함)
+(마) 내부관계자의평가와인식및내부관계자와의관계
+(바) 조직문화
+(사) 조직에서채택한규칙, 지침과모델
+(아) 계약관계의형태및범위
+(3) “리스크기준(Risk criteria)”이라함은리스크의유의성(Significance)을판단하기위
+한기준항목을말한다.
+
+[Semantic Chunk 25]
+(가) 리스크기준은조직의목적, 외부또는내부환경조건을바탕으로한다.
+
+[Semantic Chunk 26]
+(나) 리스크기준에는관련비용및이익, 법적요건, 사회․경제․환경적측면, 당사자
+KOSHA GUIDE
+X - 1 - 2014
+- 5 -
+의관심사, 우선순위, 평가에대한기타고려사항을포함한다.
+
+[Semantic Chunk 27]
+3.2.2 리스크평가(Risk assessment)
+“리스크평가(Risk assessment)”라함은리스크확인(Risk identification), 리스크분석
+(Risk analysis), 리스크수준판정(Risk evaluation)에대한전체적인과정을말한다.
+
+[Semantic Chunk 28]
+(1) “리스크확인(Risk identification)”이라함은리스크근원을찾아인지하고기술하는
+과정을말한다.
+
+[Semantic Chunk 29]
+리스크확인은리스크근원, 사상, 리스크근원과사상의원인및잠
+재적인결과의확인을포함한다.
+
+[Semantic Chunk 30]
+리스크확인은과거자료, 이론적분석, 정보화된견
+해또는전문가의의견, 관계자의요구를포함한다.
+
+[Semantic Chunk 31]
+(가) “리스크설명(Risk description)”이라함은리스크의근원, 사상, 원인및결과를포
+함하는리스크에대한체계적인서술을의미한다.
+
+[Semantic Chunk 32]
+(나) “리스크근원(Risk source)”이라함은리스크를발생시키는단일또는복수의요인
+을말한다.
+
+[Semantic Chunk 33]
+리스크근원은보이거나보이지않을수있으며, 유해위험요인(Hazard)
+과동일한의미로해석될수있다.
+
+[Semantic Chunk 34]
+(다) “사상(Event)”이라함은특정한단위상황의발생또는변화를말한다.
+
+[Semantic Chunk 35]
+①사상은확실하거나불확실할수있다.
+
+[Semantic Chunk 36]
+②사상은하나또는여러개의사상으로이루어질수있다.
+
+[Semantic Chunk 37]
+③사상은결과를초래하거나초래하지않을수있다.
+
+[Semantic Chunk 38]
+(라) “사고(Accident)”라함은유해위험요인(Hazard)을근원적으로제거하지못함으로
+써위험에노출되어사망, 상해, 질병및기타경제적손실등원하지않는결과를
+초래하는비고의적인사상을말한다. (마) “사건(Incident)”이라함은유해위험요인으로인한사고(Accident), 앗차사고(Near
+miss), 고의성이전제되는범죄(Crime)를포함하는사상을말한다.
+
+[Semantic Chunk 39]
+KOSHA GUIDE
+X - 1 - 2014
+- 6 -
+(바) “유해위험요인(Hazard)”이라함은위해의잠재적근원을말한다.
+
+[Semantic Chunk 40]
+유해위험요인은
+리스크근원(Risk source)이될수있다.
+
+[Semantic Chunk 41]
+(사) “위해(Harm)”라함은신체적상해, 사람의건강에대한손상또는재산이나환경에
+대한손실을말한다.
+
+[Semantic Chunk 42]
+(아) “리스크책임자(Risk owner)”라함은리스크를관리하는책임과권한을가진사람
+을말한다.
+
+[Semantic Chunk 43]
+(2) “리스크분석(Risk analysis)”이라함은리스크수준(Risk level)을결정하고, 리스크
+의특성을이해하기위한과정을말한다.
+
+[Semantic Chunk 44]
+리스크평가와리스크처리에대한결정은
+리스크분석의결과를바탕으로이루어진다.
+
+[Semantic Chunk 45]
+(가) “가능성(Likelihood)”이라함은사상의발생가능한정도를말한다. ①가능성은확률(Probability) 또는빈도(Frequency)로표현할수있다. ②“확률(Probability)”이라함은일정한조건아래에서특정사건이나사상이일어날
+가능성을의미하며, 분율(0∼1) 또는퍼센트(0∼100 %)로표시한다.
+
+[Semantic Chunk 46]
+③“빈도(Frequency)”라함은특정한시간내에특정사건이나사상이일어날가능성
+을의미한다.
+
+[Semantic Chunk 47]
+(나) “결과(Consequence)”라함은특정목적에영향을미치는사상의산출물(Output)을
+말한다.
+
+[Semantic Chunk 48]
+①결과는단일사상에서단일또는복수의산출물이발생할수있다.
+
+[Semantic Chunk 49]
+②결과는긍정적이거나부정적일수있다.
+
+[Semantic Chunk 50]
+③결과는정성적또는정량적으로표현할수있다.
+
+[Semantic Chunk 51]
+(다) “노출(Exposure)”이라함은특정조직또는관계자가사상에관련되는정도를말한
+다.
+KOSHA GUIDE
+X - 1 - 2014
+- 7 -
+(라) “리스크매트릭스(Risk matrix)”이라함은가능성과결과에대한범위를구분하여
+리스크등급을표시하고, 리스크우선순위를정하기위한도구를말한다.
+
+[Semantic Chunk 52]
+(마) “리스크수준(Risk level)”이라함은가능성과결과가조합되어표현된단일또는
+복수의리스크에대한크기를말한다.
+
+[Semantic Chunk 53]
+(3) “리스크수준판정(Risk evaluation)”이라함은리스크또는리스크경감이수용할만
+한수준인지결정하기위하여주어진리스크기준과리스크분석의결과를비교하는
+과정을말한다.
+
+[Semantic Chunk 54]
+리스크수준판정은리스크처리결정을위해보조적으로활용된다.
+
+[Semantic Chunk 55]
+(가) “리스크태도(Risk attitude)”라함은특정조직또는단체가리스크를회피또는수
+용, 보유, 추구, 평가에대하는태도를말한다.
+
+[Semantic Chunk 56]
+(나) “리스크선호(Risk appetite)”라함은특정조직또는단체가리스크를추구하거나
+보유할의지가있는리스크의유형과정도를말한다.
+
+[Semantic Chunk 57]
+(다) “리스크기피(Risk aversion)”라함은리스크를피하려는성향을말한다.
+
+[Semantic Chunk 58]
+(라) “리스크통합(Risk aggregation)”라함은전체리스크수준을이해하기위해다수
+의리스크를하나의리스크로통합시키는것을말한다.
+
+[Semantic Chunk 59]
+(마) “리스크허용한계(Risk tolerance)”라함은특정조직또는관계자가목적을달성하
+기위하여리스크처리(Risk treatment) 이후의리스크를허용할수있는한계를말
+한다.
+
+[Semantic Chunk 60]
+(바) “리스크수용(Risk acceptance)”이라함은특정리스크를수용하는것을말한다.
+
+[Semantic Chunk 61]
+리
+스크수용은리스크처리(Risk treatment) 없이또는처리과정중에발생할수있
+다.
+
+[Semantic Chunk 62]
+수용된리스크는모니터링(Monitoring)과검토(Review)의대상이된다.
+
+[Semantic Chunk 63]
+3.2.3 리스크처리(Risk treatment)
+“리스크처리(Risk treatment)”라함은리스크를처리하기위한방안을선택하고집행
+하는과정을말한다.
+
+[Semantic Chunk 64]
+리스크처리에는리스크회피, 리스크감소및제거, 리스크분담,
+KOSHA GUIDE
+X - 1 - 2014
+- 8 -
+리스크보유등의방법이있다.
+
+[Semantic Chunk 65]
+리스크처리는새로운리스크를발생시킬있거나현재
+의리스크를변화시킬수있다.
+
+[Semantic Chunk 66]
+(1) “리스크통제(Risk control)”라함은리스크를통제하기위한조치를말한다. 리스크
+통제는리스크를통제하는과정, 정책, 실행및그이외의활동을포함한다.
+
+[Semantic Chunk 67]
+(2) “리스크회피(Risk avoidance)”라함은특정리스크에노출되지않기위한활동또는
+개입되지않기위한결정을말한다.
+
+[Semantic Chunk 68]
+리스크회피에대한결정은리스크수준판정의
+결과를바탕으로한다.
+
+[Semantic Chunk 69]
+(3) “리스크분담(Risk sharing)”라함은다른관계자와동의하여리스크를서로공유하
+는것을말한다.
+
+[Semantic Chunk 70]
+①리스크분담은보험또는다른형태의계약을통해수행되어질수있다.
+
+[Semantic Chunk 71]
+②리스크분담정도는분담약정의명확성및신뢰성에의존한다.
+
+[Semantic Chunk 72]
+③리스크전가는리스크분담방법중의하나이다.
+
+[Semantic Chunk 73]
+(4) “리스크재무(Risk financing)”라함은리스크처리에대한실행비용과관련비용을
+충당할자금의준비를말한다.
+
+[Semantic Chunk 74]
+(5) “리스크보유(Risk retention)”라함은특정리스크로부터발생하는손실부담또는잠
+재적이익에대한수용을말한다.
+
+[Semantic Chunk 75]
+리스크보유는잔존리스크(Residual risk)를포함
+하며, 보유한리스크수준은리스크기준에따라달라질수있다.
+
+[Semantic Chunk 76]
+(6) “잔존리스크(Residual risk)”라함은리스크처리후에도남아있는리스크를말한다.
+
+[Semantic Chunk 77]
+잔존리스크는확인되지않은리스크도포함한다.
+
+[Semantic Chunk 78]
+3.2.4 리스크정보교환및상담(Risk communication and consultation).
+
+[Semantic Chunk 79]
+“리스크정보교환및상담(Risk communication and consultation)”이라함은특정조
+직또는단체가관계자(Stakeholders)와협의하여리스크관리에대한정보를제공, 공
+유또는얻기위해수행하는연속적이면서반복적인과정을말한다.
+
+[Semantic Chunk 80]
+KOSHA GUIDE
+X - 1 - 2014
+- 9 -
+(1) “관계자(Stakeholders)”라함은리스크관리활동또는결정에의해영향을주고받거
+나, 주고받을것으로예상되는특정조직, 단체또는개인을말하며의사결정자도관
+계자가될수있다.
+
+[Semantic Chunk 81]
+(2) 정보는리스크의존재, 특징, 형태, 가능성, 중대성, 평가, 수용, 처리와관련된다.
+
+[Semantic Chunk 82]
+(3) “리스크인식(Risk perception)”이라함은관계자가특정(관심대상) 리스크에대해바
+라보는관점을말한다.
+
+[Semantic Chunk 83]
+리스크인식은관계자의요구, 현안, 지식, 믿음, 가치관을반
+영한다.
+
+[Semantic Chunk 84]
+3.2.5 리스크모니터링및검토(Risk monitoring and review)
+“리스크모니터링(Risk monitoring)”이라함은요구되거나예상된성능수준으로부터
+의변화를확인하기위하여상태를지속적으로점검, 감독, 관찰하는것을말한다.
+
+[Semantic Chunk 85]
+모
+니터링은리스크관리시스템, 리스크관리절차, 리스크또는통제에적용될수있다.
+
+[Semantic Chunk 86]
+“검토(Review)”라함은설정된목적을달성하기위하여주제의적합성, 타당성, 효과
+를결정하기위해착수된활동을말한다.
+
+[Semantic Chunk 87]
+(1) “리스크보고(Risk reporting)”라함은내부또는외부관계자에게리스크와리스크
+관리에대한현재상태의정보를제공하는것을말하여, 의사소통에대한하나의형
+태이다.
+
+[Semantic Chunk 88]
+(2) “리스크등록(Risk register)”이라함은확인된리스크에대한정보를등록하는것을
+말한다.
+
+[Semantic Chunk 89]
+(3) “리스크프로파일(Risk profile)”이라함은조직또는단체에서관리대상이되는리
+스크의우선순위및그에관한설명을말한다.
+
+[Semantic Chunk 90]
+(4) “리스크관리감사(Risk management audit)”라함은리스크관리체계를객관적으로
+평가하고, 입증하기위한체계적이고문서화된과정을말한다.
+

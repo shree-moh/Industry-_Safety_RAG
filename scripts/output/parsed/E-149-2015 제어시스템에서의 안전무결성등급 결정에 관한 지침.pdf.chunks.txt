@@ -1,0 +1,409 @@
+[Chunk 1]
+요 구 운 전 방 식1)
+비 고
+안전무결성등급
+목표평균 고장확률2)
+4
+이상 ∼ 미만
+ 
+3
+이상 ∼ 미만
+ 
+2
+이상 ∼ 미만
+ 
+1
+이상 ∼ 미만
+ 
+주
+요구운전방식
+에서 안전시스템을 구축하기 위한 운전의 요구횟수는 
+1: 
+(Demand mode of operation)
+년에 회 이하이고 성능검사
+의 요구횟수는 년에 회 이하이어야 한다
+1
+1
+(proof-test)
+1
+2
+.
+여기에서 고장확률이란 제어시스템 내에 사용된 부품
+및 관련 프로그램
+  2: 
+(parts or components) 
+의 고장 확률을 포함한다.
+요 구 운 전 방 식
+비 고
+안전무결성등급
+목표 위험 감소
+4
+이상 
+ 
+∼ 미만
+ 
+3
+이상 
+ 
+∼ 미만
+ 
+2
+이상 
+ 
+∼ 미만
+ 
+1
+이상 
+ 
+∼ 미만
+ 
+주 
+요구운전방식
+에서 안전시스템을 구축하기 위한 운전의 요구횟수
+1. 
+(demand mode of operation)
+는 년에 회 이하이고 성능검사
+의 요구횟수는 년에 회 이하이어야 한다
+1
+1
+(proof-test)
+1
+2
+.
+참고로 
+   2. 
+ISA-S84.01(Application of safety instrumented systems for the process industries)
+에 따른 안전무결성등급에 대한 제어안전시스템의 성능요구사항은 표 
+과 같다
+<
+3>
+.
+안전무경성등급
+1
+2
+3
+제어안전시스템
+성능요구사항
+안전 가용도 범위(Safety availability range)
+0.9 
+0.99
+∼ 
+0.99 
+0.999
+∼ 
+0.999 
+0.9999
+∼ 
+고장확률
+평균 범위
+(PFD) 
+(Average range)
+ ∼ 
+ ∼ 
+ ∼ 
+주: ANSI/ ISA S84.01:
+ 1) Application of Safety Instrumented Systems for the Process Industries
+ 2) US National Standard
+ 3) OSHA ‘recognised’ under 29 CFR (Process Safety Management of Highly Hazardous 
+Chemicals, etc.) (1910.119)
+원
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+위험 변수
+등급 분류
+비고
+결과 변수
+1) 
+(consequence risk parameter, C)
+
+유해위험 회피가능성
+2) 
+(possibility of avoiding the 
+hazardous event, P)
+
+원하지 않는 사고발생의 가능성
+3) 
+(probability of the 
+unwanted occurrence, W)
+
+필요한 최소 위험 감소
+4) 
+(necessary minimum risk 
+reduction, NMRR)
+3
+환경피해 안전무결성등급
+5) 
+SIL 3
+위험 변수
+등급 분류
+비 고
+결과변수
+(Consequence risk 
+parameter, C)
+
+피해액 천만원 
+6
+미만
+만불 미만
+(5
+)
+일 생산손실 또는 미약한 설비손상
+1. 1~2
+
+피해약 천만원 
+6
+이상 억천만원 
+1
+2
+미만
+만불이상 
+(5
+만불 미만
+10
+주 생산손실 또는 약간의 설비손상
+2. 1
+
+피해액 
+억천만원 이상 
+1
+2
+억원 
+12
+미만
+만불이상 
+(10
+만불미만
+100
+)
+달 생산손실 또는 상당한 설비손상
+3. 1
+
+피해액 
+억원 
+12
+이상
+만불 
+(100
+이상)
+개월 이상의 막대한 생산손실 또는 설비손
+4. 6
+상
+유해위험 회피가능성
+(Possibility of 
+avoiding the 
+hazardous event, P)
+
+회피 가능
+고려조건
+5. 
+공정운전즉
+숙련자 또는 비숙련자에 의한 
+1) 
+(
+, 
+운전 시 관리감독을 받는 지 혹은 관리감독
+을 받지 않는지)
+위험요인 사상의 진행률예
+급작스럽게
+2) 
+(
+: 
+, 
+빠르게 또는 느리게)
+위험 인식의 용이성예
+즉각적인 발견
+기
+3) 
+(
+: 
+, 
+술적인 혹은 비기술적인 측정에 의한 감지)
+위험요인 사상의 회피예
+대피로의 가능성 
+4) 
+(
+: 
+또는 조건부 회피)
+실제 안전경험동일한 제어 하의 기기 또는 
+5) 
+(
+이와 유사한 제어 하의 기기에 대한 경험의 
+유무)
+
+회피 불가능
+원하지 않는 
+사고발생의 가능성
+(Probability of the 
+unwanted occurrence, 
+W)
+
+낮음연간 
+건 
+(
+0.1
+미만)
+사고발생확률은 위험감축장비는 구비하였으
+6. 
+나 안전시스템이 추가로 설치되지 않았을 경
+우 발생 가능한 사고빈도를 추정함
+제어 하의 기기 시스템의 사용경험 또는 이
+7. 
+와 유사한 경험이 없다면
+사고발생확률 추
+, 
+정은 계산방법에 의하며 그 확률은 최악의 
+예상치를 적용함
+
+중간연간 
+건 
+(
+0.1
+이상 건 이하
+1
+)
+
+높음연간 건 
+(
+1
+초과 
+건 이하
+10
+)
+위험 변수
+등급 분류
+비고
+결과 변수
+1) 
+(consequence risk parameter, C)
+
+유해위험 회피가능성
+2) 
+(possibility of avoiding the 
+hazardous event, P)
+
+원하지 않는 사고발생의 가능성
+3) 
+(probability of the 
+unwanted occurrence, W)
+
+필요한 최소 위험 감소
+4) 
+(necessary minimum risk 
+reduction, NMRR)
+2
+재산피해 안전무결성등급
+5) 
+SIL 2
+안전무결성등급 분석 작업표
+비고
+제어안전시스템 번호
+(1) 
+XV-0013
+공정배관 계장도 번호
+(2) 
+LKT-105-103-R1
+인적안전
+(12) 
+환경피해
+(13) 
+재산피해
+(14) 
+약 자
+C
+
+C
+
+C
+
+결과 변수
+C = 
+(consequence risk parameter)
+빈도와 노출시간
+F = 
+(frequency and exposure time 
+risk parameter)
+유해위험 회피가능성
+P = 
+(possibility of avoiding hazard 
+risk parameter)
+원하지 않는 사고발생의 
+W = 
+가능성
+(possibility of the unwanted 
+occurrence)
+필요한 최소 위험 감소
+NMRR = 
+(necessary minimum risk 
+reduction)
+F
+
+F
+-
+F
+-
+P
+
+P
+
+P
+
+W
+
+W
+
+W
+
+NMRR
+-
+NMRR
+2
+NMRR
+a
+인적안전
+안전무결
+성등급
+(SIL
+안전요건
+이 필요 
+하지 않음
+환경피해
+안전무결
+성등급
+(SIL)
+SIL 2
+재산피해
+안전무결
+성등급
+(SIL)
+특별한 
+안전요건
+이 필요
+하지 않
+음
+요구수준 안전무결
+(15) 
+성등급
+SIL 2
+

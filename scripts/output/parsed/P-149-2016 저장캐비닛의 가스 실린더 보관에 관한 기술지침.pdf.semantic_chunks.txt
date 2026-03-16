@@ -1,0 +1,490 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+P - 149 - 2016
+저장캐비닛의가스실린더보관에
+관한기술지침
+2016.
+
+[Semantic Chunk 2]
+6
+한국산업안전보건공단
+안전보건기술지침의개요
+o 작성자: 이근원
+o 제․개정경과
+- 2016년6월화학안전분야기준제정위원회심의
+o 관련규격및자료
+- 이근원, “화학물질혼합위험성결정을위한반응성매트릭스개발(Ⅱ)”,
+연구원2014-연구원-598, 안전보건공단산업안전보건연구원, 2014.
+
+[Semantic Chunk 3]
+- SEMI S4-92, “Safety Guideline for the Segregation/Separation of Gas
+Cylinders Contained in Cabinets“, SEMI, 1992. - SEMI S-0304, “Safety Guideline for the Separation of Chemical
+Cylinders Contained in Dispensing Cabinets“, SEMI, 2004.
+
+[Semantic Chunk 4]
+- KFPA, "반도체공업의위험관리“, 2012.
+o 기술지침의적용및문의
+- 이기술지침에대한의견또는문의는한국산업안전보건공단홈페이지
+(www.kosha.or.kr)의안전보건기술지침소관분야별문의처안내를참고하
+시기바랍니다.
+
+[Semantic Chunk 5]
+- 동지침내에서인용된관련규격및자료, 법규등에관하여최근개정본이
+있을경우에는해당개정본의내용을참고하시기바랍니다.
+
+[Semantic Chunk 6]
+공표일자: 2016년6월30일
+제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+P - 149 - 2016
+- 1 -
+저장캐비닛의가스실린더보관에관한기술지침
+1.
+
+[Semantic Chunk 7]
+목
+적
+이지침은반도체관련기술연구를수행하거나작업에사용되는저장캐비닛에
+가스를함께보관하거나분리해서두는가스실린더의보관에필요한사항을제
+시하는데그목적이있다.
+
+[Semantic Chunk 8]
+2.
+
+[Semantic Chunk 9]
+적용범위
+이지침은기체또는액체화학물질이들어있는내용적이1,000 L까지의모든
+형태의실린더에적용된다.
+
+[Semantic Chunk 10]
+또한, 독성물질이나인화성물질을취급하는반도체공
+정등에서실린더가스를사용하거나, 나누어주는데적용되며, 실린더에서공급
+되는퍼지가스에도적용된다.
+
+[Semantic Chunk 11]
+다만, 일종의공정장비에통합되어있는화학실린더
+와용접과같은부수적인목적을위한제조시설에사용되는화학물질에대해서는
+적용하지않는다.
+
+[Semantic Chunk 12]
+3.
+
+[Semantic Chunk 13]
+용어의정의
+(1) 이지침에서시용되는용어의정의는다음과같다.
+
+[Semantic Chunk 14]
+(가) “부식성물질(Corrosive materials)"이라함은접촉부위에화학작용에의해
+살아있는조직을파과하거나되돌릴수없는변형을일으키는화학물질을
+말한다.
+
+[Semantic Chunk 15]
+(나) “인화성가스(Flammable gas materials)"라함은인화한계농도의최저한
+도가13 % 이하또는최고한도와최저한도의차가12% 이상인것으로서
+표준압력(101.3 kPa)하의20℃에서가스상태인물질을말한다.
+
+[Semantic Chunk 16]
+(다) “물반웅성물질(Water reactive materials)"이라함은물과상호작용을하
+여자연발화하거나인화성가스를발생시키는화학물질을말한다.
+
+[Semantic Chunk 17]
+KOSHA GUIDE
+P - 149 - 2016
+- 2 -
+(라) “자연발화성물질(Pyrophoric materials)"이라함은공기와접촉하면스스
+로발화하는가스를말한다.
+
+[Semantic Chunk 18]
+(마) “독성물질(Toxic chemicals)"이라함은『산업안전보건기준에관한규
+칙』별표
+1(위험물질의
+종류)의
+제7호에서
+정의한
+급성독성물질
+또는
+『고압가스안전관리법시행규칙』제2조에서정의한독성가스를말한다.
+
+[Semantic Chunk 19]
+(바) “불안정또는반응성물질(Unstable or reactive materials)"이라함은
+격
+렬히중합, 분해, 응축되거나, 어떠한충격, 압력또는온도조건하에서자
+기반응을하는물질을말한다.
+
+[Semantic Chunk 20]
+(사) “그밖의건강위험성물질(Other health hazard materials)"이라함은노
+출된근로자에게일어나는급성또는만성건강의영향이있는물질을말
+한다.
+
+[Semantic Chunk 21]
+(아) “가스캐비닛(Gas cabinet)"이라함은캐비닛내부에서화재로인해외부
+환경을보호하거나캐비닛외부로부터화재로인해가스실린더를보호하
+고, 국소환기를제공할목적으로제작된보관함을말한다.
+
+[Semantic Chunk 22]
+(자) “분리(Separation/segregation)"라함은혼화할수없는물질(incompatible
+materials)을같은방(room)에두지않거나, 서로다른가스캐비닛에있는
+실린더에의해관리되는것을말한다.
+
+[Semantic Chunk 23]
+다만, 혼화할수없는물질을장벽
+(barrier)에의해분리하였거나, 별도의건물(공간)에보관하는것은제외한다.
+
+[Semantic Chunk 24]
+(2) 기타이지침에서사용하는용어의정의는특별한규정이있는경우를제외
+하고는『산업안전보건법』, 같은법시행령, 같은법시행규칙및『산업안전보
+건기준에관한규칙』에서정하는바에따른다.
+
+[Semantic Chunk 25]
+4.
+
+[Semantic Chunk 26]
+화학물질의분류
+(1) 이지침에사용되는화학물질의특성에따른분류에대한기호는
+<표1>
+과같다.
+
+[Semantic Chunk 27]
+KOSHA GUIDE
+P - 149 - 2016
+- 3 -
+(2) 화학물질의특성에관한정보는측정을통해얻거나MSDS 같은문헌으로
+부터구하여야한다.
+
+[Semantic Chunk 28]
+(3) 화학물질이<표1>에표시된하나이상의특성을가진다면하나이상의분
+류표시를하여야한다.
+
+[Semantic Chunk 29]
+(4) 두종류이상의화학물질혼합에따른특성은실험적으로결정하거나, ISO
+나KS 등에서채택된원리(방법)를사용하여추정하여야한다.
+
+[Semantic Chunk 30]
+(5) 반도체산업에서일반적으로사용되는화학물질의종류에따른분류는<표
+2>에나타내었다.
+
+[Semantic Chunk 31]
+구분내용
+기호
+인화성(flammable)
+F
+자연발화성(pyrophoric)
+P
+부식성(corrosive)
+C
+독성(toxic)
+T
+산화제(oxidizer)
+O
+불활성(inert)
+I
+자극성(irritant)
+IRR
+물반응성(water reactive)
+WR
+불안정또는반응성(unstable or reactive)
+UR
+그밖의건강위험성(other health hazard)
+OHH
+<표1> 화학물질특성에따른분류기호
+KOSHA GUIDE
+P - 149 - 2016
+- 4 -
+화학물질명
+CAS No.
+
+[Semantic Chunk 32]
+분류기호
+과불화프로판
+Perfluoropropane
+76-19-7
+I
+다이메틸아연
+Dimethyl zinc
+544-97-8
+C--P-UR-WR
+다이보레인
+Diborane
+19287-45-7
+T-IRR-P-WR
+다이에틸아연
+Diethyl zinc
+557-20-0
+C-P-UR-WR
+다이클로로다이플루오로메테인
+Dichlorodifluoromethane
+75-71-8
+I
+디클로로실란
+Dichlorosilane
+4109-96-0
+C-P-T-WR
+비소펜타플루오라이드
+Arsenic pentafluoride
+7784-36-3
+C-T-OHH-WR
+사염화탄소, 카본
+테트라클로라
+이드
+Carbon tetrachloride
+56-23-5
+OHH
+삼불화붕소
+Boron trifluoride
+7637-07-02
+C-T-WR
+삼염화붕소
+Boron trichloride
+10294-34-5
+C-WR
+아르곤, Argon
+7740-37-1
+I
+아르신, 비화수소
+Arsenic trihydride
+7784-42-1
+F-T-OHH
+암모니아, Ammonia
+7664-41-7
+C-F
+염소
+Chlorine
+7782-50-5
+C-O-T
+이산화탄소
+Carbon dioxide
+124-38-9
+I
+트라이클로로플루오로메탄
+Trichlorofluoromethane
+75-69-4
+I
+<표2> 화학물질종류에따른분류
+KOSHA GUIDE
+P - 149 - 2016
+- 5 -
+산소, Oxygen
+7782-44-7
+O
+실레인, Silane
+7803-62-5
+P
+실리콘테트라염화물, 사염화실
+리콘
+Silicon
+tetrachloride
+10026-04-7
+C-WR
+실리콘테트라풀루오라이드
+Silcon
+tetrafluoride
+7783-61-1
+C-T-WR
+오풀루오린화
+인,
+포스포러스
+펜타플루오라이드
+Phosphorous
+pentafluoride
+7647-19-0
+C-T-WR
+트라이메틸인듐
+Trimethyl
+indium
+3385-78-2
+P
+트라이에틸인듐
+Triethyl
+indium
+923-34-2
+P
+트리메틸갈륨
+Trimethyl
+gallium
+1445-79-0
+P
+트리메틸아르신
+Trimethyl
+arsine
+593-88-4
+F-T
+트리메틸안토모니
+Trimethyl
+antimony
+594-10-5
+F-T
+트리메틸알루미늄
+Trimethyl
+aluminum
+75-24-1
+P
+트리에틸아인산염,
+Trimethyl
+phosphine
+122-52-1
+F-T
+트리에틸알루미늄
+Triethyl
+aluminum
+97-93-8
+P
+트리클로로실레인
+Trichlorosilane
+10025-78-2
+C-F-UR
+포스핀, 포스파인
+Phosphine
+7803-51-2
+T-P
+헥사플루오르화
+텅스텐
+Tungsten
+hexafluoride
+7783-82-6
+C-TWR
+황화헥사플루오라이드
+Sulfur
+hexafluoride
+2551-62-4
+I
+KOSHA GUIDE
+P - 149 - 2016
+- 6 -
+5.
+
+[Semantic Chunk 33]
+실린더의분리․보관
+(1)
+불활성가스를제외하고, 각화학물질을별도의분리된캐비닛에보관하여
+야한다.
+
+[Semantic Chunk 34]
+(2) 화학물질이정확히같은분류기호를가지지않는다면서로다른가스캐비
+닛에보관하여야한다.
+
+[Semantic Chunk 35]
+(3) 불활성(I) 가스는다른화학물질과분리․보관하지않아도된다.
+
+[Semantic Chunk 36]
+(4) 자극성(IRR) 화학물질은자극성이없는화학물질과함께하나의가스캐비
+닛에보관할수있다.
+
+[Semantic Chunk 37]
+(5) 가스저장실내에분리조건은<표2>에따라각실린더를분리하여야한
+다.
+
+[Semantic Chunk 38]
+(6) 서로혼합할수없는물질은<표3>의화학물질의혼화성차트에따라혼
+합할수없는물질은저장캐비닛에실린더를분리․보관하여야한다.
+
+[Semantic Chunk 39]
+KOSHA GUIDE
+P - 149 - 2016
+- 7 -
+<표3> 화학물질의혼화성차트(compatibility chart)
+KOSHA GUIDE
+P - 149 - 2016
+- 8 -
+6.
+
+[Semantic Chunk 40]
+보관에관한일반사항
+(1) 캐비닛은불연성재료를사용하여야하며, 감시카메라를설치하여야한다.
+
+[Semantic Chunk 41]
+(2) 캐비닛은배기설비및정전기방지장치를갖추어야한다.
+
+[Semantic Chunk 42]
+(3) 가스상호간의반응을고려하여가스종류별로구분하여보관하고, 가스종류
+별물성에맞는적합한재료를선정해야한다.
+
+[Semantic Chunk 43]
+(4) 캐비닛은배관접속및기기사용시점검할수있는구조로하여야한다.
+
+[Semantic Chunk 44]
+(5) 캐비닛에보관하는용기는Cylinder bracket이나체인등으로전도방지장
+치를하여야한다.
+
+[Semantic Chunk 45]
+(6) 캐비닛의배기설비, 경보장치, 긴급차단장치및압력센서등은UPS전원이
+나비상전원장치에연동하여야한다.
+
+[Semantic Chunk 46]
+(7) 자연발화성, 인화성, 부식성및독성물질을수용하고있는가스실린더는자
+기-폐쇄식, 자기-잠금식문과퍼지설비를갖춘금속으로제작된캐비닛안
+에보관하여야한다.
+
+[Semantic Chunk 47]
+(8) 인화성, 부식성및독성가스를수용하고있는가스캐비닛기타방호구역
+내부의실린더의머리부분, 압력조절기및제어장치등과같은모든누설
+위험성이있는지점에최소0.51 m/sec 환기속도를제공하는환기설비를설
+치하여야한다. (9) 인화성, 부식성및독성가스를수용하고있는캐비닛에는가스감시설비를
+설치해야하고, 감시설비가작동시실린더의설치장소에서공정가스의흐름
+을자동으로차단해야하고, 비상제어설비에경보를발해야한다.
+
+[Semantic Chunk 48]
+(가) 인화성및독성가스의경우, 가스흐름자동차단장치는평상시에는닫
+혀있어야하고, 개방상태는공기압력으로유지되어야하며, 자동식실린
+더밸브(Automated Cylinder Valve; ACV)는실린더에위치되어있어
+야한다.
+
+[Semantic Chunk 49]
+KOSHA GUIDE
+P - 149 - 2016
+- 9 -
+(나) 기타가스의경우, 비상차단밸브(ESOV)는각실린더CGA (threaded
+outlet on gas cylinder valve body; 가스실린더밸브본체의나사체결
+식배출구) 연결부에가까이위치되어야한다.
+
+[Semantic Chunk 50]
+(다) ACV 및ESOV 원격수동작동장치는가스분배실및조립공정출구의
+외부에설치되어야한다.
+
+[Semantic Chunk 51]
+(10) 비상차단밸브는다음과같은모든조건에서또한자동적으로닫혀야한다.
+
+[Semantic Chunk 52]
+(가) 가스감시설비가작동되었을경우
+(나) 정전이16초이상지속되는경우
+(다) 캐비닛환기용기류가상실된경우
+(라) 캐비닛에설치되어있는화재감지기가작동되었을때
+(마) 과류방지스위치가작동되었을때
+(바) 지진이발생했을경우
+(11) 비상차단밸브와연결되어있는과류방지밸브또는과류방지스위치는모든
+공정가스실린더에설치되어야하고, 가능한한실린더연결부에가깝게위
+치되어야한다.
+
+[Semantic Chunk 53]
+(12) 압축및액화가스(실란, 아르신, 포스핀, 디보란, 수소, 메탄, 디실란, 수소
+화게르마늄, 셀렌화수소, 황화수소및수소화안티몬)를수용하고있는실린
+더에는유량제한오리피스(RFO)를실린더밸브본체에설치하여야한다.
+
+[Semantic Chunk 54]
+(13) 모든가스실린더캐비닛은수용되어있는가스의명칭과특정가스농도
+를표시한표지를부착해야하고, 캐비닛내부에있는모든가스배관과밸
+브는해당용도(즉, 공정, 퍼지또는배기)를표시한표지를부착하여야한
+다.
+
+[Semantic Chunk 55]
+(14) 가스실린더캐비닛에저장하는혼재가능한공정가스실린더는2개이하
+이어야하며, 이들가스실린더중단지하나만이공정배관에접속되어야
+한다.
+
+[Semantic Chunk 56]
+(15) 질소, 아르곤또는헬륨등과같은퍼지가스는중앙공급식보다는실린더
+로부터공급되어야한다.
+
+[Semantic Chunk 57]
+KOSHA GUIDE
+P - 149 - 2016
+- 10 -
+(16) LEL의25%를초과하는농도의인화성가스가가스실린더퍼지제어판의
+배기라인, 공정장치퍼지라인또는공정장치진공펌프배기관안에있는경
+우, 유출물처리설비를설치하여야한다.
+
+[Semantic Chunk 58]
+(17) 실란저장용실린더의재질은스틸이나알루미늄이어야하며가스실린더
+에서화재가발생시인접한실란실린더에화염의영향을방지하기위해서
+이러한구역을나타내도록실란실린더사이에스틸칸막이를설치하여야
+한다.
+

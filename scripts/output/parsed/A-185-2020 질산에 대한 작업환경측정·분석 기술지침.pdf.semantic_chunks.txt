@@ -1,0 +1,946 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+A - 185 - 2020
+질산에대한
+작업환경측정․분석기술지침
+2020.
+
+[Semantic Chunk 2]
+10.
+
+[Semantic Chunk 3]
+한국산업안전보건공단
+안전보건기술지침의개요
+○작성자: 산업환경보건연구소, 작업환경측정기관협의회
+○제·개정경과
+- 2020년9월산업위생분야표준제정위원회심의(제정)
+○관련규격및자료
+- National Institute for Occupational Safety and Health, NIOSH Manual of
+Analytical methods (NMAM), 5th ed, www.cdc.gov/niosh/nmam
+- Occupational Safety and Health Administration (U.S.A), Sampling and
+Analytical method, www.osha.gov/dts/sltc/methods/index.html
+- Health and Safety Executive (U.K.), Methods for the Determination of
+Hazardous Substances (MDHS) guidance, www.hse.gov.uk/pubns/mdhs/
+- American Conference of Governmental Industrial Hygienists(ACGIH):
+Doc㎛entation of the Threshold Limit Values and Biological Exposure
+Indices, 7th Ed, 2019.
+
+[Semantic Chunk 4]
+○관련법규․규칙․고시등
+- 산업안전보건법시행규칙제186조(작업환경측정대상작업장등)
+- 고용노동부고시제2020-44호(작업환경측정및정도관리등에관한고시)
+- 고용노동부고시제2020-48호(화학물질및물리적인자의노출기준)
+○기술지침의적용및문의
+- 이기술지침에대한의견또는문의는한국산업안전보건공단홈페이지(www.
+
+[Semantic Chunk 5]
+kosha.or.kr)의안전보건기술지침소관분야별문의처안내를참고하시기바랍니다.
+
+[Semantic Chunk 6]
+- 동지침내에서인용된관련규격및자료, 법규등에관하여최근개정본이
+있을경우에는해당개정본의내용을참고하시기바랍니다.
+
+[Semantic Chunk 7]
+○공표일자: 2020년10월08일
+○제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+A- 185 -2020
+     
+- 1 -
+질산에대한작업환경측정․분석기술지침
+1.
+
+[Semantic Chunk 8]
+목적
+이지침은산업안전보건법시행규칙제186조(작업환경측정대상작업장등)의규정에
+따른작업환경측정대상유해인자중질산에대한측정및분석을수행할때정확성
+및정밀성을유지하기위하여필요한제반사항에대하여규정함을목적으로한다.
+
+[Semantic Chunk 9]
+2.
+
+[Semantic Chunk 10]
+적용범위
+이지침의적용대상은산업안전보건법시행규칙에서정한작업환경측정대상유해인
+자중질산(Nitric acid: 7697-37-2)의측정, 분석및이와관련된사항에한한다.
+
+[Semantic Chunk 11]
+3.
+
+[Semantic Chunk 12]
+용어의정의
+(1) 이지침에서사용하는용어의정의는다음의각호와같다.
+
+[Semantic Chunk 13]
+(가) “밀폐”라함은취급또는보관상태에서고형(固形)의이물(異物)이들어가지
+않도록한상태를말한다.
+
+[Semantic Chunk 14]
+(나) “밀봉”이라함은취급또는보관상태에서기체또는미생물이침입할염려가
+없는상태를말한다.
+
+[Semantic Chunk 15]
+(다) 중량을“정확하게단다.”라함은지시된수치의중량을그자릿수까지단다는
+것을의미한다.
+
+[Semantic Chunk 16]
+(라) “약”이란그무게또는부피에대하여± 10% 이상의차가있어서는안된다.
+
+[Semantic Chunk 17]
+(마) 시험조작중“즉시”라는용어는30초이내에표시된조작을하는것을말한다.
+
+[Semantic Chunk 18]
+(바) “검출한계”라함은주어진분석절차에따라합리적인확실성을가지고검출할
+수있는가장적은농도나양을의미한다.
+
+[Semantic Chunk 19]
+(사) “정량한계”라함은주어진신뢰수준에서정량할수있는분석대상물질의가장
+최소의양으로, 단지검출이아니라정밀도를가지고정량할수있는가장낮은
+농도를말한다.
+
+[Semantic Chunk 20]
+일반적으로검출한계의3배수준을의미한다.
+
+[Semantic Chunk 21]
+(아) “회수율”이라함은채취한유기화합물등의분석값을보정하는데필요한것으
+KOSHA GUIDE
+A- 185 -2020
+     
+- 2 -
+로, 시료채취매체와동일한재질의매체에첨가된양과분석량의비로표현된
+것을말한다.
+
+[Semantic Chunk 22]
+(2) 그밖에이지침에서사용하는용어의정의는이기준에서특별히규정하는경우
+를제외하고는산업안전보건법, 같은법시행령, 시행규칙, 산업안전보건기준에관
+한규칙및작업환경측정및지정측정기관평가등에관한고시(고용노동부고시
+제2020-44호)에서정하는바에따른다.
+
+[Semantic Chunk 23]
+4.
+
+[Semantic Chunk 24]
+일반사항
+(1) 이시험법에필요한어원, 분자식및화학명등은특별한언급이없는한(
+) 내
+에기재한다.
+
+[Semantic Chunk 25]
+(2) 원자량은국제순수및응용화학협회(IUPAC)에서제정한원자량표에따른다.
+
+[Semantic Chunk 26]
+분자
+량은소수점이하제2단위까지하고제3단위에서반올림한다.
+
+[Semantic Chunk 27]
+(3) 이시험법에규정한방법이분석화학적으로반드시최고의정밀도와정확도를갖
+는다고는할수없으며이시험방법이외의방법이라도동등이상의정확도와정
+밀도가있다고인정될때에는그방법을사용할수있다.
+
+[Semantic Chunk 28]
+(4) 이시험방법에표시한사항중회수율, 검출한계등은각조의조건으로시험하였을
+때얻을수있는값을참고하도록표시한것이므로실제로는그값이분석조건에
+따라달라질수있다.
+
+[Semantic Chunk 29]
+(5) 시료의시험, 바탕시험및표준액에대한일련의동일시험을행할때사용하는시
+약또는시액은동일롯트(LOT)로조제된것을사용한다.
+
+[Semantic Chunk 30]
+(6) 이시험법에사용하는유효숫자는따로규정이없는한한국산업규격KS Q 5002
+(데이터의통계적해석방법)에따른다.
+
+[Semantic Chunk 31]
+(7) 이시험법에규정하지않는사항에대해서는일반적인화학적상식에따르되이
+시험법에기재한방법중세부조작은시험의본질에영향을미치지않는범위내
+에서시험자가적당히변경조절할수있다.
+
+[Semantic Chunk 32]
+KOSHA GUIDE
+A- 185 -2020
+     
+- 3 -
+(8) 단위및기호: 길이, 넓이, 부피, 농도, 압력또는무게를나타내는단위및기호는
+아래표에따른다.
+
+[Semantic Chunk 33]
+여기에표시되어있지않은단위는한국산업규격KS A ISO
+80000-1(양및단위-제1부: 일반사항)에따른다.
+
+[Semantic Chunk 34]
+종류
+단위
+기호
+종류
+단위
+기호
+길이
+미터
+센티미터
+밀리미터
+마이크로미터
+나노미터
+m
+cm
+mm
+μm
+nm
+농도
+몰농도
+노르말농도
+밀리그램/리터
+마이크로그램/밀리리터
+퍼센트
+M
+N
+mg/L
+μg/mL
+%
+압력
+기압
+수은주밀리미터
+수주밀리미터
+atm
+mmHg
+mmH2O
+부피
+세제곱미터
+세제곱센티미터
+세제곱밀리미터
+m3
+cm3
+mm3
+넓이
+제곱미터
+제곱센티미터
+제곱밀리미터
+m2
+cm2
+mm2
+무게
+킬로그램
+그램
+밀리그램
+마이크로그램
+kg
+g
+mg
+μg
+용량
+리터
+밀리리터
+마이크로리터
+L
+mL
+μL
+(9) 온도
+(가) 온도의표시는셀시우스(Celsius) 법에따라아라비아숫자오른쪽에℃를붙인
+다.
+
+[Semantic Chunk 35]
+절대온도는K로표시하고절대온도0 K는-273℃로한다. (나) 상온은15～25℃, 실온은1～35℃, 미온은30～40℃로한다.
+
+[Semantic Chunk 36]
+냉소는따로규정이
+없는한15℃이하의곳을뜻한다.
+
+[Semantic Chunk 37]
+(10) 농도
+(가) 액체단위부피중의성분질량또는기체단위부피중의성분질량을표시할때에
+는중량/부피(w/v)%의기호를사용한다. 액체단위부피중의성분용량, 기체단
+위부피중의성분용량을표시할때에는부피/부피(v/v)%의기호를사용한다.
+
+[Semantic Chunk 38]
+백만분의용량비를표시할때는ppm(part per million)의기호를사용한다.
+
+[Semantic Chunk 39]
+(나)
+공기
+중의
+농도를
+mg/㎥으로
+표시했을
+때의
+㎥은
+정상상태(NTP,
+Normal
+Temperature and Pressure : 25℃, 1기압)의기체용적을뜻한다.
+
+[Semantic Chunk 40]
+따라서노출기
+KOSHA GUIDE
+A- 185 -2020
+     
+- 4 -
+준과비교시는작업환경측정시의온도와압력을실측하여정상상태의농도
+로환산하여야한다.
+
+[Semantic Chunk 41]
+(11) 시약, 표준물질
+(가) 분석에사용되는시약은따로규정이없는한화학용시약에규정된일급이상
+의것을사용하여야한다.
+
+[Semantic Chunk 42]
+분석에사용하는시약은제조회사에서표시하는농도
+함량을따른다.
+
+[Semantic Chunk 43]
+(나) 광도법, 전기화학적분석법, 크로마토그래피법, 고성능액체크로마토그래피법에쓰
+이는시약은특히순도에주의해야하고, 분석에영향을미치는불순물을함유
+할염려가있을때는미리검정하여야한다.
+
+[Semantic Chunk 44]
+(다) 분석에사용하는지시약은특이한것을제외하고는한국산업규격KS M 0015
+(화학분석용지시약조제방법)에규정된지시약을사용한다.
+
+[Semantic Chunk 45]
+(라) 시험에사용하는표준품은원칙적으로특급시약을사용하며, 표준용액을조제하
+기위한표준용시약은따로규정이없는한적절히보관되어오염및변질이
+안된상태로보존된것을사용한다.
+
+[Semantic Chunk 46]
+(12) 측정․분석방법에사용하는증류수는따로규정이없는한정제증류수또는이
+온교환수지로정제한탈염수(脫鹽水)를말한다.
+
+[Semantic Chunk 47]
+(13) 기구
+(가) 계량기구중측정값을분석결과의계산에사용할목적으로사용되는것은모두
+보정하는것을원칙으로한다.
+
+[Semantic Chunk 48]
+(나) 중량분석용저울은적어도10-5 g(0.01 mg)까지칭량할수있어야하며, 화학
+분석용저울은적어도10-4 g(0.1 mg)까지칭량할수있어야하며, 국가검정을
+필한제품또는이에준하는검정을필한제품이어야한다.
+
+[Semantic Chunk 49]
+(다) 이시험법에서사용하는모든유리기구는한국산업규격KS L 2302(이화학용
+유리기구의모양및치수)에적합한것또는이와동등이상의규격에적합한
+것으로국가에서지정한기관에서검정을필한것을사용하여야한다.
+
+[Semantic Chunk 50]
+(라) 여과용기구및기기는특별한언급이없이“여과한다”라고하는것은한국산업
+규격KS M 7602(거름종이(화학분석용)) 거름종이5종또는이와동등한여과
+지를사용하여여과함을말한다.
+
+[Semantic Chunk 51]
+KOSHA GUIDE
+A- 185 -2020
+     
+- 5 -
+5.
+
+[Semantic Chunk 52]
+시료채취및분석시고려사항
+(1) 시료채취기구및측정방법의선택
+시료채취의목적과시료채취시간, 방해인자, 예상되는오염농도및실험실에서보
+유하고있는분석장비의능력등을종합적으로고려하여최적의시료채취기구및
+분석방법을선택한다.
+
+[Semantic Chunk 53]
+(2) 검량선작성을위한표준용액제조
+(가) 대상물질의특성파악
+분석하고자하는물질의표준용액을만들원액(시약)의순도와특성(분자량, 비
+중, 노출기준)을파악한다.
+
+[Semantic Chunk 54]
+(나) 채취시료의예상농도의0.1∼2배수준에서각분석대상물질의양을결정한다.
+
+[Semantic Chunk 55]
+(다) 표준용액제조방법의결정
+일반적으로표준용액제조시표준원액(stock solution)을단계적으로희석시키
+는방법(희석식)과표준원액에서일정량씩줄여가면서만드는방법(배치식)이
+있다.
+
+[Semantic Chunk 56]
+희석식은만들기가수월한반면표준원액이잘못되면계통오차를줄수
+있고배치식은여러검량선작성용용액중몇개가잘못되더라도이를보정
+할수가있으나만들기가어려운단점이있다.
+
+[Semantic Chunk 57]
+(라) 표준용액의제조
+충분한수의표준용액을준비한다. 일반적으로분석하고자하는농도를포함한
+최소한5개수준의표준용액을제조한다.
+
+[Semantic Chunk 58]
+(마) 검량선의작성시주의점
+①표준원액으로사용될원액의순도, 제조일자, 유효기간등을잘파악해야한다.
+
+[Semantic Chunk 59]
+②표준용액, 회수율등에사용되는시약은같은롯트(Lot)번호를가진것을사용하
+여야한다.
+
+[Semantic Chunk 60]
+③검량선은시료분석조건과주입방법에따라작성하고검량선이적정하다고판정
+하면시료를분석한다.
+
+[Semantic Chunk 61]
+검량선은분석할시료의농도를포함해야하며외삽
+(extrapolation) 법은피한다.
+
+[Semantic Chunk 62]
+검량선의적정성은제시된분석기기의매뉴얼을참
+조하거나상관계수가0.99이상의것을사용하도록한다.
+
+[Semantic Chunk 63]
+(3) 회수율검정을위한시료제조및회수율계산방법
+회수율은여과지를이용하여채취한물질의분석값을보정하는데필요한것으로
+채취에사용하지않은동일한여과지에첨가된양과분석량의비로표현된값을
+말한다.
+
+[Semantic Chunk 64]
+이실험을통하여여과지의오염, 시약의오염, 여과지에대한시료채취효
+율등을알수있다.
+
+[Semantic Chunk 65]
+시료배치당최소한한번씩은행해야한다.
+
+[Semantic Chunk 66]
+KOSHA GUIDE
+A- 185 -2020
+     
+- 6 -
+(가) 회수율실험을위한첨가량을결정한다.
+
+[Semantic Chunk 67]
+작업장의농도를포함하도록예상되는
+농도(mg/m3)와공기채취량(L)에따라첨가량을계산한다.
+
+[Semantic Chunk 68]
+만일작업장의예상
+농도를모를경우첨가량은노출기준과공기채취량240 L를기준으로계산한
+다.
+
+[Semantic Chunk 69]
+계산된첨가량3개농도수준(0.5∼2배)의양을반복적으로3개(3수준× 3반
+복= 9개) 주입할여과지와공시료3개를준비한다.
+
+[Semantic Chunk 70]
+(나) 분석대상물질의원액또는희석액일정량을마이크로피펫또는마이크로시린지
+를이용하여여과지에주입한다.
+
+[Semantic Chunk 71]
+(다) 여과지를밀봉하고하루동안상온에놓아둔다.
+
+[Semantic Chunk 72]
+(라) 여과지를바이알에넣고추출용액으로추출한다.
+
+[Semantic Chunk 73]
+(마) 시료를분석하여검출량을구한다.
+
+[Semantic Chunk 74]
+(바) 다음식에의해회수율을구한다.
+
+[Semantic Chunk 75]
+회수율= 분석량/ 첨가량
+(사) 회수율은최소한0.75 이상이되어야하나0.90 이상이면좋다.
+
+[Semantic Chunk 76]
+회수율에대한
+평가는분석자가해야한다.
+
+[Semantic Chunk 77]
+즉12개의회수율실험결과를근거로판단해야할
+사항은회수율간의일정성이다.
+
+[Semantic Chunk 78]
+만일회수율간의차이가크고변이가심하여일
+정성이없으면정확한보정이될수가없다.
+
+[Semantic Chunk 79]
+따라서그원인을찾아교정하고
+다시실험을실시해야한다.
+
+[Semantic Chunk 80]
+- 7 -
+분자식:
+HNO3
+화학식:
+HNO3
+분자량:
+63.01
+CAS No.
+
+[Semantic Chunk 81]
+:
+7697-37-2
+녹는점:
+-42℃
+끓는점:
+121℃
+비
+중:
+1.50
+용해도:
+물에잘녹음.
+
+[Semantic Chunk 82]
+특징, 발생원및용도:
+- 무색의발연성액체.
+
+[Semantic Chunk 83]
+눈, 피부및호흡기계통에자극성이있는물질.
+
+[Semantic Chunk 84]
+- 무기및유기질산염, 질산에스테르또는니트로화합물의합성에쓰임.
+
+[Semantic Chunk 85]
+노출기준
+고용노동부
+(ppm)
+2,(TWA), 4(STEL)
+OSHA
+(ppm)
+2(Ceiling),
+ACGIH
+(ppm)
+2,(TWA), 4(STEL)
+NIOSH
+(ppm)
+2(TWA), 4(STEL)
+동의어:
+azotic acid, hydrogen nitrate, nitryl hydroxide
+분석원리및적용성: 작업환경중의대상물질을여과지에채취하여추출용액으로추출한후일정량
+을이온크로마토그래프(Ion Chromatograph)에주입하여정량한다.
+
+[Semantic Chunk 86]
+시료채취개요
+분석개요
+§
+시료채취매체: 분리막이중간에들어있는일련
+의2개여과지
+(1) Pre-filter : 37 mm quartz fiber filter
+(2) Sampling filter : 1M Na2CO3 500 μL를주
+입한37 mm quartz fiber filter
+§
+유량: 1∼2 L/min
+§
+공기량- 최대: 600 L
+- 최소: 30 L
+§
+운반: 시료채취후홀더의마개를막은후
+냉장보관하여운반
+§
+시료의안정성: 20℃에서1주일간안정.
+
+[Semantic Chunk 87]
+4℃에서28일간안정함.
+
+[Semantic Chunk 88]
+§
+공시료: 총시료수의10% 이상또는시료세트
+당최소3개의현장공시료
+§
+분석기술: 이온크로마토그래피법, 전도도검출기
+§
+분석대상물질: Nitrate(NO3
+-) ion
+§
+전처리: 3.1 mM Na2CO3 / 0.35 mM NaHCO3
+수용액으로추출
+§
+컬럼:
+음이온분석용컬럼
+§
+범위: 0.4∼4 mg/mL
+§
+검출한계: 0.003 mg/sample 또는
+0.0012 mg/m3 (240 L air volume)
+§
+정밀도: 0.01
+방해작용및조치
+정확도및정밀도
+§
+무기산은프리필터에서함께포집된입자상물
+질과반응하여낮은분석결과를나타낼수있
+음.
+
+[Semantic Chunk 89]
+프리필터에의해제거된입자상염화물과
+질산염은샘플링필터에포집된질산과염산을
+유리시켜높은분석결과를나타낼수있음.
+
+[Semantic Chunk 90]
+§
+연구범위(range studied): 0.04∼1.5 mg/sample
+§
+편향(bias): -
+§
+총정밀도(overall precision): 0.07
+§
+정확도(accuracy): <14%
+§
+시료채취분석오차: 0.228
+질산(Nitric acid)
+                                                                            
+- 8 -
+시약
+기구
+§
+증류수
+§
+Sodium carbonate(Na2CO3), 시약등급
+§
+Sodium hydrogen carbonate(NaHCO3), 시약등
+급
+§
+추출·용리액
+원액:
+0.62
+M
+Na2CO3/0.069
+M
+NaHCO3는200 mL 용량플라스크에50 mL 증
+류수를
+넣고
+13.14
+g
+Na2CO3와
+1.15
+g
+NaHCO3를
+넣고혼합후증류수로표선을맞
+춘다.
+
+[Semantic Chunk 91]
+§
+추출·용리액: 3.1 mM Na2CO3/0.35mM NaHCO3
+는0.62 M Na2CO3/0.069 M NaHCO3 추출・용
+리액원액10 mL를2 L 용량플라스크에넣고
+증류수로표선을맞춘다.
+
+[Semantic Chunk 92]
+§
+Nitrate(NO3
+-) ion 표준용액1000 mg/L
+§
+검량선표준원액100 mg/L: nitrate ion 표준용
+액10 mL를100 mL 용량플라스크에넣고표
+선까지용리액을넣어희석한다.
+
+[Semantic Chunk 93]
+§
+1 M 탄산나트륨용액: 100 mL 용량플라스크
+에10.6 g Na2CO3 를넣고표선을맞춘다
+§
+채취여과지제조: 1M 탄산나트륨용액500 μL
+를37mm 석영섬유필터에균일하게가하고6시
+간동안건조기에서건조한다(14일간안정).
+
+[Semantic Chunk 94]
+§
+시료채취매체: 분리막이삽입된2개의여과지
+(1) Pre-filter : 37 mm quartz fiber filter
+(2) Sampling filter : 1M Na2CO3 500 ul
+impregnated 37 mm quartz fiber filter
+§
+Spacers: 37 mm polypropylene등불활성물질
+로제조된분리막
+§
+개인시료채취펌프, 유량1∼5 L/min
+§
+이온크로마토그래피, 전도도검출기
+§
+컬럼: pre-컬럼(50 mm, 4.0 mm), 음이온교환
+컬럼(250 mm, 4.0 mm), 써프레서(4 mm)
+§
+초음파세척기
+§
+플라스틱용기
+§
+용량플라스크
+§
+피펫
+§
+비커
+§
+폴리에틸렌용기
+§
+플라스틱주사기
+§
+실린지필터(공극0.8 μm, PTFE 멤브레인)
+§
+마이크로주사기
+§
+PTFE로코팅된핀셋
+§
+오토샘플러바이알
+§
+전자저울, 0.01 mg까지측정가능한것
+§
+특별안전보건예방조치: 산을취급할때는보호장갑, 실험복및보안경을착용하고모든작업은
+적절한환기와함께수행해야한다.
+
+[Semantic Chunk 95]
+격렬한발열반응을피하기위해물에산을첨가해야한다.
+
+[Semantic Chunk 96]
+I.
+
+[Semantic Chunk 97]
+시료채취
+1.
+
+[Semantic Chunk 98]
+시료를포집하기전에시료공기가pre-filter, 분리막, sampling filter의순서로통과하도록여과지
+들을카세트내에장착한다.
+
+[Semantic Chunk 99]
+※
+중간
+링이있는
+3단폴리스티렌
+카세트가적당하고.
+
+[Semantic Chunk 100]
+시료채취
+전데시케이터에저장된
+sampling filter는최대14일까지사용이가능하다.
+
+[Semantic Chunk 101]
+※ 실리카겔흡착튜브를sampling filter 대신사용하여시료채취가가능하며, 이때프리필터는흡
+착튜브앞에연결한다.
+
+[Semantic Chunk 102]
+2.
+
+[Semantic Chunk 103]
+각개인시료채취펌프를하나의대표적인시료채취매체와연결하여보정한다.
+
+[Semantic Chunk 104]
+3.
+
+[Semantic Chunk 105]
+1∼2 L/min의유량으로총30∼500 L의공기를채취한다.
+
+[Semantic Chunk 106]
+4.
+
+[Semantic Chunk 107]
+필터의오염과손상이없도록안전한방법으로시료를실험실로운반한다.
+
+[Semantic Chunk 108]
+5.
+
+[Semantic Chunk 109]
+시료세트당최소2개의현장공시료로sampling filter와같은롯트로준비하고채취한시료와
+동일한방식으로처리한다.
+
+[Semantic Chunk 110]
+6.
+
+[Semantic Chunk 111]
+모든시료는절차에따라실험실로보낸다.
+
+[Semantic Chunk 112]
+- 9 -
+7.
+
+[Semantic Chunk 113]
+시료는1주일동안실온에서저장될수있으며, 더오래보관하려면냉장(4℃) 보관한다.
+
+[Semantic Chunk 114]
+8.
+
+[Semantic Chunk 115]
+시료는4일에서4주이내분석한다.
+
+[Semantic Chunk 116]
+II.
+
+[Semantic Chunk 117]
+시료전처리
+9.
+
+[Semantic Chunk 118]
+Sampling filter를용해하기전에최소4일동안질산손실을피하기위해보관한다.
+
+[Semantic Chunk 119]
+10.
+
+[Semantic Chunk 120]
+프리필터를제거하고시료를꺼내서상온으로옮긴다.
+
+[Semantic Chunk 121]
+※ 포집된입자상의nitrates를분석하기위해서는pre-filter를별도로분석할수있으며, 이경우
+약간의증류수로샘플러의내부를씻어pre-filter와함께분석한다.
+
+[Semantic Chunk 122]
+11.
+
+[Semantic Chunk 123]
+Sampling filter를15 mL 플라스틱스크류캡용기에넣은후10 mL의증류수를가하고용기를
+막는다.
+
+[Semantic Chunk 124]
+12.
+
+[Semantic Chunk 125]
+초음파기로15분간초음파처리를하고약30분동안식힌다.
+
+[Semantic Chunk 126]
+13.
+
+[Semantic Chunk 127]
+PTFE등적정한재질의실린지여과지를이용하여각시료의추출용액을여과하여깨끗한플라스
+틱용기또는오토샘플러바이알에담는다.
+
+[Semantic Chunk 128]
+III.
+
+[Semantic Chunk 129]
+분석
+【검량선작성】
+14.
+
+[Semantic Chunk 130]
+용리액으로
+표준원액을희석하여적절한범위에서최소한5개의표준물질로검량선을작성한다.
+
+[Semantic Chunk 131]
+제조한표준용액은폴리에틸렌용기에넣고단단히밀폐시킨다.
+
+[Semantic Chunk 132]
+표준용액은매주새로운용액으로
+준비한다.
+
+[Semantic Chunk 133]
+15.
+
+[Semantic Chunk 134]
+이온의피크높이(mm 또는μS[micro siemens]) 또는피크면적대농도(mg/L)로이온크로마토
+그래피검량선을작성한다.
+
+[Semantic Chunk 135]
+16.
+
+[Semantic Chunk 136]
+시료, 시약공시료, 현장공시료등20개시료를분석할때마다최소3개의표준용액를같이분석
+한다.
+
+[Semantic Chunk 137]
+【분석과정】
+17.
+
+[Semantic Chunk 138]
+원하는용리액유량(예: 1.5 mL/분)과컬럼압력(예: 1.1 × 105 kPa) 및제조회사의권고에따라
+이온크로마토그래피를작동시키고기타조건을설정한다.
+
+[Semantic Chunk 139]
+18.
+
+[Semantic Chunk 140]
+시료의일부를분취하고(예를들어25 μL를크로마토그래프에주입한다), nitrate 이온피크의피
+크높이또는면적을측정한다.
+
+[Semantic Chunk 141]
+피크높이또는피크면적이검량선범위를초과하면용리액으로시
+료를희석하고재분석한후적절한희석계수를계산에적용한다.
+
+[Semantic Chunk 142]
+Ⅳ.
+
+[Semantic Chunk 143]
+계산
+19.
+
+[Semantic Chunk 144]
+다음식에의하여해당물질의농도를구한다.
+
+[Semantic Chunk 145]
+⎨
+
+
+⎬××
+
+
+                                                                            
+- 10 -
+C
+: 분석물질의농도(mg/m3)
+C0
+: 공시료에서음이온의평균농도(mg/L)
+C1
+: 시료에서음이온의농도(mg/L)
+V
+: 공기채취량(L)
+V0
+: 공시료용액의부피(mL)
+V1
+: 시료용액의부피(mL)
+Fd
+: 각시료테스트용액의희석계수
+Fc
+: 음이온에서산농도로전환하기위한변환계수(1.0163)
+24.45
+: 정상상태(25℃,1기압)에서의공기용적
+MW
+: 분자량
+Ⅴ.
+
+[Semantic Chunk 146]
+비고
+§
+이방법은NIOSH Method 7907 기초하였다.
+
+[Semantic Chunk 147]
+§
+다른방법은
+ISO 21438-2, OSHA Method ID-165SG 등이있다.
+
+[Semantic Chunk 148]
+§
+이방법은시료채취유량이높으므로더낮은검출및정량한계를제공할수있다.
+
+[Semantic Chunk 149]
+§
+건강영향및예방조치: 산은눈, 피부및호흡기계통에자극성, 부식성이있으므로직접접촉을피
+한다.
+
+[Semantic Chunk 150]
+보호장갑, 실험복및보안경을착용하고모든작업은흄후드안에서이루어져야한다.
+
+[Semantic Chunk 151]
+Ⅵ.
+
+[Semantic Chunk 152]
+참고문헌
+1.
+
+[Semantic Chunk 153]
+고용노동부고시제2020-48호, 화학물질및물리적인자의노출기준, 2020.
+
+[Semantic Chunk 154]
+2.
+
+[Semantic Chunk 155]
+고용노동부고시제2020-44호, 작업환경측정및정도관리등에관한고시, 2020.
+
+[Semantic Chunk 156]
+3.
+
+[Semantic Chunk 157]
+American
+Conference
+of
+Governmental
+Industrial
+Hygienists(ACGIH):
+Documentation
+of
+the
+Threshold Limit Values and Biological Exposure Indices, 2019.
+
+[Semantic Chunk 158]
+4.
+
+[Semantic Chunk 159]
+National Institute for Occupational Safety and Health(NIOSH): NIOSH pocket guide to chemical
+hazards and other databases.
+
+[Semantic Chunk 160]
+5.
+
+[Semantic Chunk 161]
+National Institute for Occupational Safety and Health(NIOSH): NIOSH Manual of Analytical
+Methods, Method 7907.
+

@@ -1,0 +1,992 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+P - 41 - 2015
+분진폭발방지를위한폭연방출구
+설치방법에관한기술지침
+2015.
+
+[Semantic Chunk 2]
+11
+한국산업안전보건공단
+안전보건기술지침의개요
+o 작성자: 유철진
+개정자: 산업안전보건연구원안전연구실최상원
+o 제․개정경과
+- 1999년4월화학안전분야기준제정위원회심의
+- 1999년5월총괄기준제정위원회심의
+- 2010년10월화학안전분야제정위원회심의(개정)
+- 2012년7월총괄제정위원회심의(개정, 법규개정조항반영)
+- 2015년11월화학안전분야제정위원회심의(개정)
+o 관련규격및규격
+- NFPA, “Explosion Protection by Deflagration Venting”, 2007.
+
+[Semantic Chunk 3]
+- 한국화재보험협회KFS 720 : 폭발벤팅기준
+- KOSHA Guide E-99-2013, “분진폭발위험장소설정에관한기술지침”
+o 기술지침의적용및문의
+-
+이
+기술지침에
+대한
+의견
+또는
+문의는
+한국산업안전보건공단
+홈페이지
+(www.kosha.or.kr)의안전보건기술지침소관분야별문의처안내를참고하시기
+바랍니다.
+
+[Semantic Chunk 4]
+- 동지침내에서인용된관련규격및자료, 법규등에관하여최근개정본이있을
+경우에는해당개정본의내용을참고하시기바랍니다.
+
+[Semantic Chunk 5]
+공표일자: 2015년12월7일
+제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+P - 41 - 2015
+- 1 -
+분진폭발방지를위한폭연방출구설치방법에관한기술지침
+1.
+
+[Semantic Chunk 6]
+목
+적
+이지침은가연성분진의폭발로인한피해를최소화하는데필요한폭연방출구의설치에
+필요한사항을제시하는데그목적이있다.
+
+[Semantic Chunk 7]
+2.
+
+[Semantic Chunk 8]
+적용범위
+(1) 이지침은밀폐공간내에서가연성분진의발화에의한폭발시에폭발압력을신속히
+설비외부로방출시켜주기위하여설치하는분진폭발압력방출구(이하“방출구”라한다)
+의설치방법에적용한다.
+
+[Semantic Chunk 9]
+(2) 다만폭주반응용비상벤트와압력용기및저장탱크등에설치된압력방출장치에는
+적용하지않는다.
+
+[Semantic Chunk 10]
+3.
+
+[Semantic Chunk 11]
+용어의정의
+(1) 이지침에서사용하는용어의정의는다음과같다.
+
+[Semantic Chunk 12]
+(가) “분진”이라함은직경500 ㎛이하의미세한고체상의분말을말한다.
+
+[Semantic Chunk 13]
+(나) “가연성분진”이라함은크기와모양과관계없이적절한비율로공기와혼합되거나
+기타산화물매개체와일정농도이상으로혼합되어화재나폭연의위험성을갖는
+가연성분말을말한다.
+
+[Semantic Chunk 14]
+(다) "폭연(Deflagration)"이라함은연소속도가음속보다느리게전파하는폭발을
+말한다.
+
+[Semantic Chunk 15]
+(라) “폭연지수(Deflagration Index, K)"이라함은밀폐공간(체적,V)내에서연소로인하여
+상승되는최고압력상승율( dP
+dt )max로부터계산되며, 가연성분진의폭연지수는
+Kst로나타낸다.
+
+[Semantic Chunk 16]
+KOSHA GUIDE
+P - 41 - 2015
+- 2 -
+(다) “밀폐공간(Enclosure)”이라함은전체가밀폐되거나또는부분적으로밀폐된공간(체적)을
+가진밀폐작업장, 용기, 탱크, 배관, 덕트등을말한다.
+
+[Semantic Chunk 17]
+이하“밀폐공간등”라한다.
+
+[Semantic Chunk 18]
+(라) “폭연방출구(Deflagration vent)”라함은폭연이발생시연소가스와압력을신속히
+밀폐공간등으로부터안전한외부로방출시키기위하여설치하는개방된통기문,
+페쇄된창문, 판넬등을말한다.
+
+[Semantic Chunk 19]
+(마) “복합혼합물(Hybrid mixture)”라함은가연성가스와가연성분진의혼합물을
+말한다.
+
+[Semantic Chunk 20]
+가연성가스는해당가스폭발하한계의10 % 이상으로포함한것을말한다.
+
+[Semantic Chunk 21]
+(바) “최대압력(Maximum pressure, Pmax)”라함은최적의혼합물이밀폐공간등에서
+폭연이발생한경우최대로상승할수있는압력을말한다.
+
+[Semantic Chunk 22]
+(사) “저감압력(Reduced pressure, Pred)”라함은폭연이방출되는동안방출설비내에
+상승될수있는최대압력을말한다.
+
+[Semantic Chunk 23]
+(아) “방출구개방압력(Static activation pressure, Pstat)”라함은압력이서서히(압력
+증가율이10 kPa/min 이하) 증가할때방출구뚜껑이열리는압력을말한다.
+
+[Semantic Chunk 24]
+(자) “저강도설비(Low strength enclosure)”라함은10 kPa(0.1 bar)이하의압력을
+견딜수있는밀폐공간등을말한다. (차) “고강도설비(High strength enclosure)”라함은10 kPa(0.1 bar)를초과하는압력을
+견딜수있는밀폐공간등을말한다.
+
+[Semantic Chunk 25]
+(2) 이지침에서사용하는용어의정의는특별한규정이있는경우를제외하고는산업
+안전보건법, 같은법시행령, 시행규칙및안전보건규칙에서정하는바에따른다.
+
+[Semantic Chunk 26]
+4.
+
+[Semantic Chunk 27]
+분진폭발에영향을주는인자
+4.1 입경및입자의분포
+(1) 입경이500 ㎛이상의입자라도설비중에서입자가부서져서분진이발생될수있다. (2) 입자의분포도또한폭발에영향을미치며500 ㎛이하의분진이30 % 이상존재하
+는경우에는폭발이발생할수있다.
+
+[Semantic Chunk 28]
+KOSHA GUIDE
+P - 41 - 2015
+- 3 -
+4.2 연소한계
+분진의연소하한계는분진의크기및분포에따라다르나대략20～60 g/㎥정도이다.
+
+[Semantic Chunk 29]
+4.3 최소점화에너지
+(1) 분진의최소점화에너지는분진의크기에따라다르나보통100 mJ 미만이다.
+
+[Semantic Chunk 30]
+(2) 최소점화에너지는시스템의온도와압력에따라영향을받는다.
+
+[Semantic Chunk 31]
+4.4 최대압력및최대압력상승율
+(1) 밀폐용기에서의분진폭발은급격한압력상승을초래한다. (2) 분진폭발의최대압력및최대압력상승율은분진의크기가작을수록증가한다.
+
+[Semantic Chunk 32]
+4.5 초기온도및압력
+(1) 분진폭발은밀폐공간내초기온도및압력에따라폭발압력이달라진다.
+
+[Semantic Chunk 33]
+(2) 주어진초기압력에서초기온도가상승하면최대압력상승률이감소된다. (3) 주어진초기온도에서초기압력이상승하면최대압력상승률이증가된다.
+
+[Semantic Chunk 34]
+4.6 습도및수분
+(1) 대기의습도는분진폭발에크게영향을주지않는다.
+
+[Semantic Chunk 35]
+(2) 분진의수분함량이많을수록발화온도를상승시킨다.
+
+[Semantic Chunk 36]
+4.7 불활성물질
+(1) 불활성분체는열흡수에의하여분진의연소능력을저하시키지만분진폭발을방지하기
+위해서는40～80 %를유지해야하기때문에적용이어렵다. (2) 불활성가스는산화제의농도를희석시키므로유용한분진폭발방지조치가될수있다.
+
+[Semantic Chunk 37]
+KOSHA GUIDE
+P - 41 - 2015
+- 4 -
+4.8 발화온도
+(1) 분진의발화온도는분진의입경, 모양과부유상태또는퇴적상태에따라다르다.
+
+[Semantic Chunk 38]
+(2) 부유상태의분진의경우에는열의손실이많아퇴적상태보다발화온도가높다. (3) 퇴적상태의분진은발화온도보다낮은온도에서열분해하여자연발화를할수있다.
+
+[Semantic Chunk 39]
+5.
+
+[Semantic Chunk 40]
+분진폭발에대한안전대책
+5.1 분진의퇴적방지
+(1) 일반적으로분진의퇴적층높이가6 mm 이상이면2차폭발의위험성이크다.
+
+[Semantic Chunk 41]
+(2) 작업장내의부유분진의영향으로가시거리가영향을받으면작업장내의분진은연소
+한계이내에있다고판단한다.
+
+[Semantic Chunk 42]
+(3) 분진이송은가능한한원통형덕트를사용하며, 수평면을피하고경사를유지한다.
+
+[Semantic Chunk 43]
+5.2 폭발의봉쇄
+내부의폭발압력에견딜수있도록장치를설계하는방법이다. 5.3 폭발압력의방출
+폭발압력을장치의설계압력이하에서외부로안전하게방출하는방법이다.
+
+[Semantic Chunk 44]
+5.4 불활성분위기조성
+분진이존재하는설비에불활성가스를봉입하여연소를위한최소산소농도이하로줄이는
+방법이다.
+
+[Semantic Chunk 45]
+5.5 폭발억제장치의설치
+(1) 압력파를감지하여자동적으로억제제를투입하는방법과불꽃감지에의한불꽃제압방법이
+있다.
+
+[Semantic Chunk 46]
+KOSHA GUIDE
+P - 41 - 2015
+- 5 -
+(2) 폭발억제장치를설치하는경우에는폭발압배출장치를병행하여설치하는것이일반적
+이다.
+
+[Semantic Chunk 47]
+5.6 소화설비
+(1) 소화설비설치의목적은화재억제및진압에있다.
+
+[Semantic Chunk 48]
+(2) 분진이항시존재하는백필터의경우에는스프링클러설비, 물분무설비등을설치한다.
+
+[Semantic Chunk 49]
+(3) 물을사용하는소화설비가설치된경우에는방사된물이적절하게배수될수있도록
+하여소화수집적에의한전도및타장치손상등을피하도록하여야한다.
+
+[Semantic Chunk 50]
+6.
+
+[Semantic Chunk 51]
+분진폭연방출구의설계시유의사항
+(1) 방출구의면적이클수록또한덮개가있는방출구보다개방형방출구가압력상승경감에
+효과적이다.
+
+[Semantic Chunk 52]
+(2) 방출구면적은가능한한균형이있고대칭적으로분포하여야한다.
+
+[Semantic Chunk 53]
+(3) 방출구의면적은폭발허용최대압력을미리설정한안전수준이하로제한할수있어야
+한다.
+
+[Semantic Chunk 54]
+(4) 시간이경과함에따른강도의변화, 내부하중, 부식, 외부손상등을고려하여야한다.
+
+[Semantic Chunk 55]
+(5) 배출되는물질로인한인명피해와재산손실을최소화하기위하여방출구는안전한
+위치에설치하여야한다.
+
+[Semantic Chunk 56]
+(6) 방출구의위치는가능한한설비상부에높이설치하고주위에장애물이없어야한다.
+
+[Semantic Chunk 57]
+다만분진집진기(백필터등)는중간이하또는하부에설치한다.
+
+[Semantic Chunk 58]
+(7) 방출구의주위에는경고할수있는적절한표지판을설치하여야한다.
+
+[Semantic Chunk 59]
+7.
+
+[Semantic Chunk 60]
+분진폭연방출구의설계방법
+7.1 설계변수
+KOSHA GUIDE
+P - 41 - 2015
+- 6 -
+(1) 폭연지수(K)는밀폐공간등(체적,V)에서연소시생성되는최고압력상승율로부터
+다음과같이계산된다.
+
+[Semantic Chunk 61]
+폭연지수와최대압력(Pmax)는방출구크기설계에활용된다.
+
+[Semantic Chunk 62]
+(가) 분진폭연지수(KST)를구하는식은<식1>과같다.
+
+[Semantic Chunk 63]
+K ST=( dP
+dt )
+max
+×V
+1
+3
+(식1)
+KST : 분진폭연지수[bar․m/sec]
+(dP/dt)max : 최고압력상승률(Maximum rate of pressure)[bar/sec]
+V : 밀폐공간등(용기) 체적[㎥]
+(나) 농산물, 탄소질분진, 금속또는화학물질분진의폭연지수는폭연지수와최대압력
+(Pmax)은적어도20L용량의원형압력용기내에서연소실험을통하여결정된다.
+
+[Semantic Chunk 64]
+각분진별특성치는<별표1>과같다.
+
+[Semantic Chunk 65]
+[1]
+(다) KST는<표1>과같이3개그룹으로나누어진다.
+
+[Semantic Chunk 66]
+<표1> 분진폭연위험등급의분류
+위험등급
+KST [bar․m/sec]
+Pmax[bar gauge]
+ST-1
+0초과200이하
+≤10
+ST-2
+200초과300이하
+≤10
+ST-3
+300 초과
+≤12
+<출처> NFPA 68, ASTM E 1226, Standard Test Method for Pressure and Rate
+of Pressure Rise for Combustible Dusts.
+
+[Semantic Chunk 67]
+(2) 저감압력(Pred)은취급밀폐공간등의극한강도(Ultimate stress, 변형이일어나지않는
+허용강도)의2/3를초과하지않아야한다. (3) 변형이허용되지않을경우에는저감압력(Pred)은취급밀폐공간등의항복응력
+(Yield strength)의2/3를초과하지말아야한다.
+
+[Semantic Chunk 68]
+(4) 밀폐공간등의설계는압력용기설계규정등을활용하며, 계산에의하여최고허용
+압력(Pmawp, Maximum allowable working pressure)으로설계한다.
+
+[Semantic Chunk 69]
+(가) 파열되지는않으나, 영구변형으로허용가능한밀폐공간등을위한Pred와Pmawp
+는<식2>으로나타냈다.
+
+[Semantic Chunk 70]
+KOSHA GUIDE
+P - 41 - 2015
+- 7 -
+Pred ≤( 2
+3 )∙Fu∙Pmawp
+(식2)
+(나) 영구변형으로도허용이가능하지않는밀폐공간등을위한Pred와Pmawp는<식3>
+으로나타냈다.
+
+[Semantic Chunk 71]
+Pred ≤( 2
+3 )∙Fy∙Pmawp
+(식3)
+Pred = 방출되는설비내의최대압력(bar)
+Fu = ASME압력용기설계기준에서용기의최고강도와용기의허용강도비율
+Pmawp = ASME압력용기설계기준에따른설비의설계압력(bar)
+Fy = ASME압력용기설계기준에서설비제작재료의허용강도와항복응력의비율
+(다) 주철과같이부서지기쉬운재질의경우에는특별한보강을하여야한다.
+
+[Semantic Chunk 72]
+보강조치를
+하지않을경우에는최고허용설계강도는극한강도의25 %를초과하지말아야한다.
+
+[Semantic Chunk 73]
+7.2 분진폭연방출구면적계산방법
+(1) 밀폐공간등의내부초기압력이0.2 barg 이하인경우최소방출면적은<식4>에
+따라계산한다.
+
+[Semantic Chunk 74]
+[2]
+Avo = 1×10-4.(1+1.54.
+
+[Semantic Chunk 75]
+Pstat
+4/3)KSt․V3/4․
+(식4)
+Avo = 최소방출구면적(㎡)
+Pstat = 방출구개방압력(bar)
+KST : 분진폭연지수[bar․m/sec]
+V : 밀폐공간등(용기) 체적[㎥]
+Pmax = 폭연의최대압력(bar)
+Pred = 방출되는설비내의최대압력(bar)
+(2) <식4>는다음각호의제한하에적용할수있으며, L/D가≤2이어야한다.
+
+[Semantic Chunk 76]
+여기서
+L은밀폐공간등의길이이며, D는직경이다.
+
+[Semantic Chunk 77]
+(가) 5 bar≤Pmax ≤12 bar
+(나) 10 bar-m/sec≤KSt ≤800 bar-m/sec
+(다) 0.1 m3 ≤V ≤10,000 m3
+(라) Pstat ≤.
+
+[Semantic Chunk 78]
+0.75 bar
+KOSHA GUIDE
+P - 41 - 2015
+- 8 -
+(마) Vaxial, Vtan ≤20m/sec
+여기서
+Vaxial = 밀폐공간내의축방향의공기흐름평균속도
+Vtan = 밀폐공간내의수직방향의공기흐름평균속도
+(3) (2) 조건하에서L/D가≥2인경우에는<식5>에따라계산한다.
+
+[Semantic Chunk 79]
+이식은사이로,
+호퍼등상부가넓은설비에사용이가능하고, L/D가≤8까지활용할수있다.
+
+[Semantic Chunk 80]
+[2]
+Av1 = Avo×[1+0.6( 
+-2)0.75×exp(-0.95×Pred
+2)]
+(식5)
+Av1 = L/D가≤2인경우의최소방출구면적(㎡)
+exp(A)=eA
+(4) <식5>를그래프를활용하여방출구최소면적구할수있다.
+
+[Semantic Chunk 81]
+그래프를활용한방출구
+면적을구하는방법은<부록1>과<부록2>에서와같다.
+
+[Semantic Chunk 82]
+(5) Vaxial 또는Vtan ≥20m/sec 인경우에는<식6>과같이계산한다.
+
+[Semantic Chunk 83]
+[3],[4]
+Av2 = Av1×[1+ 
+
+×0.7]
+(식6)
+max(A, B)는Vaxial 또는Vtan 중큰숫치를적용한다.
+
+[Semantic Chunk 84]
+(6) 분진취급작업장(건물)내에서분진폭발을방지하기위한방출구면적은<식7>에
+따라계산하다.
+
+[Semantic Chunk 85]
+[3],[4]
+Av2 = 1.7×Av1
+(식7)
+7.3 뚜껑의무게
+방출구뚜껑의무게는Kst가250 bar-m/sec이하인경우40 kg/m2 이하로한다.
+
+[Semantic Chunk 86]
+7.4 폭연방출구의시공상세
+분진폭연방출구의시공방법은KOSHA GUIDE에따른다.
+
+[Semantic Chunk 87]
+KOSHA GUIDE
+P - 41 - 2015
+- 9 -
+<별표1>
+각종가연성분진의특성치
+<별표1.
+
+[Semantic Chunk 88]
+a>
+농산물분진
+물질
+중간크기직경[㎛] 최소연소농도[g/㎥] Pmax [bar gauge] Kst [bar-m/sec]
+위험등급
+셀룰로우스
+33
+60
+9.7
+229
+2
+셀룰로우스, 펄프
+42
+30
+9.9
+62
+1
+코르크
+42
+30
+9.6
+202
+2
+옥수수
+28
+60
+9.4
+75
+1
+분유
+83
+60
+5.8
+28
+1
+콩
+20
+200
+9.2
+110
+1
+전분, 옥수수
+7
+-
+10.3
+202
+2
+전분, 쌀
+18
+60
+9.2
+101
+1
+전분, 밀
+22
+30
+9.9
+115
+1
+설탕
+30
+200
+8.5
+138
+1
+사탕수수
+29
+60
+8.2
+59
+1
+톱밥
+29
+-
+10.5
+205
+2
+<별표1. b>
+탄소질분진
+물질
+중간크기직경[㎛] 최소연소농도[g/㎥] Pmax [bar gauge] Kst [bar-m/sec]
+위험등급
+활성탄
+28
+60
+7.7
+14
+1
+목탄
+14
+60
+9.0
+10
+1
+유연탄
+24
+60
+9.2
+129
+1
+석유코크스
+15
+125
+7.6
+47
+1
+갈탄
+32
+60
+10.0
+151
+1
+니탄
+-
+125
+84
+67
+1
+KOSHA GUIDE
+P - 41 - 2015
+- 10 -
+물질
+중간크기직경[㎛] 최소연소농도[g/㎥] Pmax [bar gauge] Kst [bar-m/sec]
+위험등급
+황
+20
+30
+6.8
+151
+1
+알루미늄
+29
+30
+12.4
+415
+3
+황동
+18
+750
+4.1
+31
+1
+카보닐철
+〈10
+125
+6.1
+111
+1
+마그네슘
+28
+30
+17.5
+508
+3
+아연
+10
+250
+6.7
+125
+1
+<별표1. c>
+화학물질분진
+물질
+중간크기직경[㎛] 최소연소농도[g/㎥] Pmax [bar gauge] Kst [bar-m/sec]
+위험등급
+아디핀산
+〈10
+60
+0.8
+97
+1
+안트라퀴논
+〈10
+-
+10.6
+364
+3
+아스코르빈산
+39
+60
+9.0
+111
+1
+초산칼슘
+92
+500
+5.2
+9
+1
+스테아린산칼슘
+12
+30
+9.1
+132
+1
+카복시메틸셀룰로우스
+24
+125
+9.2
+136
+1
+덱스트린
+41
+60
+8.8
+106
+1
+락토우스
+23
+60
+7.7
+81
+1
+스테아린산납
+12
+30
+9.2
+152
+1
+메틸셀룰로우스
+75
+60
+9.5
+134
+1
+포름알데히드
+23
+60
+9.9
+178
+1
+아스코르빈산나트륨
+23
+60
+8.4
+119
+1
+스테아린산나트륨
+22
+30
+8.8
+123
+1
+폴리아크릴마이드
+10
+250
+5.9
+12
+1
+폴리아크릴로니트릴
+25
+-
+8.5
+121
+1
+고밀도폴리에틸렌
+〈10
+30
+8.0
+156
+1
+폴리프로필렌
+25
+30
+8.4
+101
+1
+요소
+13
+60
+10.2
+136
+1
+폴리비닐아세테이트
+32
+30
+8.6
+119
+1
+폴리비닐알코올
+26
+60
+8.9
+128
+1
+폴리염화비닐
+107
+200
+7.6
+46
+1
+<별표1.
+
+[Semantic Chunk 89]
+d>
+금속분진
+<출처> NFPA 68, Explosion Protection by Deflagration Venting, 2007 Ed.
+
+[Semantic Chunk 90]
+PP 63에서PP 65까지
+KOSHA GUIDE
+P - 41 - 2015
+- 11 -
+<부록1>
+그래프에의한폭연방출구면적산출방법
+1.
+
+[Semantic Chunk 91]
+폭연방출구면적(Av)를본문<식5>를기반으로하여부록<그림1>부터부록<그림4>
+까지를활용하여Factor A․Factor B․Factor C․Factor D를구하여방출구면적을
+결정할수있다.
+
+[Semantic Chunk 92]
+폭연방출구면적(Av)은다음과같이각Factor의곱으로구한다. Av(m2)= Factor A․Factor B․Factor C․Factor D
+2.
+
+[Semantic Chunk 93]
+각Factor 결정방법
+2.1 Factor A 결정
+<그림1>에서의Factor A를구한다.
+
+[Semantic Chunk 94]
+X좌표Kst값에따라도표상의Pstat 선과만나는
+점에서Y좌표의Factor A를읽으면된다.
+
+[Semantic Chunk 95]
+2.2 Factor B 결정
+<그림2>에서Factor B를구한다.
+
+[Semantic Chunk 96]
+X좌표는밀폐공간등의체적이며, 체적과도표상의
+선과만나는점에서Y좌표의Factor B를읽으면된다.
+
+[Semantic Chunk 97]
+2.3 Factor C 결정
+<그림3>에서구한다.
+
+[Semantic Chunk 98]
+Factor C는Π = Pred/Pmax의비율이다.
+
+[Semantic Chunk 99]
+X좌표는계산된Π이며Π
+과도표상의선과만나는점에서Y좌표의Factor C를읽으면된다.
+
+[Semantic Chunk 100]
+2.4 Factor D 결정
+<그림4>에서구한다.
+
+[Semantic Chunk 101]
+<그림4.
+
+[Semantic Chunk 102]
+a>는X좌표Pred에따른적절한L/D와만나는점에서
+Y좌표Factor D를읽는다.
+
+[Semantic Chunk 103]
+<그림4.
+
+[Semantic Chunk 104]
+b.는X좌표L/D에따른적절한Pred를만나는점에
+서Y좌표Factor D를읽는다.
+
+[Semantic Chunk 105]
+KOSHA GUIDE
+P - 41 - 2015
+- 12 -
+<그림1.
+
+[Semantic Chunk 106]
+a> Factor A 결정(50≤Kst≤300)
+<그림1. b> Factor A 결정(300≤Kst)
+KOSHA GUIDE
+P - 41 - 2015
+- 13 -
+<그림2.
+
+[Semantic Chunk 107]
+a> Factor B 결정(0-10m3)
+<그림2. b> Factor B 결정(0-100m3)
+KOSHA GUIDE
+P - 41 - 2015
+- 14 -
+<그림2. c> Factor B 결정(100-1,000m3)
+<그림2. d> Factor B 결정(1,000-10,000m3)
+KOSHA GUIDE
+P - 41 - 2015
+- 15 -
+<그림3.
+
+[Semantic Chunk 108]
+a> Factor C 결정(Π≤0.05)
+<그림3. b> Factor C 결정(0.05≤Π≤0.2)
+KOSHA GUIDE
+P - 41 - 2015
+- 16 -
+<그림3. c> Factor C 결정(Π≥0.2)
+<그림4. a> Factor D 결정(선택1)
+<그림4.
+
+[Semantic Chunk 109]
+b> Factor D 결정(선택2)
+KOSHA GUIDE
+P - 41 - 2015
+- 17 -
+<출처>
+NPFA
+68,
+Explosion
+Protection
+by
+Deflagration
+Venting,
+2007
+Ed..
+PP70, PP71
+KOSHA GUIDE
+P - 41 - 2015
+- 18 -
+<부록2>
+그래프를활용한분진폭연방출구결정예
+[예제1] 석유화학공장에서중합프라스틱분체를다음과같이저장할경우해당용기
+에설치하여야할폭연방출구를그래프를활용하여결정하기로한다.
+
+[Semantic Chunk 110]
+①Pmax = 10 bar
+②Kst = 350 bar-m/sec
+③Pstat = 0.2 bar
+④Pred = 0.6 bar
+⑤V = 25 m3
+⑥L/D = 3.0
+[풀이]
+①<그림1>로부터Factor A는0.041
+②<그림2>로부터Factor B는11
+③Π = Pred/Pmax =0.6/10=0.06이므로
+<그림3>으로부터Factor C는4.0
+④<그림4>로부터Factor D는1.4
+⑤
+따라서
+필요한
+폭연방출구
+면적은
+Av(m2)=
+Factor
+A․Factor
+B․
+Factor C․ Factor D = 0.041×11×4.0×1.4 = 2.5m2 임.
+
+[Semantic Chunk 111]
+[예제2] 정밀화학원료공장에서마그네슘분체를다음과같이저장할경우해당용기
+에설치하여야할폭연방출구를그래프를활용하여결정하기로한다.
+
+[Semantic Chunk 112]
+①Pmax = 17.5 bar
+②Kst = 508 bar-m/sec
+③Pstat = 0.2 bar
+④Pred = 0.6 bar
+⑤V = 2 m3
+⑥L/D = 2.5
+[풀이]
+KOSHA GUIDE
+P - 41 - 2015
+- 19 -
+<부록참고문헌>
+1.
+
+[Semantic Chunk 113]
+ASTM E 1226, Standard Test Method for Pressure and Rate of Pressure
+Rise for Combustible Dusts.
+
+[Semantic Chunk 114]
+2.
+
+[Semantic Chunk 115]
+Ural, E. A.
+
+[Semantic Chunk 116]
+2005.
+
+[Semantic Chunk 117]
+"Dust Explosion Venting through Ducts."
+
+[Semantic Chunk 118]
+Proc.
+
+[Semantic Chunk 119]
+39th Annual
+Loss Prevention Symp., American Institute of Chemical Engineers, Atlanta, GA,
+April 10-14.
+
+[Semantic Chunk 120]
+3.
+
+[Semantic Chunk 121]
+Task Group report "Zalosh-Larger Vent Area Option, 3, Draft 2."
+
+[Semantic Chunk 122]
+4.
+
+[Semantic Chunk 123]
+Zalosh,
+R.
+G.,
+"New
+Dust
+Explosion
+Venting
+Design
+Requirements
+for
+Turbulent Operating Conditions," presented at 6th International Symposium on
+the Prevention and Mitigation of Industrial Explosions, Halifax, Nova Scotia,
+August 2006.
+
+[Semantic Chunk 124]
+①<그림1>로부터Factor A는0.06
+②<그림2>로부터Factor B는1.78
+③Π = Pred/Pmax =0.6/17.5=0.034이므로
+<그림3>으로부터Factor C는5.3
+④<그림4>로부터Factor D는1.28
+⑤
+따라서
+필요한
+폭연방출구
+면적은
+Av(m2)=
+Factor
+A․Factor
+B․Factor
+C․
+Factor D = 0.06×1.78×5.3×1.28 = 0.724m2 임.
+

@@ -1,0 +1,1122 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+A - 161 - 2016
+디젤입자상물질(원소탄소분석)에대한
+작업환경측정․분석기술지침
+2016.
+
+[Semantic Chunk 2]
+6
+한국산업안전보건공단
+안전보건기술지침의개요
+○작성자: 한국산업안전보건공단산업안전보건연구원이나루
+○제·개정경과
+2016년산업위생분야제정위원회심의(제정)
+○관련규격및자료
+- NIOSH [2016].
+
+[Semantic Chunk 3]
+Manual of Analytical Methods(NMAM).
+
+[Semantic Chunk 4]
+Diesel particulate matter
+(as elemental carbon) Method 5040, 5th Edition, NIOSH, Cincinnati, OH.
+
+[Semantic Chunk 5]
+DHHS
+(NIOSH) Publication
+- NIOSH [2016].
+
+[Semantic Chunk 6]
+Chapter DE: Monitoring of diesel particulate exhaust in the
+workplace,
+In
+O'Connor
+PF,
+Ashley
+K,
+ed,
+NIOSH
+Manual
+of
+Analytical
+Methods, 5th ed.
+
+[Semantic Chunk 7]
+Cincinnati, OH.
+
+[Semantic Chunk 8]
+US Department of Health and Human Sevices,
+Centers for Disease Control and Prevention, National Institute for Occupational
+Safety and Health, DHHS (NIOSH) Publication No.
+
+[Semantic Chunk 9]
+2014-151.
+
+[Semantic Chunk 10]
+- Birch ME and Cary RA[1996].
+
+[Semantic Chunk 11]
+Elemental Carbon-based Method for Monitoring
+Occupational
+Exposures
+to
+Particulate
+Diesel
+Exhaust
+Aerosol
+Sci
+Technol
+25:221-241.
+
+[Semantic Chunk 12]
+-
+66
+Fed.
+
+[Semantic Chunk 13]
+Reg.
+
+[Semantic Chunk 14]
+13
+[2001].
+
+[Semantic Chunk 15]
+Department
+of
+Labor,
+Mine
+Safety
+and
+Health
+Administration: Diesel particulate matter exposure of underground metal and
+nonmetal miners; final rule.
+
+[Semantic Chunk 16]
+(To be codified at 30 CFR Part 57).
+
+[Semantic Chunk 17]
+○관련법규․규칙․고시등
+해당사항없음
+○기술지침의적용및문의
+- 이 기술지침에 대한 의견 또는 문의는 한국산업안전보건공단 홈페이지
+     (www.kosha.or.kr)의 안전보건기술지침 소관분야별 문의처 안내를 참고하시기
+     바랍니다.
+
+[Semantic Chunk 18]
+- 동 지침 내에서 인용된 관련규격 및 자료, 법규 등에 관하여 최근 개정본이 있을
+     경우에는 해당 개정본의 내용을 참고하시기 바랍니다.
+
+[Semantic Chunk 19]
+○공표일자: 2016년6월30일
+○제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+A - 161 - 2016
+     
+- 1 -
+디젤입자상물질(원소탄소분석)에대한
+작업환경측정․분석기술지침
+1.
+
+[Semantic Chunk 20]
+목적
+이지침은공기중디젤입자상물질(원소탄소분석)에대한측정및분석을수행할때정
+확도및정밀도를유지하기위하여필요한제반사항에대하여규정함을목적으로한다.
+
+[Semantic Chunk 21]
+디젤입자상물질은현재산업안전보건법에서작업환경측정대상인자는아니지만, 국제암
+연구소(International Agency for Research on Cancer, IARC)에서인간에대한발암성
+물질로지정하여사회적으로관심이많은물질이다.
+
+[Semantic Chunk 22]
+따라서작업환경중에서디젤입자
+상물질에대한평가관리가필요하다.
+
+[Semantic Chunk 23]
+2.
+
+[Semantic Chunk 24]
+적용범위
+이지침의적용대상은작업환경공기중디젤입자상물질(원소탄소분석)의측정, 분석및
+이와관련된사항에한한다.
+
+[Semantic Chunk 25]
+3.
+
+[Semantic Chunk 26]
+용어의정의
+(1) 이지침에서사용하는용어의정의는다음의각호와같다
+(가) “밀폐”라함은취급또는보관상태에서고형(固形)의이물(異物)이들어가지않
+도록한상태를말한다.
+
+[Semantic Chunk 27]
+(나) “밀봉”이라함은취급또는보관상태에서기체또는미생물이침입할염려가
+없는상태를말한다.
+
+[Semantic Chunk 28]
+(다) 중량을“정확하게단다”라함은지시된수치의중량을그자릿수까지단다는
+것을의미한다.
+
+[Semantic Chunk 29]
+(라) “약”이란그무게또는부피에대하여± 10% 이상의차가있어서는안된다.
+
+[Semantic Chunk 30]
+(마) 시험조작중“즉시”라는용어는30초이내에표시된조작을하는것을말한다.
+
+[Semantic Chunk 31]
+(바) 시료의시험, 바탕시험및표준액에대한일련의동일시험을행할때사용하는
+시약또는시액은동일롯트(LOT)로조제된것을사용한다.
+
+[Semantic Chunk 32]
+(사) “검출한계”라함은주어진분석절차에따라합리적인확실성을가지고검출할
+수있는가장적은농도나양을의미한다.
+
+[Semantic Chunk 33]
+(아) “정량한계”라함은주어진신뢰수준에서정량할수있는분석대상물질의가장
+KOSHA GUIDE
+A - 161 - 2016
+     
+- 2 -
+최소의양으로, 단지검출이아니라정밀도를가지고정량할수있는가장낮은
+농도를말한다.
+
+[Semantic Chunk 34]
+일반적으로검출한계의3배수준을의미한다.
+
+[Semantic Chunk 35]
+(자) “탈착효율”이란채취한유기화합물등의분석값을보정하는데필요한것으로,
+시료채취매체와동일한흡착관에첨가된양과분석량의비로표현된것을말
+한다.
+
+[Semantic Chunk 36]
+(차) “회수율”이라함은채취한금속등의분석값을보정하는데필요한것으로, 시
+료채취매체와동일한재질의여과지에첨가된양과분석량의비로표현된것
+을말한다.
+
+[Semantic Chunk 37]
+(2) 그밖에이지침에서사용하는용어의정의는이기준에서특별히규정하는경우
+를제외하고는산업안전보건법, 같은법시행령, 시행규칙, 산업안전보건기준에관
+한규칙및작업환경측정및지정측정기관평가등에관한고시(고용노동부고시
+제2013-39호)에서정하는바에따른다.
+
+[Semantic Chunk 38]
+4.
+
+[Semantic Chunk 39]
+일반사항
+(1) 이시험법에필요한어원, 분자식및화학명등은특별한언급이없는한(
+)
+내에기재한다.
+
+[Semantic Chunk 40]
+(2) 원자량은국제순수및응용화학협회(IUPAC)에서제정한원자량표에따른다.
+
+[Semantic Chunk 41]
+분자량은소수점이하제2단위까지하고제3단위에서반올림한다.
+
+[Semantic Chunk 42]
+(3) 이시험법에규정한방법이분석화학적으로반드시최고의정밀도와정확도
+를갖는다고는할수없으며이시험방법이외의방법이라도동등이상의정확
+도와정밀도가있다고인정될때에는그방법을사용할수있다.
+
+[Semantic Chunk 43]
+(4) 이시험방법에표시한사항중회수율, 검출한계등은각조의조건으로시험하였
+을때얻을수있는값을참고하도록표시한것이므로실제로는그값이분석조
+건에따라달라질수있다.
+
+[Semantic Chunk 44]
+(5) 이시험법에사용하는수치의맺음법은따로규정이없는한한국산업규격KS Q
+5002(데이터의통계적해석방법)에따른다.
+
+[Semantic Chunk 45]
+(6) 이시험법에규정하지않는사항에대해서는일반적인화학적상식에따르되이
+시험법에기재한방법중세부조작은시험의본질에영향을미치지않는범위
+내에서시험자가적당히변경조절할수있다.
+
+[Semantic Chunk 46]
+(7) 단위및기호: 길이, 넓이, 부피, 농도, 압력또는무게를나타내는단위및기호
+는아래표에따른다.
+
+[Semantic Chunk 47]
+여기에표시되어있지않은단위는KS A ISO 80000-1(양
+및단위-제1부: 일반사항)에따른다.
+
+[Semantic Chunk 48]
+KOSHA GUIDE
+A - 161 - 2016
+     
+- 3 -
+종류
+단위
+기호
+종류
+단위
+기호
+길이
+미터
+센티미터
+밀리미터
+마이크로미터
+나노미터
+m
+㎝
+㎜
+㎛
+nm
+농도
+몰농도
+노르말농도
+밀리그램/리터
+마이크로그램/밀리리터
+퍼센트
+M
+N
+㎎/L
+㎍/mL
+%
+압력
+기압
+수은주밀리미터
+수주밀리미터
+atm
+㎜Hg
+㎜H2O
+부피
+세제곱미터
+세제곱센티미터
+세제곱밀리미터
+㎥
+㎤
+㎣
+넓이
+제곱미터
+제곱센티미터
+제곱밀리미터
+㎡
+㎠
+㎟
+무게
+킬로그램
+그램
+밀리그램
+마이크로그램
+㎏
+g
+㎎
+㎍
+용량
+리터
+밀리리터
+마이크로리터
+L
+mL
+μL
+(8) 온도
+(가) 온도의표시는셀시우스(Celsius) 법에따라아라비아숫자오른쪽에℃를붙인
+다.
+
+[Semantic Chunk 49]
+절대온도는K로표시하고절대온도0 K는-273℃로한다. (나) 상온은15～25℃, 실온은1～35℃, 미온은30～40℃로한다.
+
+[Semantic Chunk 50]
+냉소는따로규정
+이없는한15℃이하의곳을뜻한다.
+
+[Semantic Chunk 51]
+(9) 농도
+(가) 액체단위부피중의성분질량또는기체단위부피중의성분질량을표시할때에
+는중량/부피(w/v)%의기호를사용한다. 액체단위부피중의성분용량, 기체
+단위부피중의성분용량을표시할때에는부피/부피(v/v)%의기호를사용한
+다.
+
+[Semantic Chunk 52]
+백만분의용량비를표시할때는ppm(part per million)의기호를사용한다.
+
+[Semantic Chunk 53]
+(나)
+공기
+중의
+농도를
+㎎/㎥으로
+표시했을
+때의
+㎥은
+정상상태(NTP,
+Normal
+Temperature and Pressure : 25 ℃, 1기압)의기체용적을뜻한다.
+
+[Semantic Chunk 54]
+따라서노출
+기준과비교시는작업환경측정시의온도와압력을실측하여정상상태의농
+KOSHA GUIDE
+A - 161 - 2016
+     
+- 4 -
+도로환산하여야한다.
+
+[Semantic Chunk 55]
+(10) 시약, 표준물질
+(가) 분석에사용되는시약은따로규정이없는한화학용시약에규정된일급이상의
+것을사용하여야한다.
+
+[Semantic Chunk 56]
+분석에사용하는시약은제조회사에서표시하는농도
+함량을따른다.
+
+[Semantic Chunk 57]
+(나) 광도법,
+전기화학적분석법, 크로마토그래피법,
+고성능액체크로마토그래피법에
+쓰이는시약은특히순도에주의해야하고, 분석에영향을미치는불순물을
+함유할염려가있을때는미리검정하여야한다.
+
+[Semantic Chunk 58]
+(다) 분석에사용하는지시약은특이한것을제외하고는KS M 0015(화학분석용
+지시약조제방법)에규정된지시약을사용한다.
+
+[Semantic Chunk 59]
+(라) 시험에사용하는표준품은원칙적으로특급시약을사용하며, 표준용액을조제
+하기위한표준용시약은따로규정이없는한적절히보관되어오염및변질
+이안된상태로보존된것을사용한다.
+
+[Semantic Chunk 60]
+(11) 측정․분석방법에사용하는초순수는따로규정이없는한정제증류수또는
+이온교환수지로정제한탈염수(脫鹽水)를말한다.
+
+[Semantic Chunk 61]
+(12) 기구
+(가) 계량기구중측정값을분석결과의계산에사용할목적으로사용되는것은모두
+보정하는것을원칙으로한다.
+
+[Semantic Chunk 62]
+(나) 중량분석용저울은적어도10-5 g(0.01 ㎎)까지달수있어야하며, 화학분석용
+저울은적어도10-4 g(0.1 ㎎)까지달수있어야하며, 국가검정을필한제
+품또는이에준하는검정을필한제품이어야한다.
+
+[Semantic Chunk 63]
+(다) 이시험법에서사용하는모든유리기구는KS L 2302(이화학용유리기구의
+모양및치수)에적합한것또는이와동등이상의규격에적합한것으로국가
+에서지정한기관에서검정을필한것을사용하여야한다.
+
+[Semantic Chunk 64]
+(라)
+여과용
+기구
+및
+기기는
+특별한
+언급이
+없이
+“여과한다”라고
+하는
+것은
+KS M 7602(거름종이(화학분석용)) 거름종이5종또는이와동등한여과지를
+사용하여여과함을말한다.
+
+[Semantic Chunk 65]
+KOSHA GUIDE
+A - 161 - 2016
+     
+- 5 -
+5.
+
+[Semantic Chunk 66]
+시료채취및분석시고려사항
+(1) 시료채취기구및측정방법의선택
+시료채취의목적과시료채취시간, 방해인자, 예상되는오염농도및실험실에서보
+유하고있는분석장비의능력등을종합적으로고려하여최적의시료채취기구및
+분석방법을선택한다.
+
+[Semantic Chunk 67]
+(2) 검량선작성을위한표준용액제조
+(가) 열광학적분석기기를이용하여원소탄소를분석할때원소탄소농도는
+헬륨가스에혼합된5% 메탄가스를기준으로계산되어진다.
+
+[Semantic Chunk 68]
+760 torr,
+298K에서헬륨속5% 메탄혼합물은㎖당24,54 ㎍의탄소를포함하고
+있다.
+
+[Semantic Chunk 69]
+메탄/헬륨혼합가스는분석과정에서자동으로주입된다.
+
+[Semantic Chunk 70]
+(나) 검정용외부표준액제조
+①열광학적분석기기가올바르게작동하고있는지분석자가확인하기위해
+수크로스용액을이용한다. 수크로스4.207 ㎍C/㎕용액을제조한후에매
+분석마다이용액을분석하여농도결과로열광학적분석기기의적절한
+작동여부를판단한다.
+
+[Semantic Chunk 71]
+②수크로스용액은99.9% 이상의순도를가진수크로스(sucrose) 10.00 ±
+0.01 g을칭량하여1 리터의증류수로희석하면4.207 ㎍C/㎕
+용액이
+된다.
+
+[Semantic Chunk 72]
+이용액은6개월정도보관이가능하다.
+
+[Semantic Chunk 73]
+③석영필터1.5 ㎠를펀치하여제조한수크로스용액을시린지로주입한
+다.
+
+[Semantic Chunk 74]
+- 표준탄소저장액10 ㎕를주입하면42.07 ㎍C/㎕이됨
+④원소탄소농도가저농도일경우, 저농도용표준저장액을만든다
+- 표준탄소저장액을증류수로10배희석하면0.4207 ㎍C/㎕이됨
+- 저농도용표준저장액10 ㎕를필터에주입하면4.207 ㎍C/㎕이됨
+⑤분석전에30분동안필터를건조시킨다.
+
+[Semantic Chunk 75]
+- 6 -
+분자식:
+구조식:
+원자량:
+CAS No.
+
+[Semantic Chunk 76]
+:
+없음
+녹는점:
+끓는점:
+비
+중:
+용해도:
+특징및발생원:
+비휘발성고체, 다양한가스, 증기또는미립자의혼합물로구조가매우복잡함.
+
+[Semantic Chunk 77]
+연료의연소, 엔진작동, 유지및보수작업시에발생함.
+
+[Semantic Chunk 78]
+디젤연료자동차, 중장비
+등의배기가스에존재함.
+
+[Semantic Chunk 79]
+노출기준
+고용노동부
+(mg/㎥)
+-
+OSHA
+(mg/㎥)
+-
+ACGIH
+(mg/㎥)
+-
+NIOSH
+(mg/㎥)
+-
+동의어:
+diesel particulate matter, diesel exhaust, diesel soot, diesel emissions
+분석원리및적용성: 작업환경중대상입자상물질을전처리한석영필터에포집하여첫단계에
+서는헬륨가스를이용하여증기화시킨후유기탄소를분석하고, 두번째단계에서는헬륨/산소
+복합가스를이용하여원소탄소를태워메탄가스로전환시킨후, 불꽃이온화검출기(FID)로메탄
+을정량한다.
+
+[Semantic Chunk 80]
+시료채취개요
+분석개요
+§
+시료채취매체: 25-㎜혹은37-㎜전처리한
+석영필터; 석회석광산, 석탄광산등방해물질이
+고농도로존재하는곳에서는사이클론혹은임팩터
+사용할필요있음
+§
+유량: 2-4 L/min
+§
+공기량
+- 최소: 40 ㎍/㎥농도에서142 L
+- 최대: 19 ㎥(필터당90㎍/㎠까지)
+§
+운반: 일반적인방법
+§
+시료의안정성: 안정함
+§
+공시료: 시료세트당2-10개의현장공시료
+§
+분석기기: 열광학적분석기기; 불꽃이온화검출기
+(Thermal-optical analysis;
+Flame ionization detector(FID))
+§
+분석대상물질: 원소탄소(총탄소량이
+측정되나원소탄소를측정지표로제안함)
+§
+여과지펀치크기: 1.5 ㎠(혹은[1]참조)
+§
+보정(Calibration): 메탄주입
+§
+범위: 필터당1-105 ㎍([1]참조)
+§
+검출한계: 필터당0.3 ㎍
+§
+정밀도(): 1 ㎍C에서0.19 ,
+10-72 ㎍C에서0.01
+정확도
+§
+연구범위: 23–240 ㎍/㎥([1]참조)
+§
+편향: 없음([1]참조)
+§
+총정밀도(): 0.07
+§
+정확도: 23 ㎍/㎥에서±16.7%([1]참조)
+디젤입자상물질(원소탄소분석)
+(Diesel particulate matter as Elemental Carbon)
+- 7 -
+적용성
+방해작용
+§
+작업범위는대략6-630 ㎍/㎥이며37-㎜
+시료필터(1.5㎠크기로펀칭한)로960 L의
+공기를포집했을때를기준으로검출한계는2
+㎍/㎥임.
+
+[Semantic Chunk 81]
+§
+더낮은검출한계를원한다면25-㎜필터를
+사용하여더많은부피의시료를포집해야함.
+
+[Semantic Chunk 82]
+(예를들어25-㎜필터를사용하여1920 L의
+시료를포집한다면0.4 ㎍/㎥의검출한계얻을
+수있음)
+§
+원소탄소의부하가20 ㎍/㎠이상일때OC/EC
+비(split)가나타나지않을수있음.
+
+[Semantic Chunk 83]
+일부
+원소탄소가산화되기전까지시료의투과율이
+낮게유지되기때문에원소탄소의측정값이
+낮게나올수있음.
+
+[Semantic Chunk 84]
+이경우원소탄소
+최고점(EC peak) 전에OC/EC 비(split)를
+재조정해야함[2}.
+
+[Semantic Chunk 85]
+§
+원소탄소의최대측정량은800 ㎍/㎥(90 ㎍/㎠)
+임.
+
+[Semantic Chunk 86]
+검출한계근처의낮은원소탄소부하량은
+정확성향상을위한매뉴얼스필릿(manual
+split)을필요로함[1].
+
+[Semantic Chunk 87]
+§
+이방법으로전체탄소(유기, 무기탄소)를측정
+할수있으나유기탄소는방해작용요소가있
+기에원소탄소를작업환경노출지표로삼을것
+을권고함[1,2].
+
+[Semantic Chunk 88]
+§
+담배연기에는1% 미만의원소탄소가포함되어
+있기때문에담배연기, 카보네이트는원소탄소
+측정의방해요소가아님.
+
+[Semantic Chunk 89]
+시약
+§
+보정액:
+스쿠르스(sucrose)용액(0.1-3
+㎎C/㎖
+순도99.9% 이상)
+- 스쿠르스10.00 ± 0.01 g을칭량하여1 리터
+증류스로희석시키면4.207 ㎍C/㎕용액을만
+들수있음.
+
+[Semantic Chunk 90]
+n
+1차증류수이상용액
+§
+헬륨(He)가스(순도99.9% 이상); 산소를제거
+하기위해필요한스크러버
+§
+수소(H2) 가스(순도99.9% 이상); 실린더또는
+수소발생장치
+§
+적은양의탄화수소를포함한공기(Ultra Zero
+air)
+§
+10% 산소-헬륨혼합기체(초고압가스, 인증된
+혼합기체)
+§
+5% 메탄-헬륨혼합기체(초고압가스, 인증된
+혼합기체)
+기구
+§
+시료채취매체: 전처리된25 ㎜석영필터와필터지지체(스테인리스스크린, 셀룰로오스패드, 지지
+체로사용될추가석영필터등)가있는3-piece 카세트
+- 고순도, 고효능, 바인더프리(binder-free) 석영필터를사용.
+
+[Semantic Chunk 91]
+- 25-㎜석영필터는실험실에서자체세척해야함.
+
+[Semantic Chunk 92]
+필터를머플퍼니스(muffle furnace) 기준
+800-900℃에서1-2시간, 애쉬(Asher) 기준저온에서2-3시간동안세척해야함.
+
+[Semantic Chunk 93]
+※ 짧은세척시간이효과적이며전처리후에는필터의유기탄소잔여량을확인해야함.. 전처
+리직후필터의유기탄소양은0.1 ㎍/㎠이하여야함.
+
+[Semantic Chunk 94]
+세척된필터에는유기탄소가쉽게침
+착함.
+
+[Semantic Chunk 95]
+밀폐된저장고에보관한다하더라도몇주후에는그양이0.5㎍/㎠이상이될수있음.
+
+[Semantic Chunk 96]
+※ 셀룰로오스지지체는석영필터나스크린보다공시료에서유기탄소농도가더높음.
+
+[Semantic Chunk 97]
+이때
+문에석영필터로증기흡수를하여보정해야함.
+
+[Semantic Chunk 98]
+[1]
+- 37-㎜석영필터의경우전처리된필터가상용화되고있음.
+
+[Semantic Chunk 99]
+예)Pall Gelman science pallflex tissuequarts 2500QAt-UP)
+§
+유연성튜브가부착된개인시료채취펌프
+- 8 -
+I.
+
+[Semantic Chunk 100]
+시료채취
+1.
+
+[Semantic Chunk 101]
+시료채취매체와연결된개인시료채취펌프를보정한다.
+
+[Semantic Chunk 102]
+※ 개방형카세트, 밀폐형카세트둘다사용가능.
+
+[Semantic Chunk 103]
+일반적으로두가지방법모두균등하게침착물
+이분포함.
+
+[Semantic Chunk 104]
+밀폐형카세트에서고유량(4 L/분)으로시료채취시가끔여과지중앙에디젤입자상물
+질이나디젤입자가아닌물질로이루어진작은점이관측될수있으나다수의필터채취결과가
+양호하다면이는분석에크게영향을미치지않음.
+
+[Semantic Chunk 105]
+채취시료의일부분이전체면적의채취시료를
+대표하는표본이기때문에침착물은균등하게분포해야하며만약불균등하게분포시에는채취
+시료면적전체를분석해야함
+2.
+
+[Semantic Chunk 106]
+시료채취매체출구와개인시료채취펌프를유연한튜브로연결한다.
+
+[Semantic Chunk 107]
+3.
+
+[Semantic Chunk 108]
+2-4 L/분의정확한유량으로시료를채취한다(광산에서는과부하를예방하기위해채취유속을1 L/분
+의저유량으로해야함).
+
+[Semantic Chunk 109]
+4.
+
+[Semantic Chunk 110]
+시료채취가끝나면카세트상단을교체하거나제거한후밀봉하여실험실로운반한다.
+
+[Semantic Chunk 111]
+※ 시료필터는실험실환경에서안정적이며작업환경에서적정온도이상의온도상승위험이없을때
+에는냉장보관및운송할필요가없음.
+
+[Semantic Chunk 112]
+장기보관시담배연기와같이유기탄소를포함하는다른
+발생원이있을경우에는유기탄소의손실이발생할수있다.
+
+[Semantic Chunk 113]
+많은원소탄소가포집된시료(80%이
+상)라할지라도시료채취이후유기탄소입자의흡착은발생하지않음.
+
+[Semantic Chunk 114]
+II.
+
+[Semantic Chunk 115]
+시료전처리
+5.
+
+[Semantic Chunk 116]
+이소프로필알콜이나아세톤으로호일을세척하고잔여용액은휘발시킨뒤시료필터를호일표면에
+놓는다.
+
+[Semantic Chunk 117]
+침착물이떨어지지않도록조심하며손이닿지않도록시료필터일부분을펀칭한다.
+
+[Semantic Chunk 118]
+니들
+을사용하여펀칭된부분으로부터남은필터를떼어낸다.
+
+[Semantic Chunk 119]
+§
+열광학적분석기기(Thermal-optical analyzer)[1]
+§
+여과지의직사각형부분을떼어내기위한금속펀치
+§
+시린지10µL
+§
+알루미늄호일
+§
+니들
+§
+포셉
+§
+용량플라스크( A 등급)
+§
+화학천칭(저울)
+§
+특별예방조치: 수소는가연성기체이므로사용자는가연성, 비가연성기체를다루거나실린더, 제
+어기사용에있어적절한방법을숙지하여야함.
+
+[Semantic Chunk 120]
+장비의레이저는ClassⅠ으로정상적사용에있어
+서방사노출은없음.
+
+[Semantic Chunk 121]
+내부레이저광원(the internal laser source)은ClassⅢb 상품으로눈에직접
+적혹은간접반사(완전반사)로비춰질경우유해가능성이있음. 다만ClassⅢb 레이저사용시일반
+적으로위험한분산된반사가없으나광학계의수리나철거시에는전문가가작업을해야함.
+
+[Semantic Chunk 122]
+- 9 -
+Ⅲ.
+
+[Semantic Chunk 123]
+보정및정도관리
+6.
+
+[Semantic Chunk 124]
+최소한하나의시료에대해재분석을실시해야한다.
+
+[Semantic Chunk 125]
+50개의시료세트까지는10%, 50개이상의시
+료세트에대해서는5%의시료재분석을실시해야한다.
+
+[Semantic Chunk 126]
+만약필터시료가고르지않게분포되어
+있다면다른부분을펀칭하여재분석한다.
+
+[Semantic Chunk 127]
+※ 시료재분석의정밀도는5% 이내가좋으며, 일반적으로1-3% 정도임.
+
+[Semantic Chunk 128]
+7.
+
+[Semantic Chunk 129]
+장비보정이제대로이루어졌는지확인하기위해공시료3개와분석대상물질을첨가한시료3개를
+분석한다.
+
+[Semantic Chunk 130]
+분석대상물질을첨가한시료준비는다음과같다.
+
+[Semantic Chunk 131]
+a.
+
+[Semantic Chunk 132]
+10 µL 시린지로유기탄소표준용액의일부를전처리된필터에주입한다.
+
+[Semantic Chunk 133]
+결과의정확성을높이
+기위해서는전처리된필터를용액주입전다시오븐(oven)에넣어세척한다.
+
+[Semantic Chunk 134]
+※ 표준용액을가장자리끝부분(그위치가레이저빔영역안에있는지확인)에주입하여고르게
+분산시킴.
+
+[Semantic Chunk 135]
+b.
+
+[Semantic Chunk 136]
+물을증발시키고공시료와분석시료를분석한다.
+
+[Semantic Chunk 137]
+※ 분석첫번째단계온도에서투과율감소는수분손실을의미함.
+
+[Semantic Chunk 138]
+이는건조시간을오래했을
+때발생함.
+
+[Semantic Chunk 139]
+필요시분석대상물질을첨가한시료역시오븐에건조시킴.
+
+[Semantic Chunk 140]
+빠른건조를위해서
+는‘클린오븐(clean oven)‘ 메뉴를실행하고4초후정지시킴.
+
+[Semantic Chunk 141]
+용액이끓는것을방지하기위
+해100 ℃이하의온도로유지시키고건조기구에따라서적정시간을조절해야함.
+
+[Semantic Chunk 142]
+이방법은
+간편하며실험실에서유기물증기의잠재적흡착을예방할수있음.
+
+[Semantic Chunk 143]
+일부프로그램은이기능
+(clean oven)이없을수있음.
+
+[Semantic Chunk 144]
+8.
+
+[Semantic Chunk 145]
+각시료세트마다공시료를측정, 분석을한다.
+
+[Semantic Chunk 146]
+Ⅲ.
+
+[Semantic Chunk 147]
+시료분석
+운반가스
+오븐온도(℃)
+시간(초)
+헬륨(He)
+1
+10
+310
+80
+475
+80
+615
+80
+870
+110
+550
+45
+헬륨/2% 산소혼합
+550
+45
+625
+45
+700
+45
+775
+45
+850
+45
+870
+110
+보정산소
+1
+120
+총시간
+-
+860초(14.3분)
+9.
+
+[Semantic Chunk 148]
+참고문헌의정보를참고하여제조사의운영매뉴얼을따른다.
+
+[Semantic Chunk 149]
+※ 산화시키기어려운형태의탄소는원소탄소를제거하기위해서장기간고온의산화조건을설정
+하여야함(원소탄소최고점(EC peak)이보정최고점(calibration peak)과일치하여서는안됨).
+
+[Semantic Chunk 150]
+적절한온도와시간조절이필요하며940 °C 이상의고온에노출되어서는안됨.
+
+[Semantic Chunk 151]
+※ 참고로Sunset Laboratory Inc.의열광학적분석기를이용하여디젤배출물의원소탄소를분석할
+때추천하는장비의분석조건은다음과같음.
+
+[Semantic Chunk 152]
+- 10 -
+그림1.
+
+[Semantic Chunk 153]
+유기탄소(OC), 카보네이트(CC), 원소탄소가포함된필터시료의
+서모그램(Thermogram).
+
+[Semantic Chunk 154]
+PC는열분해로생성된탄소혹은‘숯’
+임.
+
+[Semantic Chunk 155]
+마지막
+피크는
+메탄
+보정
+피크임.
+
+[Semantic Chunk 156]
+이
+그림은
+[NIOSH,
+20162]에서인용함.
+
+[Semantic Chunk 157]
+10.
+
+[Semantic Chunk 158]
+유기탄소와원소탄소의질량(㎍)을측정한다.
+
+[Semantic Chunk 159]
+분석결과는㎍/㎠C의단위로나타낸다.
+
+[Semantic Chunk 160]
+이값은표
+준펀칭면적인1.5 ㎠을기준으로한것이며, 다른면적으로분석했다면결과에1.5만큼곱한뒤
+실제면적값으로나누어야표준펀칭면적과일치된값을얻을수있다.
+
+[Semantic Chunk 161]
+Ⅳ.
+
+[Semantic Chunk 162]
+계산
+
+
+
+
+11.
+
+[Semantic Chunk 163]
+각분석시료원소탄소(WEC)의총량(㎍)을계산하기위해분석된원소탄소값(㎍/㎠)과필터침착
+영역(25-㎜필터인경우3.46 ㎠, 37-㎜필터인경우8.55 ㎠)을곱한다. 동일하게공시료의원소
+탄소값(㎍/㎠)과필터침착영역(25-㎜필터인경우3.46 ㎠, 37-㎜필터인경우8.55 ㎠)을곱해
+현장공시료(field blank)의원소탄소평균값(Wb)을구한다.
+
+[Semantic Chunk 164]
+유기탄소역시동일한방법으로계산
+가능하나유기탄소의증기흡착으로인해실제각공시료의유기탄소(the mean OC field blank)
+값은과소평가가이루어질수있다.
+
+[Semantic Chunk 165]
+12.
+
+[Semantic Chunk 166]
+샘플링된공기(V)의원소탄소농도(CEC)를계산한다.
+
+[Semantic Chunk 167]
+CEC : 원소탄소농도(㎎/㎥)
+WEC: 각분석시료원소탄소의총량(㎍)
+Wb : 각공시료원소탄소의총량(㎍)
+V : 시료공기부피(L)
+- 11 -
+Ⅴ.
+
+[Semantic Chunk 168]
+비고
+§
+이
+방법은
+NMAM
+guidance
+chapter
+on
+diesel에
+기초한다[1].
+
+[Semantic Chunk 169]
+Mine
+Safety
+and
+Health
+Administration (MSHA)에서는금속, 비금속광산에서는미세마이크로미터크기를측정할수있
+는임팩터가연결된사이클론사용을권고하고있다.
+
+[Semantic Chunk 170]
+※ 고온에서이탄산수소나트륨이나나트륨을포함하고있는물질들은석영오븐(quartz oven) 벽
+을부식시킬수있으므로시료누출또는빈번한분석은피해야한다.
+
+[Semantic Chunk 171]
+§
+열광학적방법은비휘발성의탄소(특히OC, CC ,EC) 분석에용이하다.
+
+[Semantic Chunk 172]
+이방법은포집의효율을
+위해흡착제가필요하기때문에휘발성이조금이라도있을경우에는부적절할수있다.
+
+[Semantic Chunk 173]
+Ⅵ.
+
+[Semantic Chunk 174]
+참고문헌
+1.
+
+[Semantic Chunk 175]
+NIOSH
+[2016].
+
+[Semantic Chunk 176]
+Manual
+of
+Analytical
+Methods(NMAM).
+
+[Semantic Chunk 177]
+Diesel
+particulate
+matter
+(as
+elemental
+carbon)
+Method
+5040,
+5th
+Edition,
+NIOSH,
+Cincinnati,
+OH.
+
+[Semantic Chunk 178]
+DHHS
+(NIOSH)
+Publication
+2.
+
+[Semantic Chunk 179]
+NIOSH [2016].
+
+[Semantic Chunk 180]
+Chapter DE: Monitoring of diesel particulate exhaust in the workplace, In
+O'Connor PF, Ashley K, ed, NIOSH manual of analytical methods, 5th ed.
+
+[Semantic Chunk 181]
+Cincinnati, OH.
+
+[Semantic Chunk 182]
+US Department of Health and Human Sevices, Centers for Disease Control and Prevention,
+National Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No.
+
+[Semantic Chunk 183]
+2014-151.
+
+[Semantic Chunk 184]
+3.
+
+[Semantic Chunk 185]
+Birch ME and Cary RA[1996].
+
+[Semantic Chunk 186]
+Elemental Carbon-based Method for Monitoring Occupational
+Exposures to Particulate Diesel Exhaust Aerosol Sci Technol 25:221-241
+4.
+
+[Semantic Chunk 187]
+66 Fed.
+
+[Semantic Chunk 188]
+Reg.
+
+[Semantic Chunk 189]
+13 [2001].
+
+[Semantic Chunk 190]
+Department of Labor, Mine Safety and Health Administration: Diesel
+particulate matter exposure of underground metal and nonmetal miners; final rule.
+
+[Semantic Chunk 191]
+(To be
+codified at 30 CFR Part 57).
+

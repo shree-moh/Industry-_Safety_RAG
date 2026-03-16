@@ -1,0 +1,1144 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+D - 49 - 2012
+가스폭발예방을위한폭연방출구설치에
+관한기술지침
+2012.
+
+[Semantic Chunk 2]
+7.
+
+[Semantic Chunk 3]
+한국산업안전보건공단
+안전보건기술지침의개요
+○작성자: 이형섭
+○개정자: 이수희
+○제정경과
+- 2009년
+9월화학안전분야제정위원회심의
+- 2009년11월총괄제정위원회심의
+- 2012년7월총괄제정위원회심의(개정,법규개정조항반영)
+○관련규격및자료
+- NFPA 68 : Explosion protection by deflagration venting(2007)
+- 한국화재보험협회KFS 720 : 폭발벤팅기준
+○관련법령, 규칙, 고시등
+- 「산업안전보건기준에관한규칙」제232조(폭발또는화재등의예방)
+○기술지침의적용및문의
+이기술지침에대한의견또는문의는한국산업안전보건공단홈페이지안전보
+건기술지침소관분야별문의처안내를참고하시기바랍니다.
+
+[Semantic Chunk 4]
+공표일자: 2012년7월18일
+제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+1
+가스폭발예방을위한폭연방출구설치에관한기술지침
+1.
+
+[Semantic Chunk 5]
+목적
+이지침은「산업안전보건법」제23조(안전상의조치) 및「산업안전보건기준에관한
+규칙」제232조(폭발또는화재등의예방)에따라, 가연성가스의폭발로인한
+피해를최소화하는데필요한폭연방출구의설치방법에관한지침을정하는데
+목적이있다.
+
+[Semantic Chunk 6]
+2.
+
+[Semantic Chunk 7]
+적용범위
+(1)
+이
+지침은
+용기
+등
+밀폐공간에서
+가연성
+가스
+또는
+증기의
+폭연(Deflagr-
+ation) 발생시연소가스와압력을신속히밀폐공간외부로방출시킴으로써
+폭굉
+(Detonation)을예방하고, 이로인한구조물과설비의피해를최소화
+하기위하
+여설치하는폭연방출구의설계및설치방법에적용한다.
+
+[Semantic Chunk 8]
+(2) 이지침은다음의경우에는적용하지아니한다.
+
+[Semantic Chunk 9]
+(가) 폭약등의폭굉(Detonation)
+(나) 가연성가스(증기포함)의개방공간에서의폭연
+(다) 폭주반응용비상벤트와압력용기및저장탱크등에설치된압력방출장치
+(라) 외부화재또는다른가열장치에노출된용기를보호하기위한장치
+3.
+
+[Semantic Chunk 10]
+정의
+(1) 이지침에서사용하는용어의뜻은다음과같다.
+
+[Semantic Chunk 11]
+(가) "폭연(Deflagration)"이란밀폐공간에서연소속도가음속보다느리게전파하는
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+2
+폭발을말한다. (나) “폭굉(Detonation)”이란밀폐공간에서연소속도가음속보다빠르게전파하는폭발
+을말한다.
+
+[Semantic Chunk 12]
+(다) “폭연지수(Deflagration Index, K)"란밀폐설비(체적,V)내에서연소로인하여
+상
+승되는최고압력상승율( dP
+dt )max로부터계산되며, 가연성가스및인화성액체(증
+기)의폭연지수는KG로나타낸다.
+
+[Semantic Chunk 13]
+(라) “밀폐공간(Enclosure)”이란전체가밀폐되거나또는부분적으로밀폐된공간(체
+적)을가진밀폐작업장, 용기, 탱크, 배관및덕트내부공간등을말한다.
+
+[Semantic Chunk 14]
+(마) “폭연방출구(Deflagration vent)”란폭연발생시연소가스와압력을밀폐공간
+으로부터안전한외부로신속히방출시키기위하여설치하는개방된통기문,
+폐쇄된창문및판넬등을말한다.
+
+[Semantic Chunk 15]
+(이하“방출구”라한다)
+(바) “복합혼합물(Hybrid mixture)”이란인화성가스와가연성분진의혼합물을말한
+다.
+
+[Semantic Chunk 16]
+인화성가스는해당가스가폭발하한계의10% 이상포함된것을말한다.
+
+[Semantic Chunk 17]
+(사) “최대압력(Maximum pressure, Pmax)”이란인화성가스또는혼합물이밀폐공간
+에서폭연이발생한경우최대로상승할수있는압력을말한다.
+
+[Semantic Chunk 18]
+(아) “감쇄압력(Reduced pressure, Pred)”이란밀폐공간으로부터폭연이방출되는동안
+밀폐공간에생성될수있는최대압력을말한다.
+
+[Semantic Chunk 19]
+(자) “방출구개방압력(Static activation pressure, Pstat)”이란압력이서서히(압력증가율이
+10 kPa/min 이하) 증가할때방출구뚜껑이열리는압력을말한다.
+
+[Semantic Chunk 20]
+(차) “저강도밀폐공간(Low strength enclosure)”이란10 kPa(0.1 bar)이하의압력을
+견딜수있는밀폐공간을말한다. (타) “고강도밀폐공간(High strength enclosure)”이란10 kPa(0.1 bar)를초과하는압력을
+견딜수있는밀폐공간을말한다.
+
+[Semantic Chunk 21]
+(2) 그밖에용어의뜻은이지침에서규정하는경우를제외하고는「산업안전보건
+법」, 같은법시행령, 같은법시행규칙및「산업안전보건기준에관한규칙」
+에서정하는바에따른다.
+
+[Semantic Chunk 22]
+4.
+
+[Semantic Chunk 23]
+폭연방출구설계에관한일반사항
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+3
+4.1 기본개념
+(1) 폭연지수(K)는밀폐공간(체적,V)에서연소시생성되는최고압력상승률로부터
+식(1)과같이계산된다.
+
+[Semantic Chunk 24]
+폭연지수와최대압력(Pmax)은방출구크기설계에활용된다.
+
+[Semantic Chunk 25]
+K = ( dP
+dt )max․V1/3‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (1)
+여기서,
+K : 폭연지수[bar·m/sec]
+(dP/dt)max : 최고압력상승률(Maximum rate of pressure)[bar/sec]
+V : 용기체적[㎥]
+(2) 폭연지수(K)는가스인경우에KG, 분진인경우에Kst라표기하며, 가장정확한
+값은실험에의하여결정된다.
+
+[Semantic Chunk 26]
+(<별표1> 참조)
+(3) 가스의폭연지수KG의경우는실험에의한값이며, 실험값이없는경우에는
+프로
+판의KG값100 bar·m/sec)를기준으로하여기본연소속도(Su, Fundamental
+burning
+velocity)로부터유추한다.
+
+[Semantic Chunk 27]
+(각주요물질의기본연소속도는<별표2> 참조)
+4.2 혼합물의폭연지수
+(1) 방출구설치시적용하는가스혼합물의폭연지수(KG)는혼합물조성의폭연지
+수중에가장큰폭연지수를적용한다.
+
+[Semantic Chunk 28]
+(2)
+복합
+혼합물에
+방출구를
+설치하는
+경우에는
+혼합물
+중
+분진의
+폭연지수(Kst)
+실험값을적용한다.
+
+[Semantic Chunk 29]
+실험값이없을경우에는프로판의연소특성치를활용하여
+Pmax = 10 bar, Kst는500 bar·m/sec를적용한다.
+
+[Semantic Chunk 30]
+4.3 밀폐공간의강도설계
+4.3.1 밀폐공간설계의압력설정기준
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+4
+(1) 감쇄압력(Pred)은취급밀폐공간재질의극한강도(Ultimate stress, 변형이일어나지
+않는허용강도)의2/3를초과하지않아야한다.
+
+[Semantic Chunk 31]
+(2) 변형이허용되지않을경우에감쇄압력(Pred)은취급밀폐공간의항복응력(Yield
+strength)의2/3를초과하지않아야한다.
+
+[Semantic Chunk 32]
+(3) 밀폐공간의설계는압력용기설계규정등을활용하며, 계산에따라최고허용압
+력(Pmawp, Maximum allowable working pressure)으로설계한다.
+
+[Semantic Chunk 33]
+(가)
+파열되지는
+않으나,
+영구변형으로
+허용
+가능한
+밀폐공간을
+위한
+Pred와
+Pmawp는식(2)로나타낸다. Pred ≤( 2
+3 )∙Fu∙Pmawp‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (2)
+(나) 영구변형으로도허용이가능하지않는밀폐공간을위한Pred와Pmawp는식(3)으
+로나타낸다.
+
+[Semantic Chunk 34]
+Pred ≤( 2
+3 )∙Fy∙Pmawp‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (3)
+여기서
+Pred = 방출되는동안밀폐공간(용기)에생성되는최대압력(bar)
+Fu = 압력용기설계기준에서용기의최고강도와용기의허용강도비율
+Pmawp = 압력용기설계기준에따른용기의설계압력(bar)
+Fy = 압력용기설계기준에서용기제작재료의허용강도와항복응력의비율
+(다) 주철과같이부서지기쉬운재질의경우에는특별한보강을하여야한다.
+
+[Semantic Chunk 35]
+보강조
+치를하지않을경우, 최고허용설계강도는극한강도의25%를초과해서는아니
+된다.
+
+[Semantic Chunk 36]
+4.3.2 벽또는지붕으로의방출
+(1) 벽이나지붕으로방출할경우에는작업자나그밖의기계․설비등물적인손상
+이없도록설치하여야한다.
+
+[Semantic Chunk 37]
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+5
+(2) 방출구로허용되는지붕은허용압력에서열리도록가벼워야하며, 눈이나얼음
+등에도불구하고잘열릴수있도록관리하여야한다.
+
+[Semantic Chunk 38]
+4.4 밀폐공간의길이와직경비및방출변수
+(1) 일반적으로폭연은밀폐공간의말단에서방출되도록설계하여야하나, 최적의효과적
+인방출구면적산출은밀폐공간의전범위에확산되는Pred에의하여결정한다. (2) 방출구는밀폐공간의길이에따라하나이상으로분산하여설치할수있으며, 크기
+(면적)는밀폐공간의길이(L)와직경(D)의비(L/D)에따라결정한다.
+
+[Semantic Chunk 39]
+4.5 방출구뚜껑(Closure)의개방
+(1) 방출구뚜껑은쉽게열리도록하여야한다.
+
+[Semantic Chunk 40]
+(2) 방출구뚜껑은뚜껑의내외부부식, 충전물의축적, 눈이나얼음등에도불구하고
+잘열릴수있도록관리하여야한다.
+
+[Semantic Chunk 41]
+(3) 공정내또는공정과연결된밀폐공간에설치하는방출구뚜껑은공정에사용하는물질
+특성에따라부식에강한재질을선정하여야한다.
+
+[Semantic Chunk 42]
+(4) 방출구뚜껑은방출구로부터내용물및압력이쉽게방출될수있도록내․외부를
+청결하게관리하여야한다.
+
+[Semantic Chunk 43]
+(5) 옥외에설치하는방출구의뚜껑및덕트는빗물이나그밖의부스러기등이
+들어
+올수있으므로수평으로설치해서는아니된다.
+
+[Semantic Chunk 44]
+다만, 빗물이들어오지못하도록
+뚜껑및덕트상부에보호막을설치한경우에는그러하지아니하다.
+
+[Semantic Chunk 45]
+(6) 방출구뚜껑은방출구개방압력(Pstat)이나제조자가정한압력범위내에서열리도록
+하여야한다. (7) 방출구뚜껑은개방압력이하의변동압력에서열려서는아니된다.
+
+[Semantic Chunk 46]
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+6
+4.6 폭연의영향
+(1) 폭연으로방출구가열리는동안에는설비내용물과압력이구조물, 설비및인명
+에대하여피해를주지않도록안전한외부로직접유도하여야한다.
+
+[Semantic Chunk 47]
+(2) 방출구는공기가유입되는장소와떨어진곳에설치하여야하며, 그이격거리
+는화구(Fireball)가생성되는길이이상이되도록설계하여야한다.
+
+[Semantic Chunk 48]
+화구길이의계
+산은식(10)과같다.
+
+[Semantic Chunk 49]
+(3) 방출구는사무실건물및작업장으로부터화구길이이상으로떨어진곳에설치하여
+야한다.
+
+[Semantic Chunk 50]
+다만, 위험성평가결과전문가의판단에따라그거리를줄일수있다.
+
+[Semantic Chunk 51]
+(4) 사무실건물및작업장으로부터화구길이이상으로떨어진곳에방출구설치가
+불
+가능하거나그거리를최소화하기위해방호판(Deflector)을다음각호와같이설
+치한다.
+
+[Semantic Chunk 52]
+화염길이가길경우방호판을설치하여도효과가없기때문에밀폐용기의
+체적이20 ㎥이하인경우에만설치한다.
+
+[Semantic Chunk 53]
+(가) 방호판의크기(직경)는가능한한방출구크기(직경)의1.75배로한다.
+
+[Semantic Chunk 54]
+(나) 방호판은그림1과같이방출구각도와45～60°의기울기를갖도록설치한다.
+
+[Semantic Chunk 55]
+(다) 방호판설치는방출구로부터방출구직경(D)의1.5D 거리에설치한다.
+
+[Semantic Chunk 56]
+(라) 방호판은폭발시감쇄압력(Pred)으로계산되는방출압력에견디어야한다.
+
+[Semantic Chunk 57]
+4.7 방출용덕트
+(1) 건물내부의밀폐공간에설치된방출구의경우, 방출구로부터옥외까지유도하도
+록방출용덕트를설치하여야한다.
+
+[Semantic Chunk 58]
+(2) 방출용덕트의크기(직경)는방출구크기(직경) 이상으로설계하여야한다.
+
+[Semantic Chunk 59]
+(3) 덕트는불연성재질로제작하여야하며, Pred 강도에견디어야한다.
+
+[Semantic Chunk 60]
+(4) 덕트길이가길거나위험성평가를실시한후필요하면방출용덕트내에화염
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+7
+방지기를설치한다.
+
+[Semantic Chunk 61]
+<그림1> 용기에설치된방출구에방호판설치설계
+5.
+
+[Semantic Chunk 62]
+가스혼합물밀폐공간에설치하는방출구면적설계
+5.1 개요
+(1) 이장에서의방출구면적설계는가연성가스, 혼합물또는미스트를취급하는L/D≤
+5 밀폐공간에적용한다.
+
+[Semantic Chunk 63]
+(2) 가연성미스트는폭연지수KG의경우에는실험에의한값을사용하며, 실험값이
+없는경우에는프로판의KG 값100 bar·m/sec를기준으로하여기본연소속도(Su,
+프로판46 ㎝/sec)로부터유추하여사용한다.
+
+[Semantic Chunk 64]
+5.2 저강도밀폐공간에설치하는방출구설계
+(1) 저강도밀폐공간을위한방출구설계는Pred가10 kPa(0.1 bar) 이하에견디는설비에
+적용한다.
+
+[Semantic Chunk 65]
+(2) 저강도밀폐공간을위한최적요구방출구면적은식(4)에의해구한다.
+
+[Semantic Chunk 66]
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+8
+Av =
+C.A s
+P 1/2
+red
+‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (4)
+여기서
+Av = 방출구면적(m2)
+C = 방출변수
+As = 용기의내부표면적(m2)
+Pred = 방출되는동안의밀폐공간(용기)에발생하는최대압력(bar)
+(가) 방출변수(C)는기본연소속도(Su)가60 ㎝/sec 이하인경우에식(5)에따라정의
+한다.
+
+[Semantic Chunk 67]
+C(bar1/2) = 1.57☓10-5․(Su)2+1.57☓10-4․(Su)+0.1109 ‥‥‥‥‥‥‥‥ (5)
+(나) <그림2>에서Su 값대비C 값을결정하여사용하며가연성증기나미스트로
+Su값이60 ㎝/sec 까지적용이가능하다.
+
+[Semantic Chunk 68]
+<그림2> 방출변수와기본연소속도의함수
+(3) 방출구뚜껑의무게는KG가130 bar·m/sec 인경우40 kg/m2로하고, 그이하일
+경우이에상응하는적은무게로설치한다.
+
+[Semantic Chunk 69]
+5.3 고강도밀폐공간에설치하는방출구설계
+(1) 고강도밀폐공간을위한방출구설계는Pred가10 kPa(0.1 bar) 초과에견디는설비
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+9
+에적용한다.
+
+[Semantic Chunk 70]
+(가) L/D의값이2 이하인경우에는식(6)에따라방출구면적Av를계산한다.
+
+[Semantic Chunk 71]
+Av = {[(0.127)․log10(KG)-(0.0567)]․Pred
+-0.582}․
+V2/3+[(0.175)․Pred
+-0.572(Pstat-1)]․V2/3‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (6)
+여기서
+KG ≤550bar-m/sec
+Pred ≤2bar 및최소0.05bar > Pstat
+Pstat ≤0.5bar
+V ≤1000m3
+점화전최초압력≤0.2 bar
+(나) L/D의값이2 이상5 이하인경우에는(가)에서구한면적에식(7)에서구한
+면적을더한다.
+
+[Semantic Chunk 72]
+△A = [Av․KG․( 
+-2)2]÷750 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (7)
+(다) L/D의값이5이상인배관등에설치하는방출구면적은6에따른다.
+
+[Semantic Chunk 73]
+(2) 위와같은식에따라방출구면적을산출할수없는경우에는그래프에의하여
+방출구면적을구할수있다.
+
+[Semantic Chunk 74]
+(<부록2> 참조)
+(3) 방출구뚜껑의무게는KG가130 bar·m/sec 인경우40 kg/m2로하고, 그이하일
+경우이에상응하는적은무게로설치한다.
+
+[Semantic Chunk 75]
+5.4 방출용덕트의효과
+(1) 방출용덕트가설치되어있을경우식6, 식7의Pred에P'red를대신하여적용한다.
+
+[Semantic Chunk 76]
+(2) 덕트의길이가3 m 이하인경우에는그림3의커브A를적용하고, 3 m 초과6 m
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+10
+까지는커브B를적용한다.
+
+[Semantic Chunk 77]
+덕트의길이가6m 이상인경우에는6.
+
+[Semantic Chunk 78]
+배관등에설
+치하는폭연방출구설계에따른다.
+
+[Semantic Chunk 79]
+<그림3> 가스가방출되는동안상승되는최고압력
+(3) P'red를식(8) 또는식(9)를이용하여구한값을적용할수있다.
+
+[Semantic Chunk 80]
+(가) 덕트의길이3 m 이하인경우
+P'red = 0.779․(Pred)1.161‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (8)
+(나) 덕트의길이3 m 초과6 m 이하인경우
+P'red = 0.172․(Pred)1.936‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (9)
+5.5 화구크기계산
+(1) 방출된가연성가스의폭연으로부터위험지역(Hazard zone) 범위의계산은식(10)에
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+11
+따른다.
+
+[Semantic Chunk 81]
+D = 3.1․( 
+)0.402‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (10)
+여기서
+D = 화구직경(방출구로부터화구의중심까지의거리, m)
+V = 방출된용기의부피(m3)
+n = 설치된방출구수
+(2) 한면이벽면등으로막혀있을경우에는화구크기의반을이격거리로한다.
+
+[Semantic Chunk 82]
+6.
+
+[Semantic Chunk 83]
+배관등에설치하는폭연방출구설계
+6.1 개요
+(1) 이장에서의방출구설계는가연성가스를20 kPa(0.2 bar)이하로운전하는밀폐
+공간에적용한다.
+
+[Semantic Chunk 84]
+(2) 이장에서는배관과덕트및긴용기(이하이장에서는“배관등”이라한다) 는
+L/D>5 이상인설비에적용한다.
+
+[Semantic Chunk 85]
+(3) 이장에서는산화제가포함되어있지않은(공기중) 가스혼합물에적용한다.
+
+[Semantic Chunk 86]
+6.2 방출구면적설계
+(1) 배관등에설치하는방출구는폭연에서폭굉으로전이되는것을방지하기위함이다.
+
+[Semantic Chunk 87]
+(2) 배관등에설치하는각방출구는배관의전면적에동등하게설치하여야한다.
+
+[Semantic Chunk 88]
+(3) 직경이2 m 이상이며, L/D > 20이상인경우에는방출구를2개이상설치하여야한다.
+
+[Semantic Chunk 89]
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+12
+(4) 설치되는방출구뚜껑의무게는12.2 kg/m2 이하로한다.
+
+[Semantic Chunk 90]
+(5) 방출구뚜껑에가해지는폭발과압은30 kPa(0.3 bar)이하이어야한다.
+
+[Semantic Chunk 91]
+(6) 방출되는동안의최고감쇄압력(Pred)은배관등의재질항복응력의50% 이하가되어
+야한다.
+
+[Semantic Chunk 92]
+(7) 유속이2 m/sec 이하의프로판이나Su가60 cm/sec 이하인인화성가스배관등에
+방출구설계시적용하는Pred는<그림4>에서찾을수있다.
+
+[Semantic Chunk 93]
+<그림4> 직경(D), L/D 와Pred의결정
+7.
+
+[Semantic Chunk 94]
+폭연방출구의종류와설치방법
+7.1 평시개방형(Normally open)의방출구
+7.1.1 환기관식개방구(Louvered opening)
+(1) Pred의압력은환기관식방출구는설비의설계에따라계산된다.
+
+[Semantic Chunk 95]
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+13
+(2) 환기관식방출구를통한압력감소는가스흐름계산에의하여결정되며, Pred가
+적용되어야한다.
+
+[Semantic Chunk 96]
+7.1.2 매달린형태의방출구(Hangar-type door)
+(1) 폭연위험물질을취급하는실이나건물의벽에는매달린형태의방출구나상부
+방출구(Overhead door)를설치하여야한다.
+
+[Semantic Chunk 97]
+(2) 폭연위험이있는물질을취급하는공정이나설비를운전하는동안에는가스
+가쉽게방출될수있도록방출구는항상열려있어야한다.
+
+[Semantic Chunk 98]
+(3) 폭연위험이있는공정설비에서공정이운전될때는문이항상열리도록연동장치를
+설치하여야한다.
+
+[Semantic Chunk 99]
+7.2 평시폐쇄형(Normally closed)의방출구
+(1) 방출구뚜껑을설계하거나제조하는사람은설치시에적용할수있도록뚜껑
+의Pstat의값과허용오차를기록해두어야한다.
+
+[Semantic Chunk 100]
+(2) Pstat는뚜껑을조립고정한후, 뚜껑열림이기계적으로완전하게작동하는지를
+검사하여야한다.
+
+[Semantic Chunk 101]
+(가) 기계적으로열리도록하기위하여잡아두는부품(고리, 스프링, 자석, 마찰력
+금구, 파열기구등)이필요하다.
+
+[Semantic Chunk 102]
+(나) 방출구뚜껑의현장조립을위하여설계자는밀폐공간의표면적, 방출구면적,
+뚜껑재질, 재질의무게Pred, Pstat, 고리, 금구부품, 수량등의명세를알려주
+어야한다.
+
+[Semantic Chunk 103]
+(3) 뚜껑은사용되는온도등운전조건에맞도록설계되어야한다.
+
+[Semantic Chunk 104]
+7.3 건물이나작업실에설치하는방출구
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+14
+(1) 힌지형(hinged) 문, 창문및판넬은계산된압력하에서열리도록회전금구로고정
+되어있다.
+
+[Semantic Chunk 105]
+(가) 산업용오븐, 건조기, 혼합기에설치하는방출구뚜껑에는마찰식, 스프링하중
+식, 자석식등이사용된다.
+
+[Semantic Chunk 106]
+(나) 힌지가회전되어뚜껑이열릴때에는압력방출에방해되지않아야하며, 작업
+자가뚜껑을여는경우에도안전을위하여힌지가탈락되어서는아니된다.
+
+[Semantic Chunk 107]
+(2) 뚜껑의재질은깨지기쉽고날카롭지아니한것을사용하여야한다.
+
+[Semantic Chunk 108]
+7.4 진공방출용방출구
+(1) 진공해지용방출구(Vacuum breaker)는진공설비의변형을방지하기위하여설치
+한다.
+
+[Semantic Chunk 109]
+진공방출용방출구는Pred에견디도록충분히강하게설치하거나안전한
+곳으로방출될수있도록열려야한다.
+
+[Semantic Chunk 110]
+(2) 진공방출용방출구는<그림5>에따라설계된다.
+
+[Semantic Chunk 111]
+<그림5> 진공으로사용하는용기와진공해지용방출구면적
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+15
+<별표1>
+5L(0.005m3) 용기에서인화성가스및액체별의특성치
+Flammable Material
+(bar)
+KG (bar-m/sec)
+Acetophenone
+7.6
+109
+Acetylene
+10.6
+1415
+Ammonia
+5.4
+10
+β-Naphthol
+4.4
+36
+Butane
+8.0
+92
+Carbon disulfide
+6.4
+105
+Diethyl ether
+8.1
+115
+Dimethyl
+formamide
+8.4
+78
+Dimethyl sulfoxide
+7.3
+112
+Ethane
+7.8
+106
+Ethyl alcohol
+7.0
+78
+Ethyl benzene
+7.4
+96
+Hydrohen
+6.8
+550
+Hydrohen sulfide
+7.4
+45
+Isopropanol
+7.8
+83
+Methane
+7.1
+55
+Methanol
+7.5
+75
+Methylene chloride
+5.0
+5
+Methyl nitrite
+11.4
+111
+Neopentane
+7.8
+60
+Octanol
+6.7
+95
+Octyl chloride
+8.0
+116
+Pentane
+7.8
+104
+Propane
+7.9
+100
+South African crude oil
+6.8～7.6
+36～62
+Toluene
+7.8
+94
+※ 기본적인점화에너지는10J, a는온도를상승하여25℃에서측정, b의점화에너지는
+100～200J, c는200℃에서측정
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+16
+<별표2>
+인화성가스및액체별의기본연소속도
+인화성 가스/액체
+기본 연소속도
+(cm/sec)
+인화성 가스/액체
+기본 연소속도
+(cm/sec)
+Acetone
+54
+Ethyle acetate
+38
+Acetylene
+166
+Ethylene oxide
+108
+Acrolein
+66
+Ethylenimine
+46
+Acrylonitrile
+50
+Gasoline (100-octane)
+40
+Allene (propadiene)
+87
+n-Heptane
+46
+Benzene
+48
+Hexadecane
+44
+n-butyl-
+37
+1,5-Hexadiene
+52
+tertbutyl-
+39
+n-Hexane
+46
+1,2-dimethyl-
+37
+1-Hexene
+50
+1,2,4-trimethyl-
+39
+1-Hexyne
+57
+1,2-Butadiene (methylallene)
+68
+1,2-Butadiene
+64
+3-Hexyne
+53
+2,3-dimethyl-
+52
+HFC-23 Difluoromethane
+6.7
+2-methyl-
+55
+HFC-143 1,1,2-Trifluoroethane
+13.1
+n-Butane
+45
+HFC-143a 1,1,1-Trifluoroethane
+7.1
+2-cycloproyl-
+47
+HFC-152a 1,1-difluoroethane
+23.6
+2,2-dimethyl-
+42
+Hydrohen
+312
+2,3-dimethyl-
+43
+Isopropyl alcohol
+41
+2-methyl-
+43
+Isopropylamine
+31
+2,2,3-trimethyl-
+42
+Jet fuel, grade JP-1 (average)
+40
+Butanone
+42
+Jet fuel, grade JP-4 (average)
+41
+1-Butene
+51
+2-cyclopropyl-
+50
+Methane
+40
+2,3-dimethyl-
+46
+diphenyl-
+35
+2-ethyl-
+46
+Methyl alcohol
+56
+2-methyl-
+46
+1,2-Pentadiene (ethylallene)
+61
+3-methyl-
+49
+cis-1,3-Pentadiene
+55
+2,3-dimethl-2-butene
+44
+trans-1,3-Pentadiene (piperylene)
+54
+2-Buten 1-yne (vinylacetylene)
+89
+2-methyl-(cis or trans)
+46
+1-Butyne
+68
+1,4-Pentadiene
+55
+3,3-dimethyl-
+56
+2,3-Pentadiene
+60
+2-Butyne
+61
+n-Pentane
+46
+Carbon disulfide
+58
+Carbon monoxide
+46
+2,2-dimethyl-
+41
+Cyclobutane
+67
+2,3-dimethyl-
+43
+ethyl-
+53
+2.4-dimethyl-
+42
+isopropyl-
+46
+2-methyle-
+43
+methyl-
+52
+3-methyle-
+43
+Methylene
+61
+2,2,4-trimethyl-
+41
+Cyclohexane
+46
+1-Pentene
+50
+methyl
+44
+2-methyl-
+47
+Cyclopentadiene
+46
+4-methyl-
+48
+Cyclopentane
+44
+cis-2-Pentene
+51
+methyl-
+42
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+17
+<별표2>
+Cyclopropane
+56
+1-Pentene
+63
+4-methyl-
+53
+cis-1,2-dimethyl-
+55
+2-Pentyne
+61
+4-methyl-
+54
+trans-1,2-dimethyl-
+55
+Propane
+46
+ethyle-
+56
+2-cyclopropyl-
+50
+1-deutero-
+40
+Methyl-
+58
+1-deutero-2-methyl-
+40
+1,1,2-trimethyl-
+52
+2-deutero-2-methyl-
+40
+2,2-dimethyl-
+39
+trans-Decalin
+(decahydronaphthalene)
+36
+2-methyl-
+41
+n-Decane
+43
+2-cyclopropyl-
+53
+2-methyl-
+44
+1-Decene
+44
+Propionaldehyde
+58
+Diethyl ether
+47
+Propylene oxide (1,2-epoxypropane)
+82
+1-Propyne
+82
+Dimethy ether
+54
+Spiropentane
+71
+Ethane
+47
+Tetrahydropyran
+48
+Tetralin (tetrahydronaphthalene)
+39
+Ethene(ethylene)
+80
+Toluene (methylbenzene)
+41
+※ 
+본 
+기본 
+연소속도(Fundamental 
+burning 
+velocity)는 
+NACA 
+REPORT 
+1300, 
+Chemical            
+Engineers` Handbook 5th, Edition, McGraw-Hill, New York, 1973
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+18
+<부록1>
+계산식에의한폭연방출구면적산출의예
+1.
+
+[Semantic Chunk 112]
+문제
+6.0m(L)×9.2m(W)×6.1m(H)의톨루엔취급작업장(내부표면적297 m2)으로가정한다.
+
+[Semantic Chunk 113]
+톨루엔은인화성강한액체로써기본연소속도가빠르기때문에방출구를설치하여야
+한다.
+
+[Semantic Chunk 114]
+외부의접합벽은폭압에견디도록설계되어있다.
+
+[Semantic Chunk 115]
+작업장내부로접한3면의벽
+내장재는5 kPa(Pred 값, 0.05 bar)에견디도록설계되었다.
+
+[Semantic Chunk 116]
+여기에폭연방출구설치를위한면적은?
+
+[Semantic Chunk 117]
+2.
+
+[Semantic Chunk 118]
+답
+(1) 방출구면적계산은식(4)로부터
+Av =
+C.A s
+P 1/2
+red ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ (4)
+(2) 톨루엔의기본연소속도Su는별표2로부터41cm/sec임을알수있으며, 본문<그
+림2>로부터C 값이0.17을구할수있다.
+
+[Semantic Chunk 119]
+(3) Pred는0.05bar이므로
+방출구면적(Av) =
+0.17 *297
+0.69 1/2
+= 61m2
+(4) 만약에내장재를72 kPa(Pred 값, 0.072 bar)에견디도록설계되었다면방출구
+면
+적은50 m2로줄어들것이다.
+
+[Semantic Chunk 120]
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+19
+<부록2>
+그래프에의한방출구면적산출의예
+1.
+
+[Semantic Chunk 121]
+부록<그림1>부터부록<그림7>까지는본문식(6)과식(7)을기반으로하여방출
+구면적을결정할수있다.
+
+[Semantic Chunk 122]
+그래프는방출구면적을결정하는1차수단이며, 두개의
+식에의해계산된방출구면적이올바른지증명하는데사용된다.
+
+[Semantic Chunk 123]
+2.
+
+[Semantic Chunk 124]
+각Factor 설명
+2.1 Factor A
+그래프(그림1에서그림3까지)는적절한방출구개방압력(Pstat)에따라선택된다.
+
+[Semantic Chunk 125]
+X좌표KG 값에따라Pred과만나는점에서Y좌표의Factor A를읽으면된다.
+
+[Semantic Chunk 126]
+<그림1> 가스를위한방출구크기, Pstat = 10kPa(0.1bar)
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+20
+<그림2> 가스를위한방출구크기, Pstat = 20kPa(0.2bar)
+<그림3> 가스를위한방출구크기, Pstat = 50kPa(0.5bar)
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+21
+2.2 Factor B
+만약용기의L/D가2를초과하고, Pred가2bar이하면Factor B로결정한다, <그림
+4>를활용한다.
+
+[Semantic Chunk 127]
+L/D비율에따라KG와만나는점에서Y좌표의Factor B를읽으면
+된다.
+
+[Semantic Chunk 128]
+만약L/D가2이하인경우에는Factor B는1.0으로한다.
+
+[Semantic Chunk 129]
+L/D값이5를초과한
+다면적용할수없다.
+
+[Semantic Chunk 130]
+<그림4> 가스를취급하는긴용기에적용하는계수Factor B
+2.3 Factor C
+<그림5>에서<그림7>을활용한다.
+
+[Semantic Chunk 131]
+X좌표의용기의체적에따라선이만나는점
+에서Y좌표의Factor C를읽으면된다.
+
+[Semantic Chunk 132]
+<그림5> 가스취급용기체적계수Factor C(0m3～10m3)
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+22
+<그림6> 가스취급용기체적계수Factor C(10m3～100m3)
+<그림7> 가스취급용기체적계수Factor C(100m3～1000m3)
+KOSHA GUIDE
+D- 49 -2012
+－
+－
+23
+2.4 각Factor 사용방법
+방출구면적크기는3개의Factor의곱으로구한다.
+
+[Semantic Chunk 133]
+Av(m2) = Factor A × Factor B × Factor C
+2.5 방출구면적계산예
+(1) 문제: 다음과같은용기에서가스폭연을예방하기위해서필요한방출구면적계산은?
+
+[Semantic Chunk 134]
+(가) KG = 150bar-m/sec
+(나) Pstat = 20kPa(0.2bar)
+(다) Pred = 40kPa(0.4bar)
+(라) V = 30m3
+(마) L/D = 4.4
+(2) 답: 각그림에서Factor A, Factor B, Factor C를읽는다.
+
+[Semantic Chunk 135]
+(가) Factor A ≒8.65
+(나) Factor B ≒2.15
+(다) Factor C ≒0.45
+Av(m2) = 8.65×2.15×0.45 = 8.37m2
+

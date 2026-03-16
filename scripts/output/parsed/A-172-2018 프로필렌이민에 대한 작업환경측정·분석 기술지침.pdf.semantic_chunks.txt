@@ -1,0 +1,941 @@
+[Semantic Chunk 1]
+- 1 -
+KOSHA GUIDE
+A –172 - 2018   
+프로필렌이민에대한
+작업환경측정․분석기술지침
+2018.
+
+[Semantic Chunk 2]
+11.
+
+[Semantic Chunk 3]
+한국산업안전보건공단
+- 2 -
+안전보건기술지침의개요
+○작성자: 한국산업안전보건공단산업안전보건연구원직업환경연구실
+○제·개정경과
+- 2018년10월산업위생분야제정위원회심의(제정)
+○관련규격및자료
+- National Institute for Occupational Safety and Health(NIOSH): NIOSH Manual
+of Analytical Methods (NMAM), 5th ed, www.cdc.gov/niosh/nmam
+- Occupational
+Safety
+and
+Health
+Administration(OSHA):
+Sampling
+and
+analytical Methods, www.osha.gov/dts/sltc/methods/index/html
+- Health
+and
+Safety
+Executive(U.K.),
+Methods
+for
+the
+Determination
+of
+Hazardous Substance (MDHS) guidance, www.hse.gov.uk/pubns/mdhs
+- American Conference of Governmental Industrial Hygienists(ACGIH):
+Documentation
+of
+the
+Threshold
+Limit
+Values
+and
+Biological
+Exposure
+Indices, 2018.
+
+[Semantic Chunk 4]
+○관련법규․규칙․고시등
+- 산업안전보건법시행규칙제93조(작업환경측정대상작업장등)
+- 고용노동부고시제2017-27호(작업환경측정및지정측정기관평가등에관한고
+시)
+- 고용노동부고시제2018-62호(화학물질및물리적인자의노출기준)
+○기술지침의적용및문의
+- 이 기술지침에 대한 의견 또는 문의는 한국산업안전보건공단 홈페이지(www.
+
+[Semantic Chunk 5]
+kosha.or.kr)의안전보건기술지침 소관 분야별 문의처 안내를 참고하시기바랍니
+다.
+
+[Semantic Chunk 6]
+- 동 지침 내에서 인용된 관련규격 및 자료, 법규 등에 관하여 최근 개정본이 있
+을 경우에는 해당 개정본의 내용을 참고하시기 바랍니다.
+
+[Semantic Chunk 7]
+○공표일자: 2018년11월27일
+○제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+A –172 - 2018
+- 3 -
+프로필렌이민에대한
+작업환경측정․분석기술지침
+1.
+
+[Semantic Chunk 8]
+목적
+이지침은산업안전보건법시행규칙제93조(작업환경측정대상작업장등)의규정에의
+거작업환경측정대상인자중프로필렌이민에대한측정및분석을수행할때정확도
+및정밀도를유지하기위하여필요한제반사항에대하여규정함을목적으로한다.
+
+[Semantic Chunk 9]
+2.
+
+[Semantic Chunk 10]
+적용범위
+이지침의적용대상은산업안전보건법시행규칙에서정한작업환경측정대상유해인자
+중프로필렌이민의측정, 분석및이와관련된사항에한한다.
+
+[Semantic Chunk 11]
+3.
+
+[Semantic Chunk 12]
+용어의정의
+(1) 이지침에서사용하는용어의정의는다음의각호와같다
+(가) “밀폐”라함은취급또는보관상태에서고형(固形)의이물(異物)이들어가지않
+도록한상태를말한다.
+
+[Semantic Chunk 13]
+(나) “밀봉”이라함은취급또는보관상태에서기체또는미생물이침입할염려가
+없는상태를말한다.
+
+[Semantic Chunk 14]
+(다) 중량을“정확하게단다”라함은지시된수치의중량을그자릿수까지단다는
+것을의미한다.
+
+[Semantic Chunk 15]
+(라) “약”이란그무게또는부피에대하여± 10% 이상의차가있어서는안된다.
+
+[Semantic Chunk 16]
+(마) 시험조작중“즉시”라는용어는30초이내에표시된조작을하는것을말한다.
+
+[Semantic Chunk 17]
+(바) “검출한계”라함은주어진분석절차에따라합리적인확실성을가지고검출할
+수있는가장적은농도나양을의미한다.
+
+[Semantic Chunk 18]
+(사) “정량한계”라함은주어진신뢰수준에서정량할수있는분석대상물질의가장
+최소의양으로, 단지검출이아니라정밀도를가지고정량할수있는가장낮은
+농도를말한다.
+
+[Semantic Chunk 19]
+일반적으로검출한계의3배수준을의미한다.
+
+[Semantic Chunk 20]
+KOSHA GUIDE
+A –172 - 2018
+- 4 -
+(가) “회수율”이라함은채취한프로필렌이민의분석값을보정하는데필요한것으
+로, 시료채취매체와동일한재질의여과지에첨가된양과분석량의비로표현
+된것을말한다.
+
+[Semantic Chunk 21]
+(2) 그밖에이지침에서사용하는용어의정의는이기준에서특별히규정하는경우
+를제외하고는산업안전보건법, 동법시행령, 시행규칙, 산업안전보건기준에관한
+규칙및작업환경측정및지정측정기관평가등에관한고시(고용노동부고시제
+2017-27호)에서정하는바에따른다.
+
+[Semantic Chunk 22]
+4.
+
+[Semantic Chunk 23]
+일반사항
+(1) 이시험법에필요한어원, 분자식및화학명등은특별한언급이없는한(
+)
+내에기재한다.
+
+[Semantic Chunk 24]
+(2) 원자량은국제순수및응용화학협회(IUPAC)에서제정한원자량표에따른다.
+
+[Semantic Chunk 25]
+분자량은소수점이하제2단위까지하고제3단위에서반올림한다.
+
+[Semantic Chunk 26]
+(3) 이시험법에규정한방법이분석화학적으로반드시최고의정밀도와정확도를
+갖는다고는할수없으며이시험방법이외의방법이라도동등이상의정확도와
+정밀도가있다고인정될때에는그방법을사용할수있다.
+
+[Semantic Chunk 27]
+(4) 이시험방법에표시한사항중회수율, 검출한계등은각조의조건으로시험하였
+을때얻을수있는값을참고하도록표시한것이므로실제로는그값이분석조
+건에따라달라질수있다.
+
+[Semantic Chunk 28]
+(5) 시료의시험, 바탕시험및표준액에대한일련의동일시험을행할때사용하는
+시약또는시액은동일롯트(LOT)로조제된것을사용한다.
+
+[Semantic Chunk 29]
+(6) 이시험법에사용하는수치의맺음법은따로규정이없는한한국산업규격KS
+Q 5002(데이터의통계적해석방법)에따른다.
+
+[Semantic Chunk 30]
+(7) 이시험법에규정하지않는사항에대해서는일반적인화학적상식에따르되이
+시험법에기재한방법중세부조작은시험의본질에영향을미치지않는범위
+내에서시험자가적당히변경조절할수있다.
+
+[Semantic Chunk 31]
+(8) 단위및기호: 길이, 넓이, 부피, 농도, 압력또는무게를나타내는단위및기호
+는아래표에따른다.
+
+[Semantic Chunk 32]
+여기에표시되어있지않은단위는KS A ISO 80000-1(양
+및단위-제1부: 일반사항)에따른다.
+
+[Semantic Chunk 33]
+KOSHA GUIDE
+A –172 - 2018
+- 5 -
+종류
+단위
+기호
+종류
+단위
+기호
+길이
+미터
+센티미터
+밀리미터
+마이크로미터
+나노미터
+m
+㎝
+㎜
+㎛
+nm
+농도
+몰농도
+노르말농도
+밀리그램/리터
+마이크로그램/밀리리터
+퍼센트
+M
+N
+㎎/L
+㎍/mL
+%
+압력
+기압
+수은주밀리미터
+수주밀리미터
+atm
+㎜Hg
+㎜H2O
+부피
+세제곱미터
+세제곱센티미터
+세제곱밀리미터
+㎥
+㎤
+㎣
+넓이
+제곱미터
+제곱센티미터
+제곱밀리미터
+㎡
+㎠
+㎟
+무게
+킬로그램
+그램
+밀리그램
+마이크로그램
+㎏
+g
+㎎
+㎍
+용량
+리터
+밀리리터
+마이크로리터
+L
+mL
+μL
+(9) 온도
+(가) 온도의표시는셀시우스(Celcius) 법에따라아라비아숫자오른쪽에℃를붙인
+다.
+
+[Semantic Chunk 34]
+절대온도는K로표시하고절대온도0 K는-273℃로한다. (나) 상온은15～25℃, 실온은1～35℃, 미온은30～40℃로한다.
+
+[Semantic Chunk 35]
+냉소는따로규정
+이없는한15℃이하의곳을뜻한다.
+
+[Semantic Chunk 36]
+(10) 농도
+(가) 액체단위부피중의성분질량또는기체단위부피중의성분질량을표시할때에
+는중량/부피(w/v)%의기호를사용한다. 액체단위부피중의성분용량, 기체
+단위부피중의성분용량을표시할때에는부피/부피(v/v)%의기호를사용한
+다.
+
+[Semantic Chunk 37]
+백만분의용량비를표시할때는ppm(part per million)의기호를사용한다.
+
+[Semantic Chunk 38]
+(나)
+공기
+중의
+농도를
+㎎/㎥으로
+표시했을
+때의
+㎥은
+정상상태(NTP,
+Normal
+Temperature and Pressure : 25 ℃, 1기압)의기체용적을뜻한다.
+
+[Semantic Chunk 39]
+따라서노출
+기준과비교시는작업환경측정시의온도와압력을실측하여정상상태의농
+도로환산하여야한다.
+
+[Semantic Chunk 40]
+KOSHA GUIDE
+A –172 - 2018
+- 6 -
+(11) 시약, 표준물질
+(가) 분석에사용되는시약은따로규정이없는한화학용시약에규정된일급이상
+의것을사용하여야한다.
+
+[Semantic Chunk 41]
+분석에사용하는시약은제조회사에서표시하는농
+도함량을따른다.
+
+[Semantic Chunk 42]
+(나) 광도법,
+전기화학적분석법, 크로마토그래피법,
+고성능액체크로마토그래피법에
+쓰이는시약은특히순도에주의해야하고, 분석에영향을미치는불순물을
+함유할염려가있을때는미리검정하여야한다.
+
+[Semantic Chunk 43]
+(다) 분석에사용하는지시약은특이한것을제외하고는KS M 0015(화학분석용
+지시약조제방법)에규정된지시약을사용한다.
+
+[Semantic Chunk 44]
+(라) 시험에사용하는표준품은원칙적으로특급시약을사용하며, 표준용액을조제
+하기위한표준용시약은따로규정이없는한적절히보관되어오염및변질
+이안된상태로보존된것을사용한다.
+
+[Semantic Chunk 45]
+(12) 측정․분석방법에사용하는초순수는따로규정이없는한정제증류수또는
+이온교환수지로정제한탈염수(脫鹽水)를말한다.
+
+[Semantic Chunk 46]
+(13) 기구
+(가) 계량기구중측정값을분석결과의계산에사용할목적으로사용되는것은모두
+보정하는것을원칙으로한다.
+
+[Semantic Chunk 47]
+(나) 중량분석용저울은적어도10-5 g(0.01 mg)까지달수있어야하며, 화학분석
+용저울은적어도10-4 g(0.1 mg)까지달수있어야하며, 국가검정을필한제
+품또는이에준하는검정을필한제품이어야한다.
+
+[Semantic Chunk 48]
+(다) 이시험법에서사용하는모든유리기구는KS L 2302(이화학용유리기구의
+모양및치수)에적합한것또는이와동등이상의규격에적합한것으로국가
+에서지정한기관에서검정을필한것을사용하여야한다.
+
+[Semantic Chunk 49]
+(라)
+여과용
+기구
+및
+기기는
+특별한
+언급이
+없이
+“여과한다”라고
+하는
+것은
+KS M 7602(거름종이(화학분석용)) 거름종이5종또는이와동등한여과지를
+사용하여여과함을말한다.
+
+[Semantic Chunk 50]
+5.
+
+[Semantic Chunk 51]
+시료채취및분석시고려사항
+(1) 시료채취기구및측정방법의선택
+시료채취의목적과시료채취시간, 방해인자, 예상되는오염농도및실험실에서보
+KOSHA GUIDE
+A –172 - 2018
+- 7 -
+유하고있는분석장비의능력등을종합적으로고려하여최적의시료채취기구및
+분석방법을선택한다.
+
+[Semantic Chunk 52]
+(2) 검량선작성을위한표준용액제조
+(가) 대상물질의특성파악
+분석하고자하는물질의표준용액을만들원액(시약)의순도와특성(분자량, 비
+중, 노출기준)을파악한다.
+
+[Semantic Chunk 53]
+(나) 채취시료의예상농도의0.1~2배수준에서각분석대상물질의양을결정한다.
+
+[Semantic Chunk 54]
+(다) 표준용액제조방법의결정
+일반적으로표준용액제조시표준원액(stock solution)을단계적으로희석시키
+는방법(희석식)과표준원액에서일정량씩줄여가면서만드는방법(배치식)이
+있다.
+
+[Semantic Chunk 55]
+희석식은만들기가수월한반면표준원액이잘못되면계통오차를줄수
+있고배치식은여러검량선작성용용액중몇개가잘못되더라도이를보정
+할수가있으나만들기가어려운단점이있다.
+
+[Semantic Chunk 56]
+(라) 표준용액의제조
+충분한수의표준용액을준비한다. 일반적으로분석하고자하는농도를포함한
+최소한5개수준의표준용액을제조한다.
+
+[Semantic Chunk 57]
+(마) 검량선의작성시주의점
+①표준원액으로사용될원액의순도, 제조일자, 유효기간등을잘파악해야한다.
+
+[Semantic Chunk 58]
+②표준용액, 회수율등에사용되는시약은같은롯트(Lot)번호를가진것을사용
+하여야한다.
+
+[Semantic Chunk 59]
+③검량선은시료분석조건과주입방법에따라작성하고검량선이적정하다고판
+정하면시료를분석한다.
+
+[Semantic Chunk 60]
+검량선은분석할시료의농도를포함해야하며외삽
+법은피한다.
+
+[Semantic Chunk 61]
+검량선의적정성은제시된분석기기의매뉴얼을참조하거나상관
+계수가0.99이상의것을사용하도록한다.
+
+[Semantic Chunk 62]
+(3) 회수율검정을위한시료제조및회수율계산방법
+회수율은사용한매체와동일한매체을이용하여채취한물질의분석값을보정
+하는데필요한것으로채취에사용하지않은동일한매체에첨가된양과분석량
+의비로표현된값을말한다.
+
+[Semantic Chunk 63]
+이실험을통하여매체의오염, 시약의오염, 매체
+에대한시료채취효율등을알수있다.
+
+[Semantic Chunk 64]
+시료배치당최소한한번씩은행해야
+한다.
+
+[Semantic Chunk 65]
+(가) 회수율실험을위한첨가량을결정한다.
+
+[Semantic Chunk 66]
+작업장의농도를포함하도록예상되는
+KOSHA GUIDE
+A –172 - 2018
+- 8 -
+농도(ppm)와공기채취량(L)에따라첨가량을계산한다.
+
+[Semantic Chunk 67]
+만일작업장의예상
+농도를모를경우첨가량은노출기준과공기채취량10 L를기준으로계산한
+다.
+
+[Semantic Chunk 68]
+계산된첨가량3개농도수준(0.5~2배)의양을반복적으로3개(3수준× 3
+반복= 9개) 주입할흡착관과공시료3개를준비한다.
+
+[Semantic Chunk 69]
+(나) 분석대상물질의원액또는희석액일정량을마이크로피펫또는마이크로시린
+지를이용하여매체에주입한다.
+
+[Semantic Chunk 70]
+(다) 매체을밀봉하고하루동안상온에놓아둔다.
+
+[Semantic Chunk 71]
+(라) 시료와동일한방법으로전처리하여분석후검출량을구한다.
+
+[Semantic Chunk 72]
+(마) 다음식에의해회수율을구한다.
+
+[Semantic Chunk 73]
+회수율= 분석량/ 첨가량
+(바) 회수율은최소한0.75 이상이되어야하나0.90 이상이면좋다.
+
+[Semantic Chunk 74]
+회수율에대한
+평가는분석자가해야한다.
+
+[Semantic Chunk 75]
+즉12개의회수율실험결과를근거로판단해야할
+사항은회수율간의일정성이다.
+
+[Semantic Chunk 76]
+만일회수율간의차이가크고변이가심하여
+일정성이없으면정확한보정이될수가없다.
+
+[Semantic Chunk 77]
+따라서그원인을찾아교정하
+고다시실험을실시해야한다.
+
+[Semantic Chunk 78]
+- 9 -
+분자식:
+C3H7N
+구조식:
+-
+분자량:
+57.1
+CAS No.
+
+[Semantic Chunk 79]
+:
+75-55-8
+녹는점:
+-
+끓는점:
+66.67℃
+(152 ℉)
+비
+중:
+0.80
+용해도:
+용매에녹음
+특징, 발생원및용도:
+강한 암모니아 냄새가 나는 무색의 액체
+노출기준
+고용노동부
+(ppm)
+TWA 2, 발암성1B
+OSHA
+(ppm)
+PEL 2 ppm, 5 mg/m3
+ACGIH
+(ppm)
+TWA
+0.2
+STEL
+0.4
+(skin)
+NIOSH
+(ppm)
+TWA 2 ppm
+동의어:
+2-Methylaziridine, 2-Methylethyleneimine, Propyleneimine, Propylene imine (inhibited),
+Propylenimine
+분석원리및적용성: 작업환경중의프로필렌이민을폴린시약이담긴버블러로채취하여클로로포름으로
+탈착시킨후가스크로마토그래프로정량한다.
+
+[Semantic Chunk 80]
+시료채취개요
+분석개요
+§
+채취방법: midget Fritted Glass
+Bubbler(MFGB), 폴린시약(15mL)
+§
+유량: 0.2 L/min
+§
+공기량: 최소1 L at 0.5 ppm
+최대48 L
+§
+운반: 5℃에서직사광선을피해운반
+§
+시료의안정성: 5℃의직사광선차단된상태에
+서14일
+§
+공시료: 총시료수의10% 이상또는시료세
+트당2-10개의현장공시료
+§
+분석기기:액체크로마토그래프/자외선검출기
+§
+분석대상물질: 프로필렌이민
+§
+전처리: 4 mL 클로로포름
+§
+이동상: 50% 메탄올: 50% 증류수, 유속1.3
+mL/min
+§
+컬럼: C18 컬럼
+§
+파장: 자외선검출기254 mm
+§
+검량선: 클로로포름내
+4-(1-aziridinyl)-1,2-napythoquinone
+§
+범위: 1 ∼795 ㎎/sample
+§
+검출한계: 0.3 ㎍/sample
+§
+정밀도: 0.024
+방해작용및조치
+정확도및정밀도
+§
+알루미늄호일을사용하여빛을차단
+§
+연구범위(range studied): 0.16∼21 ㎍/sample
+(2.6∼39 L samples)
+§
+편항(bias): -2%
+§
+총정밀도(overall precision): 0.069
+§
+정확도(Accuracy) : ±15.5%
+프로필렌이민
+(Propylene Imine)
+                                                                                
+- 10 -
+시약
+기구
+§
+1% 에탄올이함유된클로로포름(UV grade)
+§
+헥산(Hexane, UV grade)
+§
+2-프로판올(2-propanol, UV grade)
+§
+메탄올(Methanol, UV grade)
+§
+프로필렌이민
+§
+1,2-나프토퀴논-4-술폰산나트륨염
+§
+증류수또는탈이온수
+§
+0.1M 수산화나트륨(NaOH) 용액: 1g의NaOH
+를증류수에녹여250mL가되게한다.
+
+[Semantic Chunk 81]
+§
+인산이수소칼륨(KH2PO4)
+용액:
+3.40g의
+KH2PO4를증류수에녹여250mL가되게한다.
+
+[Semantic Chunk 82]
+§
+버퍼용액(pH=7.7): 0.1M KH2PO4 10mL와0.1M
+NaOH 93.4mL
+§
+폴린시약(Folin’s reagent): 0.4g의1,2-나프토퀴
+논-4-술폰산나트륨염을100mL 버퍼용액에녹인후
+500mL의증류수로희석한다.
+
+[Semantic Chunk 83]
+알루미늄호일로플라
+스크를밀봉한다(5일동안안정함).
+
+[Semantic Chunk 84]
+§
+0.5M
+인산플루오르화나트륨(Na3PO4)
+용액:
+Na3PO4·12H2O 19g을증류수에녹여100mL가
+되게한다.
+
+[Semantic Chunk 85]
+§
+4-(1-Aziridinyl)-1,2-naphthoquinone: 부록참조
+§
+검량선용액, 500ug/mL:
+4-(1-Aziridinyl)-1,2-naphthoquinone 125mg을
+클로로포름에녹여250mL가되게한다.
+
+[Semantic Chunk 86]
+§
+탈착용액, 10mg/mL: 2.50g의프로필렌이민을
+클로로포름에녹여250mL가되게한다.
+
+[Semantic Chunk 87]
+§
+시료채취매체: midget 버블러(15mL 폴린용액)
+§
+개인시료채취펌프:　유량0.2 L/min
+§
+액체크로마토그래프, 자외선검출기
+§
+1mL 실린지, 최소눈금10㎕
+§
+100㎕실린지, 최소눈금1㎕
+§
+10㎕실린지, 최소눈금0.1㎕
+§
+10, 100, 250, 500mL 용량플라스크
+§
+2mL 바이알, PTFE-lined crimp caps
+§
+25, 100mL 메스실린더
+§
+PTFE 코크분액깔대기
+§
+유리깔대기
+§
+50mL, 2L 비커
+§
+알루미늄호일
+§
+pH시험지
+§
+피펫벌브
+§
+특별안전보건예방조치: 프로필렌이민은발암성이고매우유독하며가연성물질이다.
+
+[Semantic Chunk 88]
+또한눈, 피부, 점막에
+심한자극을주므로후드안에서실험해야한다.
+
+[Semantic Chunk 89]
+I.
+
+[Semantic Chunk 90]
+시료채취
+1.
+
+[Semantic Chunk 91]
+시료채취시와동일한연결상태에서각시료채취펌프를보정한다.
+
+[Semantic Chunk 92]
+2.
+
+[Semantic Chunk 93]
+약0.2 L/min의유량으로1∼48 L 정도시료를채취한다.
+
+[Semantic Chunk 94]
+3.
+
+[Semantic Chunk 95]
+시료채취후, 피펫벌브를사용하여임핀저스템을통해프로필렌이민파생물을제거하고시료채취용
+액을회수한다.
+
+[Semantic Chunk 96]
+2ml 클로로포름으로스템을헹구고버블러에세척액을넣는다.
+
+[Semantic Chunk 97]
+버블러는PTFE혹은
+유리와같이반응하지않는마개로막아야하며고무사용을금한다.
+
+[Semantic Chunk 98]
+4.
+
+[Semantic Chunk 99]
+빛을차단시키고, 5 ℃에서운반
+II.
+
+[Semantic Chunk 100]
+시료의전처리
+5.
+
+[Semantic Chunk 101]
+샘플용액을60 mL의분별깔대기로옮긴다.
+
+[Semantic Chunk 102]
+- 11 -
+6.
+
+[Semantic Chunk 103]
+버블러를4 mL 클로로포름으로헹구고, 헹군용액을분별깔대기에넣는다.
+
+[Semantic Chunk 104]
+7.
+
+[Semantic Chunk 105]
+마개를닫은후15초동안깔대기를흔들어상이분리되도록한다.
+
+[Semantic Chunk 106]
+8.
+
+[Semantic Chunk 107]
+클로로포름추출액을10 mL 플라스크에담는다.
+
+[Semantic Chunk 108]
+9.
+
+[Semantic Chunk 109]
+전처리과정6, 7번을반복하여클로로포름추출액을동일한플라스크에모은다.
+
+[Semantic Chunk 110]
+10.
+
+[Semantic Chunk 111]
+추출된용매를총10 mL가되도록클로로포름으로희석한다.
+
+[Semantic Chunk 112]
+III.
+
+[Semantic Chunk 113]
+시료분석
+【검량선작성및정도관리】
+11.
+
+[Semantic Chunk 114]
+매실험마다4-(1-aziridinyl)-1,2-naphthoquinone 1.4 ∼3681 ug/sample
+농도범위내에서최소
+한6개의표준물질로검량선을작성한다. 4-(1-aziridinyl)-1,2-naphthoquinone의1 ug은프로필렌
+이민0.216 ug에해당하며, 해당범위는프로필렌이민0.3 ~ 795 ug/sample 이다.
+
+[Semantic Chunk 115]
+1) 프로필렌이민의농도가0.3 ~ 795 ug/sample (0.03 ~ 79.5 ug/mL)가되도록스탁용액을희석하
+여스텐다드용액을준비한다.
+
+[Semantic Chunk 116]
+2) 13, 14 스텝에맞춰분석을진행한다.
+
+[Semantic Chunk 117]
+3) 검량선을작성한다(프로필렌이민의농도에대한피크면적혹은높이를사용)
+12.
+
+[Semantic Chunk 118]
+버블러에서회수율을결정한다.
+
+[Semantic Chunk 119]
+1) 스탁용액을클로로포름으로희석하여회수율용용액을준비한다. 2) 15mL의폴린용액이담긴버블러에알고있는농도의회수율용용액을주입한다.
+
+[Semantic Chunk 120]
+3개의농도에
+서5개의시료를준비한다.
+
+[Semantic Chunk 121]
+3) 5-10의스텝에따라샘플을전처리하고13, 14 스텝에맞춰분석을진행한다.
+
+[Semantic Chunk 122]
+4) 회수율과검량선을계산한다. 5) 다음의식으로회수율을구한다.
+
+[Semantic Chunk 123]
+【기기분석】
+13.
+
+[Semantic Chunk 124]
+액체크로마토그래프제조회사가권고하는대로기기를작동시키고, 이방법에서제시하는조건을
+참고하여기기를설정한다.
+
+[Semantic Chunk 125]
+14.
+
+[Semantic Chunk 126]
+스텐다드와샘플시료를분석한다.
+
+[Semantic Chunk 127]
+【4-(1-AZIRIDINYL)-1,2-NAPHTHOQUINONE의합성】
+1,2-naphthoquinone-4-sulfonic acid 2g과sodium salt 그리고250 mL의물을1L의알루미늄호일로
+감싼깔대기에둔다.
+
+[Semantic Chunk 128]
+25 mL의0.5몰trisodium phosphate를넣고잘섞이도록흔들어준다.
+
+[Semantic Chunk 129]
+pH 농도가
+10.5에서11.5 임을확인한다.
+
+[Semantic Chunk 130]
+0.3 mL의ethylenimine을넣고10분간격으로흔들어준다.
+
+[Semantic Chunk 131]
+클로로포름
+200 mL에서4-(1-aziridinyl)-1,2-naphthoquinone를추출한다.
+
+[Semantic Chunk 132]
+알루미늄호일로싸여진2L비커에추
+출물을섞는다.
+
+[Semantic Chunk 133]
+구멍이3개난알루미늄호일로비커를덮어준후질소퍼지로클로로포름을휘발시
+킨다.
+
+[Semantic Chunk 134]
+건조된잔여물을50 mL 비커에옮기고알루미늄호일로밀봉한다.
+
+[Semantic Chunk 135]
+잔여물에35 mL 메탄올과
+1 mL 클로로포름을추가한다.
+
+[Semantic Chunk 136]
+잔여물의일부분은분해되지않을것이다.
+
+[Semantic Chunk 137]
+필터에여과한후0℃로식
+혀준다.
+
+[Semantic Chunk 138]
+결정화된것을차가운4 mL 메탄올로씻어준후질소퍼지로건조한다.
+
+[Semantic Chunk 139]
+녹는점은173-17
+5℃이다.
+
+[Semantic Chunk 140]
+Ⅳ.
+
+[Semantic Chunk 141]
+계산
+                                                                                
+- 12 -
+15.
+
+[Semantic Chunk 142]
+다음식에의하여해당물질의농도를구한다.
+
+[Semantic Chunk 143]
+
+
+
+․ 분석물질의농도
+․ 시료앞의양
+․ 공시료의양
+․ 공기채취량
+※ 주의: 만일뒤층에서검출된양이앞층에서검출된양의10%를초과하면(Wb > Wf/10) 시료
+파과가일어난것이므로이자료는사용할수없다.
+
+[Semantic Chunk 144]
+Ⅴ.
+
+[Semantic Chunk 145]
+비고
+§
+이방법은작업환경측정및지정측정기관평가등에관한고시(고용노동부고시제2017-27호) 및
+NIOSH Manual of Analytical Method 3514에기초하여작성하였다.
+
+[Semantic Chunk 146]
+§
+건강영향및예방조치: 시약류의피부접촉이나흡입을피해야하며, 실험실에서는실험복및보호장
+비의착용이필요하다.
+
+[Semantic Chunk 147]
+Ⅵ.
+
+[Semantic Chunk 148]
+참고문헌
+1.
+
+[Semantic Chunk 149]
+고용노동부고시제2018-62호, 화학물질및물리적인자의노출기준
+2.
+
+[Semantic Chunk 150]
+고용노동부고시제2017-27호, 작업환경측정및지정측정기관평가등에관한고시.
+
+[Semantic Chunk 151]
+3.
+
+[Semantic Chunk 152]
+American
+Conference
+of
+Governmental
+Industrial
+Hygienists(ACGIH)
+Documentarion
+of
+the
+Threshold Limit Nalues and Biological Ezposure Indices, 2018
+4.
+
+[Semantic Chunk 153]
+National Institute for Occupational Safety and Health(NIOSH): NIOSH pocket guide to chemical
+hazards and other databases.
+
+[Semantic Chunk 154]
+5.
+
+[Semantic Chunk 155]
+National Institute for Occupational Safety and Health(NIOSH): Method 3514(1994)
+

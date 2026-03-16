@@ -1,0 +1,1252 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+H - 72 - 2015
+확산시료채취법과흡착관․열탈착․
+가스크로마토그래피분석에의한
+유기화합물질평가방법에관한기술지침
+2015.
+
+[Semantic Chunk 2]
+9
+한국산업안전보건공단
+안전보건기술지침의개요
+ㅇ작성자: 한국산업안전보건공단산업안전보건연구원
+박승현
+ㅇ개정자: 한국산업안전보건공단산업안전보건연구원
+박승현
+ㅇ제ㆍ개정경과
+- 2009년
+6월
+산업위생분야기준제정위원회심의
+- 2009년
+8월
+총괄제정위원회심의
+- 2012년
+5월
+총괄제정위원회심의(개정, 법규개정조항반영)
+- 2015년
+4월
+산업위생분야기준제정위원회심의(개정, 법규개정조항반영)
+ㅇ관련규격및자료
+- KS : 실내, 주위및작업장공기-흡착관/열탈착/캐필러리가스크로마토그래피를이용한휘
+발성유기화합물의시료채취및분석- 제2부: 확산시료채취, KS/ISO 16017-2, 2005
+- ISO : Indoor, ambient and workplace air - Sampling and analysis of volatile
+organic
+compounds
+by
+sorbent
+tube/thermal
+desorption/capillary
+gas
+chromatography - Part 2: Diffusive sampling, ISO 16017-2, 2003
+- HSE : Volatile organic compounds in air, laboratory method using diffusive solid
+sorbent tubes, thermal desorption and gas chromatography, MDHS 80,
+HSE, 1995
+ㅇ관련법규․규칙․고시등
+- 산업안전보건법제23조(보건조치)
+- 고용노동부고시제2013-39호「작업환경측정및지정측정기관평가등에관한고시」
+○기술지침의적용및문의
+- 이기술지침에대한의견또는문의는한국산업안전보건공단홈페이지(www.
+
+[Semantic Chunk 3]
+kosha.or.kr)의안전보건기술지침소관분야별문의처안내를참고하시기바랍니다.
+
+[Semantic Chunk 4]
+- 동지침내에서인용된관련규격및자료, 법규등에관하여최근개정본이있을
+경우에는해당개정본의내용을참고하시기바랍니다.
+
+[Semantic Chunk 5]
+공표일자: 2015년9월3일
+제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+H - 72 - 2015
+- 3 -
+확산시료채취법과흡착관․열탈착․
+가스크로마토그래피분석에의한유기화합물질
+평가방법에관한기술지침
+1.
+
+[Semantic Chunk 6]
+목적
+이지침은고용노동부고시제2013-39호「작업환경측정및지정측정기관평가등에
+관한고시」제23조에따라작업환경측정을하여야할유기화합물질에대한시료채
+취및분석방법을제시함을목적으로한다.
+
+[Semantic Chunk 7]
+2.
+
+[Semantic Chunk 8]
+적용범위
+이지침은작업환경측정대상화학물질중확산형흡착관을이용한열탈착가스크로
+마토그라피방법으로서각물질당약0.002 ～100 ㎎/㎥(8시간시료채취기준)의
+휘발성유기화합물질을평가하는경우에적용한다.
+
+[Semantic Chunk 9]
+3.
+
+[Semantic Chunk 10]
+정의
+3.1 이지침에서사용하는용어의뜻은다음과같다.
+
+[Semantic Chunk 11]
+(1) “흡착관(Sorbent tube)”이란휘발성유기화합물질을흡착할수있는흡착제가충진
+되어있는관을말한다.
+
+[Semantic Chunk 12]
+(2) “열탈착(Thermal desorption)”이란흡착관에포집되어있는휘발성유기화합물질
+을고온에서탈착시켜불활성기체를이용하여가스크로마토그래프로전달하는
+과정을말한다.
+
+[Semantic Chunk 13]
+(3) “파과부피(Breakthrough volume)”란평가대상유기화합물질을흡착할수있는
+KOSHA GUIDE
+H - 72 - 2015
+- 1 -
+흡착관의최대부피를말한다.
+
+[Semantic Chunk 14]
+다만, 흡착관에흡착되지않고통과되는부피는
+전체의5%를초과할수없다.
+
+[Semantic Chunk 15]
+3.2 그밖에이침에서사용하는용어의뜻은특별한규정이있는경우를제외하고는
+「산업안전보건법」, 같은법시행령, 같은법시행규칙및「산업보건기준에관한
+규칙」에서정하는바에따른다.
+
+[Semantic Chunk 16]
+4.
+
+[Semantic Chunk 17]
+원리
+확산시료채취용마개가부착된흡착관을작업환경공기중에노출시키면유기화합
+물질의
+증기는
+확산에
+의해
+흡착관에
+포집되며,
+이를
+탈착한
+후
+모세분리관
+(Capillary column) 및불꽃이온화검출기등의검출기가부착된가스크로마토그래프
+(Gas chromatograph)로
+분석하면
+공기중
+휘발성
+유기화합물질의농도를정량
+(Quantification) 할수있다.
+
+[Semantic Chunk 18]
+5.
+
+[Semantic Chunk 19]
+시약및재료
+5.1 시약은분석용(Analytical reagent grade) 유기화합물질을사용하여야한다.
+
+[Semantic Chunk 20]
+5.2.
+
+[Semantic Chunk 21]
+희석용매
+(1) 희석용매는분석대상물질이포함되어있지않고분석대상물질을잘분리할수
+있어야한다.
+
+[Semantic Chunk 22]
+(2) 희석용매는메틸알콜을사용한다.
+
+[Semantic Chunk 23]
+다만, 메틸알콜을사용할수없는경우에는에
+틸아세테이트, 싸이클로헥산등의용매를사용할수있다.
+
+[Semantic Chunk 24]
+5.3 흡착제
+(1) 흡착제의입자크기는0.18 ～0.25 ㎜(60～80 mesh)를사용한다.
+
+[Semantic Chunk 25]
+KOSHA GUIDE
+H - 72 - 2015
+- 2 -
+(2) 흡착제는흡착관에충진되기전에적어도최고권장온도보다25 ℃낮은온도에서24
+시간동안불활성가스를흘려주면서가열하여사전안정화(Pre-conditioning)를시켜
+야한다.
+
+[Semantic Chunk 26]
+(3) 흡착제의오염을방지하기위하여가열한후식히거나저장또는흡착관에충진
+시깨끗한장소에서이루어져야한다.
+
+[Semantic Chunk 27]
+(4) 가능한한분석시탈착온도는안정화(Conditioning) 온도미만에서이루어져야한다.
+
+[Semantic Chunk 28]
+(5) 흡착제의선정은별표1부터별표3까지를참조한다.
+
+[Semantic Chunk 29]
+6.
+
+[Semantic Chunk 30]
+표준시료
+검량선작성용표준시료는기지농도의표준공기(Standard atmospheres)에서흡착관을
+이용하여채취하여제조하여야한다. 6.1 표준공기를이용한흡착관표준시료의제조
+(1) 펌프를이용하여정확히알려진공기부피를통과시켜표준시료를제조한다.
+
+[Semantic Chunk 31]
+(2) 표준공기중시료의농도는10 ㎎/㎥이되도록한후흡착관을이용하여100 ㎖,
+200 ㎖, 400 ㎖, 1 ℓ, 2 ℓ또는4 ℓ를채취한다.
+
+[Semantic Chunk 32]
+(3) 채취한공기의부피는파과부피를초과하지않아야하며채취후떼어낸흡착관은
+밀봉한다.
+
+[Semantic Chunk 33]
+(4) 표준시료는매사용시마다제조하여사용하여야한다.
+
+[Semantic Chunk 34]
+6.2 액체주입에의한표준용액제조는다음의어느하나를사용한다.
+
+[Semantic Chunk 35]
+6.2.1 각액체성분이약10 ㎎/㎖인표준용액
+KOSHA GUIDE
+H - 72 - 2015
+- 3 -
+100 ㎖플라스크에휘발성이가장낮은물질부터시작하여약1 g씩각각해당물질
+의질량을정확히넣고희석용매로100 ㎖를채운후마개를닫은다음흔들어준다. 6.2.2 각액체성분이약1 ㎎/㎖인표준용액
+100 ㎖플라스크에50 ㎖의희석용매를넣고6.2.1의용액10 ㎖를넣은다음희석용
+매로100 ㎖를채운후마개를닫고흔들어준다.
+
+[Semantic Chunk 36]
+6.2.3 각가스성분이약1 ㎎/㎖인표준용액
+(1) 순수가스가들어있는가스실린더로부터작은플라스틱백(Bag) 등에가스를채
+워대기조건하에서가스를얻을수있다.
+
+[Semantic Chunk 37]
+(2) 1 ㎖가스용시린지(Syringe)를이용하여순수가스1 ㎖를채운후시린지밸브
+를잠근다.
+
+[Semantic Chunk 38]
+(3) 희석용매2 ㎖를2 ㎖바이얼(Vial)에넣고마개(Septum cap)를닫는다.
+
+[Semantic Chunk 39]
+(4) 바이얼마개에시린지바늘을꽂은다음밸브를열고플런져(Plunger)를이용하
+여시린지안으로희석용매가들어오도록하면희석용매에가스가용해되면서시
+린지는희석용매로채워진다.
+
+[Semantic Chunk 40]
+(5) 시린지안의용액을플라스크에넣은다음시린지를용액으로씻는다.
+
+[Semantic Chunk 41]
+(6) 표준상태에서가스법칙을사용하여가스의질량을산출한다.
+
+[Semantic Chunk 42]
+6.3 검량선작성용혼합용액의안정성
+표준용액은주1회로제조하여야한다.
+
+[Semantic Chunk 43]
+다만, 알콜과케톤이응축반응(Condensation
+reactions)을일으켜표준용액이변질되는경우에는주2회이상제조하여야한다.
+
+[Semantic Chunk 44]
+6.4 액체주입방법을이용한흡착관표준시료는흡착관에표준용액을주입하여다음과
+같이제조한다.
+
+[Semantic Chunk 45]
+(1) 흡착관을이동가스가100 ㎖/min로흐르는가스크로마토그래프의시료주입부에
+KOSHA GUIDE
+H - 72 - 2015
+- 4 -
+연결한후제조된표준용액(6.2.1, 6.2.2 또는6.2.3) 1～5 ㎕를시료주입구에주입
+한다.
+
+[Semantic Chunk 46]
+(2) 5분후에흡착관을떼어내어밀봉한다.
+
+[Semantic Chunk 47]
+(3) 표준시료는매사용시마다제조하여야한다.
+
+[Semantic Chunk 48]
+7.
+
+[Semantic Chunk 49]
+실험기구
+7.1 흡착관
+(1) 흡착관은스테인레스강관으로서, 외경6.3 ㎜(1/4 inch), 내경5 ㎜및길이90 ㎜를
+사용한다.
+
+[Semantic Chunk 50]
+(2) 유기화합물질및흡착제의종류별시료채취속도(Uptake rate)는별표4와같다.
+
+[Semantic Chunk 51]
+(3) 흡착관은테프론밀봉재(Seals)가부착된금속마개로밀봉한다.
+
+[Semantic Chunk 52]
+7.2 확산시료채취에사용되는흡착관의마개는7.2의흡착관마개와유사하나금속거즈를
+통해흡착관안으로증기가유입된다.
+
+[Semantic Chunk 53]
+7.3 시린지는다음중어느하나를사용한다.
+
+[Semantic Chunk 54]
+(1) 0.1 ㎕까지읽을수있는10 ㎕액체용시린지
+(2) 0.1 ㎕까지읽을수있는10 ㎕기체용시린지
+(3) 0.01 ㎖까지읽을수있는1 ㎖기체용시린지
+7.4 가스크로마토그래프
+(1) 불꽃이온화검출기, 광이온화검출기, 질량검출기또는다른검출기가있는가스크
+KOSHA GUIDE
+H - 72 - 2015
+- 5 -
+로마토그래프를사용한다.
+
+[Semantic Chunk 55]
+(2) 0.5 ng의톨루엔을주입할경우에는신호(Signal)와노이즈(Noise)의비가적어도
+5:1로검출되어야한다.
+
+[Semantic Chunk 56]
+7.5 열탈착장치
+(1) 열탈착장치는2단계로열탈착된후탈착된증기가이동가스와함께가스크로마
+토그래프로전송되는장치가필요하다.
+
+[Semantic Chunk 57]
+(2) 열탈착장치는흡착관에열을가하면서동시에이동가스가흐르게하여분석물질이
+탈착되도록하는기능이필요하다.
+
+[Semantic Chunk 58]
+(3) 열탈착장치는탈착온도, 시간및가스유량을조절할수있는기능이필요하다.
+
+[Semantic Chunk 59]
+(4) 열탈착장치는흡착관을자동으로장착하고누출시험을할수있어야하고탈착된
+시료를농축시킬수있는냉각트랩이필요하다.
+
+[Semantic Chunk 60]
+(5) 탈착된시료는이동가스와함께전송관을통해가스크로마토그래프의분리관으로
+전송된다.
+
+[Semantic Chunk 61]
+7.6 액체주입에의한흡착관표준시료제조장치
+가스크로마토그래프의시료주입부에흡착관을연결하여액체주입에의해표준시료를제
+조한다.
+
+[Semantic Chunk 62]
+8.
+
+[Semantic Chunk 63]
+시료채취방법
+8.1 흡착관은사용하기전에다음과같이안정화시켜야한다.
+
+[Semantic Chunk 64]
+(1) 이동가스가최소한100 ㎖/min로흐르게하고별표3에서정하는탈착온도이상
+KOSHA GUIDE
+H - 72 - 2015
+- 6 -
+의온도에서10분간안정화시켜야한다.
+
+[Semantic Chunk 65]
+(2) 안정화된흡착관은해당분석조건에서공시료분석을행하고그결과가적절한
+지(간섭물질의가스크로마토그래프피크면적이방해분석물질의전형적인피크면
+적의10 % 미만인지) 확인한다.
+
+[Semantic Chunk 66]
+(3) 시료채취를하지않거나안정화된흡착관은테플론이코팅된금속마개로밀봉
+하여깨끗한용기에보관한다.
+
+[Semantic Chunk 67]
+8.2 시료채취
+(1) 측정대상화합물또는혼합물의특성에적합한흡착관을별표1부터별표4까지를
+참조하여선정한다.
+
+[Semantic Chunk 68]
+(2) 시료채취전에보관용흡착관마개를제거하고즉시확산시료채취용마개로교
+환한다.
+
+[Semantic Chunk 69]
+(3)
+7.3의
+확산
+시료채취용
+마개를
+갖춘
+7.1의
+흡착관의
+경우는
+면속도(Face
+velocity/Air velocity)에영향을받지않으나면속도에대한요구사항이있는경우
+해당면속도를충족하는경우에만시료채취를한다.
+
+[Semantic Chunk 70]
+(4) 시료채취전후의시료채취시간, 온도, 면속도등을기록한다.
+
+[Semantic Chunk 71]
+(5) 시료채취후에는확산시료채취용마개를보관용흡착관마개로교체한후잘밀봉
+한다.
+
+[Semantic Chunk 72]
+(6) 흡착관에측정위치등을표시하여야한다.
+
+[Semantic Chunk 73]
+다만, 표시하는경우에는솔벤트가함
+유된접착제, 페인트등을사용할수없다.
+
+[Semantic Chunk 74]
+(7) 채취한시료는8시간이내에분석을하여야한다.
+
+[Semantic Chunk 75]
+다만, 8시간이내에분석할수
+없는경우에는깨끗하고밀봉이잘되는금속또는유리용기에보관한다.
+
+[Semantic Chunk 76]
+(8) 공시료는현장시료와동일하게취급및분석한다.
+
+[Semantic Chunk 77]
+9.
+
+[Semantic Chunk 78]
+분석순서
+KOSHA GUIDE
+H - 72 - 2015
+- 7 -
+9.1 탈착및분석
+(1) 흡착관은열탈착장치에장착한다.
+
+[Semantic Chunk 79]
+(2) 흡착제나가스정지상(Gas chromatographic stationary phase)의열적산화로인한
+불순물(Chromatographic artefacts) 발생을예방하기위하여흡착관으로부터공기를
+퍼지(Purge) 한다.
+
+[Semantic Chunk 80]
+다만, 공기를퍼지하기위해흡착관부피의10배(20~30 ㎖)의불
+활성가스가필요하며, 이때에흡착관이가열되지않도록한다.
+
+[Semantic Chunk 81]
+(3) 흡착관의말단표시(Marked end of the tube) 부분이가스크로마토그래프의분리관
+입구쪽에더가깝도록장착하고, 이동가스를가스크로마토그래프에흐르게하여
+가열된흡착관에서유기화합물질을탈착시킨다.
+
+[Semantic Chunk 82]
+(4) 흡착관을통과하는가스유량은30～50 ㎖/min이되도록한다.
+
+[Semantic Chunk 83]
+(5) 탈착된시료의가스부피는수㎖정도의소량이므로가스크로마토그래프분리관
+에전송되기이전에사전농축을하여야한다.
+
+[Semantic Chunk 84]
+(6) 농축방법은가늘고냉각된2차흡착트랩(Secondary sorbent trap)을사용하여저
+유량(5 ㎖/min 미만)으로빠르게탈착시켜피크폭이넓어지는것을최소화시키
+는방법을사용한다.
+
+[Semantic Chunk 85]
+(7) 분석을위한탈착조건은다음과같다.
+
+[Semantic Chunk 86]
+①탈착온도
+: 250 ～325 ℃
+②탈착시간
+:
+5 ～15 min
+③탈착유량
+:
+30 ～50 ㎖/min
+④냉각트랩저온조건:
+20 ～-180 ℃(냉각트랩에따라다름)
+⑤냉각트랩고온조건: 250 ～350 ℃
+⑥냉각트랩흡착제
+:
+40 ～100 ㎎(일반적으로흡착관의흡착제와동일)
+⑦이동가스
+: 헬륨
+⑧분리비
+: 흡착관과2차트랩사이또는2차트랩과분리관(분석컬럼)
+KOSHA GUIDE
+H - 72 - 2015
+- 8 -
+사이의분리비(Split ratio)는예상되는공기중농도에따
+라선택(장비제조회사의메뉴얼참조)
+(8) 탈착온도는KOSHA-Code, H-15-1999(펌프식시료채취법과흡착관․열탈착․가스
+크로마토그래피분석에의한유기화합물질평가방법에관한기술지침) 별표4부터
+별표9까지를참조한다.
+
+[Semantic Chunk 87]
+(9) 흡착제에대한탈착온도는별표2 및별표3을참조한다.
+
+[Semantic Chunk 88]
+(10) 일반적으로분리비는100:1 ～1000:1를사용한다.
+
+[Semantic Chunk 89]
+9.2 검량선작성
+(1) 표준공기를이용한흡착관표준시료(6.1) 또는액체주입방법을이용한흡착관표준
+시료(6.4)를열탈착가스크로마토그래피로분석한다.
+
+[Semantic Chunk 90]
+(2) 각표준시료에대하여표준물질의질량(㎍)을횡축으로하고표준물질의피크면적
+을종축으로하여검량선을작성한다.
+
+[Semantic Chunk 91]
+9.3 시료의질량산출은9.1에서제시된방법으로시료와공시료를분석하여검량선으
+로부터분석물질의질량을산출한다.
+
+[Semantic Chunk 92]
+9.4 탈착효율산출
+(1) 탈착효율은흡착관표준시료의분석결과(Chromatographic response)를표준용액
+또는표준공기를직접가스크로마토그래프에주입하여얻어진분석결과와비교하여
+산정하여야한다. (2) 탈착효율은흡착관표준시료의분석결과를표준용액또는표준공기를가스크로
+마토그래프에직접주입한분석결과로나눈값이며, 탈착효율이95 %미만인경우
+에는탈착조건을변경하여야한다.
+
+[Semantic Chunk 93]
+(3) 열탈착장치에직접액체주입장치가없는경우의탈착효율은다음과같이분석
+KOSHA GUIDE
+H - 72 - 2015
+- 9 -
+대상물질의검량선과노말헥산의검량선을비교하여야한다.
+
+[Semantic Chunk 94]
+①노말헥산의검량선기울기에대한해당물질의검량선기울기의비율은해당물질
+에대한상대반응계수(Relative response factor)와동일하여야한다.
+
+[Semantic Chunk 95]
+②다른물질에대한반응계수는유효탄소수로부터근사적으로산출할수있다.
+
+[Semantic Chunk 96]
+다
+만, 검량선기울기의비율이상대반응계수와10 %이내에서일치하지않을경우
+에는탈착조건을변경하여야한다.
+
+[Semantic Chunk 97]
+9.5 시료채취속도(Uptake rate)의산출을위한흡착관에대한물질별시료채취속도는
+별표4와같다.
+
+[Semantic Chunk 98]
+10.
+
+[Semantic Chunk 99]
+분석대상물질의농도계산
+시료채취공기중분석대상물질의농도는다음식으로계산한다.
+
+[Semantic Chunk 100]
+Cm =
+Mf - Mb
+× 106
+qv․t
+Cm : 시료채취공기중분석대상물질의농도(㎎/㎥)
+Mf : 시료중의분석대상물질의검출량(㎎)
+Mb : 공시료중의분석대상물질의검출량(㎎)
+qv : 시료채취속도(㎤/분)
+t : 노출시간(분)
+11.
+
+[Semantic Chunk 101]
+방해물질
+가스크로마토그래프로분석하는동안분석대상물질의머무름시간(Retetion time)과
+동일또는유사한유기물질은방해작용을할수있으므로다음과같이조치하여야
+KOSHA GUIDE
+H - 72 - 2015
+- 10 -
+한다. (1) 방해작용은적절한가스크로마토그래프의분리관및분석조건그리고분석전에
+흡착관및분석시스템의엄격한안정화를통해최소화하여야한다.
+
+[Semantic Chunk 102]
+(2) 다공성폴리머(Porous polymers) 또는소수성흡착제(Carbopack/Carbotrap)는상
+대습도95 %에서도사용이가능하나순수활성탄또는카본분자체와같은흡착
+제는상대습도가65 %를초과하는장소에서사용할수없다.
+
+[Semantic Chunk 103]
+시료채취시간단축,
+실리콘멤브레인을갖춘확산마개사용, 드라이퍼지(Purge) 등이수분을줄일
+수있는방법이다.
+
+[Semantic Chunk 104]
+(3) 수분이있는상태에서오존과질소산화물은Tenax TA 흡착관에손상을주며,
+벤즈알데히드(Benzaldehyde)와아세토페논(Acetophenone)등이생성될수있다.
+
+[Semantic Chunk 105]
+(4) 오존과질소산화물은측정되는성분과반응할수있으므로많은양이존재하는
+경우에는시료채취의부피감소또는Carbopack 흡착관을사용한다.
+
+[Semantic Chunk 106]
+12.
+
+[Semantic Chunk 107]
+정도관리
+(1) 불순물의피이크가분석대상물질면적의10% 이하인경우에는공시료로서사용
+할수있다.
+
+[Semantic Chunk 108]
+(2) 시료채취속도는별표4와같다.
+
+[Semantic Chunk 109]
+다만, 흡착관의수명동안일정하게유지될수
+있으나과도한진동등으로인한흡착제의손실또는손상이있을수있다.
+
+[Semantic Chunk 110]
+(3) 흡착관은육안으로자주검사해야하고, 100회사용또는2년사용후에는다시
+충진하여야한다.
+
+[Semantic Chunk 111]
+KOSHA GUIDE
+H - 72 - 2015
+- 11 -
+[별표1]
+흡착제의종류및성분
+흡착관의종류
+흡착제의성분
+Ambersorb XAD-4
+Carbotrap B/C
+Carbopack B/C
+Carbosieve S-lll
+Carboxen 569
+Carboxen 1000
+Chromosorb 102
+Chromosorb 106
+Carbograph TD-1
+Porapak N
+Porapak Q
+Spherocarb
+Tenax TA
+Tenax GR
+스티렌/디비닐벤젠중합체
+흑연화탄소
+흑연화탄소
+탄소분자체
+탄소분자체
+탄소분자체
+스티렌/디비닐벤젠
+폴리스티렌
+흑연화탄소
+비닐피롤리돈
+에틸비닐벤젠/디비닐벤젠
+탄소분자체
+폴리(2,6-디페닐-p-페닐렌옥사이드)
+흑연화폴리디페닐옥사이드
+Carbotrap, Carbopack, Carbosieve S-lll, Caboxen: 미국Supelco회사의고유상표임
+Chromosorb: 미국Manville 회사의고유상표임
+Porapak: 미국Waters Associates 회사의고유상표임
+Spherocarb: 미국Analabs 회사의고유상표임
+Tenax:
+미국Enka 연구소의고유상표임
+Ambersorb: 미국Rohm & Hass 회사의고유상표임
+Carbograph: 미국Altech 회사의고유상표임
+KOSHA GUIDE
+H - 72 - 2015
+- 12 -
+[별표2]
+흡착제선정가이드
+흡착제의종류
+분석물질휘발성범위
+최고온도
+(℃)
+비표면적
+(㎡/g)
+Carbotrap C
+Carbopack C
+탄소수: C8～C20
+>400
+12
+Tenax TA
+끓는점: 100 ℃～400 ℃
+탄소수: C6～C26
+350
+35
+Tenax GR
+끓는점: 100 ℃～450 ℃
+탄소수: C7～C30
+350
+35
+Carbotrap B
+Carbopack B
+Carbograph TD-1
+탄소수: (C4) C5～C14
+>400
+100
+Chromosorb 102
+끓는점: 50 ℃～200 ℃
+250
+350
+Chromosorb 106
+끓는점: 50 ℃～200 ℃
+250
+750
+Porapak Q
+끓는점: 50 ℃～200 ℃
+탄소수: C5～C12
+250
+550
+Porapak N
+끓는점: 50 ℃～150 ℃
+탄소수: C5～C8
+180
+300
+Spherocarb
+끓는점: -30 ℃～150 ℃
+탄소수: C3～C8
+>400
+1200
+Carbosieve Slll
+Carboxen 1000
+끓는점: -60 ℃～80 ℃
+400
+800
+Molecular Sieve
+끓는점: -60 ℃～80 ℃
+350
+-
+KOSHA GUIDE
+H - 72 - 2015
+- 13 -
+[별표3]
+흡착제사용가이드
+흡착관의종류
+최고
+온도
+(℃)
+조건화
+탈착
+온도
+(℃)
+가스유량
+(㎖/min)
+온도
+(℃)
+가스유량
+(㎖/min)
+Carbotrap C
+Carbopack C
+>400
+350
+100
+325
+30
+Tenax TA
+350
+330
+100
+300
+30
+Tenax GR
+350
+330
+100
+300
+30
+Carbotrap B
+Carbopack
+>400
+350
+100
+325
+30
+Chromosorb 102
+250
+250
+100
+225
+30
+Chromosorb 106
+250
+250
+100
+250
+30
+Porapak Q
+250
+250
+100
+225
+30
+Porapak N
+180
+180
+100
+180
+30
+Spherocarb
+>400
+400
+100
+390
+30
+Carbon Molecular Sieve
+(Carbosieve S-Ⅲor
+Carboxen 1000)
+400
+350
+100
+325
+30
+Molecular Sieve
+350
+330
+100
+300
+30
+Tenax / Carbopack B
+혼합형
+350
+330
+100
+300
+30
+Carbopack
+B
+/
+Carbon
+Molecular Sieve 혼합형
+400
+350
+100
+325
+30
+Carboxen 1000 series
+혼합형
+400
+350
+100
+325
+30
+KOSHA GUIDE
+H - 72 - 2015
+- 14 -
+[별표4]
+유기화합물질및흡착제의종류별시료채취속도
+화합물질
+흡착제
+시료채취속도
+(㎤/min)
+탄화수소
+1,3-Butadiene
+Molecular Sieve 13X
+0.59
+n-Pentane
+Chromosorb 106
+0.50
+Carbopack B
+0.60
+n-Hexane
+Chromosorb 106
+0.50
+Benzene
+Tenax TAd
+0.41
+Porapak Q
+0.42
+Tenax GR
+0.57
+Chromosorb 106
+0.54
+n-Heptane
+Chromosorb 106
+0.48
+Tenax TAe
+0.43
+Carbotrap B
+0.47
+Toluene
+Tenax TAe
+0.44
+Tenax GR
+0.56
+Chromosorb 106
+0.52
+Carbopack B
+0.55
+n-Octane
+Chromosorb 106
+0.46
+Tenax TAe
+0.43
+Xylene
+Tenax TAe
+0.42
+Chromosorb 106
+0.48
+Tenax GR
+0.57
+Ethylbenzene
+Tenax TAe
+0.46
+Tenax GR
+0.56
+Chromosorb 106
+0.44
+Porapak Q
+0.55
+Styrene
+Tenax TAe
+0.47
+Chromosorb 106
+0.51
+n-Nonane
+Chromosorb 106
+0.46
+Tenax TAe
+0.40
+Isopropyl benzene
+Chromosorb 106
+0.46
+Tenax TAe
+0.46
+Porapak Q
+0.51
+Trimethylbenzene
+Chromosorb 106
+0.48
+Tenax TAe
+0.48
+n-Decane
+Tenax TA
+0.40
+KOSHA GUIDE
+H - 72 - 2015
+- 15 -
+[별표4] : 계속
+화합물질
+흡착제
+시료채취속도
+(㎤/min)
+할로겐화탄화수소
+Methyl chloride
+Spherocarb
+0.63
+Vinyl chloride
+Spherocarb
+0.78
+1,1-Dichloroethene
+Spherocarb
+0.63
+Trichlorotrifluoroethane
+Chromosorb 102
+0.46
+Chlorotrifluoromethane
+Chromosorb 102
+0.42
+Dichloromethane
+Chromosorb 106
+0.43
+Chromosorb 102
+0.45
+1,2-Dichloroethane
+Chromosorb 102
+0.47
+Halothane
+Tenax TA
+0.32
+Chromosorb 102
+0.45
+Enflurane
+Tenax TA
+0.33
+Isoflurane
+Tenax TA
+0.32
+Bromoethane
+Chromosorb 106
+0.55
+Trichloromethane
+(chloroform)
+Tenax GR
+0.45
+Chromosorb 102
+0.48
+Tetrachloromethane
+(carbon tetrachloride)
+Tenax GR
+0.59
+Chromosorb 102
+0.48
+Trichloroethene
+Chromosorb 106
+0.47
+Chromosorb 102
+0.43
+1,1,1- Trichloroethane
+Chromosorb 106
+0.42
+Chromosorb 102
+0.42
+Tenax GR
+0.54
+Tetrachloroethene
+Chromosorb 106
+0.46
+Tenax TA
+0.41
+Chromosorb 102
+0.38
+Epichlorohydrin
+Chromosorb 106
+0.65
+Perfluorodimethylcyclobutane
+Carbotrap
+0.25
+Perfluoromethylcyclopentane
+Carbotrap
+0.25
+Perfluoromethylcyclohexane
+Carbotrap
+0.25
+KOSHA GUIDE
+H - 72 - 2015
+- 16 -
+[별표4] : 계속
+화합물질
+흡착제
+시료채취속도
+(㎤/min)
+에스테르및글리콜에테르
+Ethyl acetate
+Chromosorb 106
+0.49
+Tenax TA
+0.40
+n-Butylacetate
+Tenax TA
+0.61
+Methyl methacrylate
+Porapak Q
+0.49
+Butyl acrylate
+Tenax TA
+0.51
+2-Methoxyethanol
+Porapak Q
+0.48
+Chromosorb 106
+0.51
+2-Ethoxyethanol
+Tenax
+0.44
+2-Methoxyethyl acetate
+Porapak Q
+0.58
+2-Ethoxyethyl acetate
+Chromosorb 106
+0.39
+Tenax TA
+0.36
+2-Butoxyethanol
+Chromosorb 106
+0.35
+Tenax TA
+0.31
+2-Methoxypropanol
+Chromosorb 106
+0.45
+Tenax TA
+0.37
+2-Butoxyethyl acetate
+Tenax
+0.38
+알데히드및케톤
+Methyl isobutyl ketone
+Tenax TA
+0.42
+Chromosorb 106
+0.49
+Cyclohexanone
+Tenax TA
+0.57
+Furfural
+Tenax TA
+0.63
+알콜
+Propan-2-ol (isopropanol)
+Spherocarb
+0.81
+기타
+Acrylonitrile
+Porapak N
+0.62
+Acetonitrile
+Porapak N (2h)
+0.60
+Porapak N (8h)
+0.48
+Propionitrile
+Porapak N (2h)
+0.53
+Porapak N (8h)
+0.49
+Carbon disulfide
+Spherocarb
+0.83
+Nitrous oxide
+Molecular Sieve 5A
+0.70
+Ethylene oxide
+Spherocarb
+0.88
+1,4-Dioxane
+Spherocarb
+0.84
+KOSHA GUIDE
+H - 72 - 2015
+- 17 -
+지역
+VOC 결과비교(㎍/㎥)
+벤젠
+톨루엔
+크실렌
+Diffusive
+VOC air
+Diffusive
+VOC air
+Diffusive
+VOC air
+Leeds
+2.27 ± 0.07
+3.33
+5.30 ± 0.01
+6.75
+3.44 ± 0.07
+3.99
+Belfast
+2.10 ± 0.36
+2.94
+4.44 ± 0.15
+6.82
+3.34 ± 0.14
+3.55
+Bristol
+2.90 ± 0.33
+6.11
+6.45 ± 0.86
+2.25
+4.70 ± 0.26
+2.70
+Cardiff
+3.70 ± 0.46
+9.5
+7.90 ± 0.12
+8.38
+5.67 ± 0.10
+5.15
+Eltham
+2.55 ± 0.35
+4.65
+5.92 ± 0.69
+10.36
+3.55 ± 0.30
+3.10
+Liverpool
+2.12 ± 0.16
+1.23
+4.55 ± 0.19
+0.93
+3.86 ± 0.19
+0.84
+Middlesborough
+2.35 ± 0.27
+2.93
+4.23 ± 0.22
+4.59
+2.66 ± 0.14
+No data
+Southampton
+3.87 ± 0.73
+1.90
+8.12 ± 0.68
+11.14
+5.50 ± 0.20
+5.49
+UCL (London)
+4.06 ± 0.14
+6.05
+9.67 ± 0.16
+10.87
+6.79 ± 0.27
+7.79
+Edinburgh
+1.29 ± 0.20
+1.81
+3.29 ± 0.42
+3.78
+2.00 ± 0.27
+1.89
+Harwell
+0.66 ± 0.03
+0.90
+1.46 ± 0.31
+0.98
+0.60 ± 0.04
+No data
+Birmingham
+1.87 ± 0.27
+2.54
+4.76 ± 0.31
+6.75
+4.46 ± 0.27
+5.59
+[별표5]
+공기중휘발성유기화합물(VOC) 측정결과와의비교평가결과
+KOSHA GUIDE
+H - 72 - 2015
+- 18 -
+[별표6]
+일부국가의공기중휘발성유기화합물농도평가사례
+국가
+농도(㎍/㎥± 표준편차)
+벤젠
+톨루엔
+크실렌
+Sweden
+1.95 ± 0.08
+5.63 ± 0.77
+3.49 ± 0.29
+Denmark
+0.99 ± 0.04
+1.44 ± 0.03
+0.80 ± 0.07
+USA
+0.43 ± 0.07
+0.76 ± 0.09
+0.47 ± 0.09
+Australia
+1.94 ± 0.2
+5.23 ± 0.69
+3.87 ± 0.28
+Hungary
+2.65 ± 0.09
+4.7 ± 0.19
+3.27 ± 0.18
+Germany
+1.75 ± 0.15
+5.85 ± 0.56
+3.74 ± 0.33
+China
+12.3 ± 1.08
+23.04 ±2.32
+11.64 ± 0.51
+Finland
+0.84 ± 0.16
+2.16 ± 0.6
+1.58 ± 0.03
+Netherlands
+1.55 ± 0.14
+3.51 ± 0.27
+2.28 ± 0.14
+Israel
+1.42 ± 0.17
+3.24 ± 0.1
+2.79 ± 0.08
+Mexico
+3.05 ± 0.51
+23.43 ± 1.28
+8.79 ± 0.25
+Italy
+1.59 ± 0.15
+5.39 ± 0.11
+3.36 ± 0.41
+Brazil
+0.42 ± 0.33
+2.00 ± 0.59
+1.81 ± 0.15
+France
+1.81 ± 0.25
+7.32 ± 0.31
+3.87 ± 0.13
+N. Ireland
+2.10 ± 0.36
+4.44 ± 0.15
+3;34 ± 0.14
+England
+1.37 ± 0.25
+4.24 ± 0.09
+3.36 ± 0.11
+

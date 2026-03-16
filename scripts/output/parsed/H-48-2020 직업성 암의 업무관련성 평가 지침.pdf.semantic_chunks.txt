@@ -1,0 +1,886 @@
+[Semantic Chunk 1]
+KOSHA GUIDE
+H - 48 – 2020
+직업성암의업무관련성평가지침
+2020.
+
+[Semantic Chunk 2]
+10.
+
+[Semantic Chunk 3]
+한국산업안전보건공단
+안전보건기술지침의개요
+o 작성자: 인하대학교인하대병원직업환경의학과임종한
+o 개정자: 고신대학교복음병원직업환경의학과김정원
+o 제․개정경과
+- 2011년10월산업의학분야제정위원회심의(제정)
+- 2020년8월산업의학분야제정위원회심의(개정)
+o 관련규격및자료
+- 고용노동부.
+
+[Semantic Chunk 4]
+화학물질의노출기준.
+
+[Semantic Chunk 5]
+2018.
+
+[Semantic Chunk 6]
+- 근로복지공단.
+
+[Semantic Chunk 7]
+직업성암업무상질병업무처리요령확대시행.
+
+[Semantic Chunk 8]
+2019.
+
+[Semantic Chunk 9]
+- 김정원외.
+
+[Semantic Chunk 10]
+직업성질환검진·진단을위한전문가용가이드북개발.
+
+[Semantic Chunk 11]
+산업안전보건연구원.
+
+[Semantic Chunk 12]
+2012
+- 노동환경건강연구소.
+
+[Semantic Chunk 13]
+발암물질목록.
+
+[Semantic Chunk 14]
+2010.
+
+[Semantic Chunk 15]
+- 대한직업환경의학회. 직업환경의학.
+
+[Semantic Chunk 16]
+계축문화사. 2014
+- 원종욱외.
+
+[Semantic Chunk 17]
+직업성암재해조사및역학조사개선방안에관한연구.
+
+[Semantic Chunk 18]
+고용노동부.
+
+[Semantic Chunk 19]
+2018
+- 차봉석외.
+
+[Semantic Chunk 20]
+직업병학.
+
+[Semantic Chunk 21]
+계축문화사.
+
+[Semantic Chunk 22]
+서울.
+
+[Semantic Chunk 23]
+2007
+- Cogliano VJ, Baan R, Straif K, Grosse Y, Lauby-Secretan B, El Ghissassi F,
+et al.
+
+[Semantic Chunk 24]
+Preventable exposures associated with human cancers.
+
+[Semantic Chunk 25]
+Journal of the
+National Cancer Institute 2011;103(24):1827-39.
+
+[Semantic Chunk 26]
+- Driscoll T, Nelson DI, Steenland K, et al.
+
+[Semantic Chunk 27]
+The global burden of disease due to
+occupational carcinogens.
+
+[Semantic Chunk 28]
+Am J Ind Med 2005;48(6):419-31
+- EU.
+
+[Semantic Chunk 29]
+Information notices on occupational diseases a guide to diagnosis.
+
+[Semantic Chunk 30]
+2009.
+
+[Semantic Chunk 31]
+- Hill AB.
+
+[Semantic Chunk 32]
+The environment and disease: association or causation?
+
+[Semantic Chunk 33]
+Proc Roy Soc
+Med.
+
+[Semantic Chunk 34]
+1965;58:295-300.
+
+[Semantic Chunk 35]
+- IARC.
+
+[Semantic Chunk 36]
+WHO.
+
+[Semantic Chunk 37]
+Occupational cancer in developing countries.
+
+[Semantic Chunk 38]
+IARC Scientific
+Publications Number 129.
+
+[Semantic Chunk 39]
+Lyon.
+
+[Semantic Chunk 40]
+1994
+- Siemiatycki J, Richardson L, Straif K. et al.
+
+[Semantic Chunk 41]
+Listing occupational carcinogens.
+
+[Semantic Chunk 42]
+Environ Health Perspect 2004;112(15):1447-59
+o 관련법규․규칙․고시등
+- 산업안전보건법시행령제22조(보건관리자의업무등)
+- 산업안전보건법시행령제31조(산업보건의의직무등)
+- 산업안전보건법제129조(일반건강진단), 같은법시행규칙제198조(일반건강진단의
+검사항목및실시방법등)
+o 기술지침의적용및문의
+- 이기술지침에대한의견또는문의는한국산업안전보건공단홈페이지
+안전보건기술지침소관분야별문의처안내를참고하시기바랍니다.
+
+[Semantic Chunk 43]
+- 같은지침내에서인용된관련규격및자료, 법규등에관하여최근개정본
+이있을경우에는해당개정본의내용을참고하시기바랍니다.
+
+[Semantic Chunk 44]
+공표일자: 2020년10월8일
+제정자: 한국산업안전보건공단이사장
+KOSHA GUIDE
+H - 48 - 2020
+- 1 -
+직업성암의업무관련성평가지침
+1.
+
+[Semantic Chunk 45]
+목적
+이지침은직업성암을일으키는물질또는공정이존재하는사업장근로자를대상
+으로건강진단기관의의사가산업안전보건법(이하“법"이라한다) 제129조와같은
+법시행규칙제198조에의하여건강진단을실시하거나, 사업장에근무하는보건관리
+자및산업보건의가법시행령제22조및제31조에의거보건관리자및산업보건의
+의직무를수행함에있어암의업무관련성평가의기술적이해를목적으로한다.
+
+[Semantic Chunk 46]
+2.
+
+[Semantic Chunk 47]
+적용범위
+이지침은건강진단기관의의사및사업장의보건관리자와산업보건의가암이발생
+한근로자들에대하여업무관련성여부를평가하는과정에대한일반적이해를증진
+시키고업무관련성이의심되는암을직업환경의학전문의에게의뢰하는경우에적용
+한다.
+
+[Semantic Chunk 48]
+3.
+
+[Semantic Chunk 49]
+용어의정의
+(1) 이지침에서사용되는용어의정의는다음과같다.
+
+[Semantic Chunk 50]
+(가) "발암인자(Carcinogen)"라함은암을유발하는특정요인뿐만아니라암을유
+발하는산업및공정으로확인되었거나의심되는인자를말한다.
+
+[Semantic Chunk 51]
+유해화학물질
+관리법에서는
+국제암연구소(International
+Agency
+for
+Research
+on
+Cancer,
+IARC) 등국제전문기관의발암인자정의를준용하고있다.
+
+[Semantic Chunk 52]
+(나) “직업성암”이라함은직업적으로발암인자에노출되거나현재까지확실한
+발암인자를특정하지는못하였지만특정직업군이나산업에서증가하는암을
+말한다.
+
+[Semantic Chunk 53]
+KOSHA GUIDE
+H - 48 - 2020
+- 2 -
+암의확진
+⇩
+노출평가(질적·양적)
+⇩
+노출과암의인과평가
+⇩
+업무관련성최종결론
+(다) “최소유도기”라함은질환발생이가능한가장짧은노출기간으로정의한다.
+
+[Semantic Chunk 54]
+(라) “최대잠재기”라함은발암인자의노출이종료된후질환발생이가능한가장
+긴기간으로정의한다.
+
+[Semantic Chunk 55]
+(2) 그밖에이지침에서사용하는용어의정의는특별한규정이없는한산업안전보
+건법과산업재해보상보험법, 같은법시행령, 같은법시행규칙, 산업안전보건기
+준에관한규칙및관련고시에서정하는바에따른다.
+
+[Semantic Chunk 56]
+4.
+
+[Semantic Chunk 57]
+업무관련성평가과정
+<그림1> 업무관련성평가과정개요
+(1) 주치의소견서나진단서, 진료기록, (일반, 특수)건강진단기록을확인하고, 근
+로자상담및진찰을통해암의정확한진단명을확인한다.
+
+[Semantic Chunk 58]
+(2) 진단된암에대한발암인자의발암성및노출유무를평가한후, 확인된발암인자
+노출이의심된다면이에대한노출수준, 누적노출량등양적평가를진행한다. (3) 최소유도기와최대잠재기, 노출경로와암발생기전및관련역학연구들을종합적으
+로검토하여발암인자노출과진단된암의인과성및업무관련성에대해평가한다.
+
+[Semantic Chunk 59]
+4.1.
+
+[Semantic Chunk 60]
+암의확진
+KOSHA GUIDE
+H - 48 - 2020
+- 3 -
+(1) 확진된진단명은아래4.1.
+
+[Semantic Chunk 61]
+(2)에기술된근로자의진료기록을바탕으로작성된
+주치의소견서, 진단서등을통해대부분확인한다.
+
+[Semantic Chunk 62]
+(2) 암은증상, 객관적소견그리고전산화단층촬영검사(CT) 또는자기공명영상검
+사(MRI) 등영상의학적검사와조직병리검사, 세포진검사, 기관지내시경생검
+및세척, 골수검사, 경흉침생검혹은진단적개흉술등병리학적검사등을통
+해최종진단되어야한다. (3) 일반적으로암의업무관련성평가를위해서는암으로명확한진단(확진)을받아
+야하므로, 암이영상의학적혹은조직병리학적소견을통해진단되었는지를확
+인한다.
+
+[Semantic Chunk 63]
+이과정이불명확하거나암발생근로자의사망이나다른이유로인해
+확진에필요한자료가충분하지못하는등불가피한경우에는, 임상적진단을내
+린후추가적인평가를진행할수있다.
+
+[Semantic Chunk 64]
+(4) 위의과정에서진단된암이원발성인지, 속발성인지확인한다.
+
+[Semantic Chunk 65]
+원발성암에대해
+서만업무관련성평가를수행한다.
+
+[Semantic Chunk 66]
+(5) 암의경우조직학적으로다양한종류가있으며, 조직형에따른직업적발암원인
+이다른경우도있어주의가필요하다.
+
+[Semantic Chunk 67]
+특히, 백혈병이나림프종등의질환은반
+드시아형까지고려하여야한다.
+
+[Semantic Chunk 68]
+4.2.
+
+[Semantic Chunk 69]
+노출평가
+4.2.1. 노출의질적평가
+4.2.1.1.
+
+[Semantic Chunk 70]
+진단된특정암에해당하는발암인자확인
+(1) 진단된특정암을유발하는발암인자, 발암산업, 발암공정등을파악한다.
+
+[Semantic Chunk 71]
+(2) 고용노동부, 국제암연구소, 화학물질분류및표지에관한세계조화시스템, 미국산
+업위생전문가기구, 미국독성등록청, 유럽연합등여러권위있는기관에서는자체
+적인평가를통해여러유해인자에대한발암성에대한등급을나누고있다<별표
+1～6>.
+
+[Semantic Chunk 72]
+기관별분류기준은<별표7>과같다.
+
+[Semantic Chunk 73]
+KOSHA GUIDE
+H - 48 - 2020
+- 4 -
+(3) 직업성암의경우발암성판단근거에관한문헌검토의방대함과타당성을인정
+하여국제암연구소의기준을1차참고기준으로널리이용하고있다.
+
+[Semantic Chunk 74]
+(4) 국제암연구소분류에서그룹1 또는2A에속하는발암인자가업무관련성평가에
+있어주요고려대상이된다.
+
+[Semantic Chunk 75]
+보고서발간이후의최신논문등추가자료검토에
+따라발암성여부가변화하는경우도있다.
+
+[Semantic Chunk 76]
+(5) Cogliano 등(2011)은40년간동안발간된국제암연구소보고서들에대한리뷰를
+통해유해인자를각표적장기별로인간에서의충분한증거및제한적증거로재
+분류하여보고하고있어, 진단된암의역학조사진행을목적으로참고하기에용
+이한자료이다.
+
+[Semantic Chunk 77]
+4.2.1.2.
+
+[Semantic Chunk 78]
+발암인자노출유무확인
+(1) 직업력을통한직종과수행공정, 물질안전보건자료(Material Safety Data Sheet,
+MSDS), 작업환경측정결과, 관련법률, 해당산업의일반적인유해인자에대한정
+보등을참고하여근로자가특정기간수행한업무에서유해인자노출이존재하는
+지를평가한다.
+
+[Semantic Chunk 79]
+4.2.2.
+
+[Semantic Chunk 80]
+노출의양적평가(노출수준확인)
+(1) 양적평가는파악된발암인자에대한노출량, 노출기간등을수치적으로평가하여,
+가능한수준에서누적노출정도를추정하여,
+발암인자노출수준이암발생을일으
+킬만한정도인지를판단하는과정이다.
+
+[Semantic Chunk 81]
+(2) 직업성암은병이발생하기까지, 수년에서수십년의잠재기를가지기때문에추
+정발암인자에대한근로자의과거노출을평가해야한다.
+
+[Semantic Chunk 82]
+이를위해해당근로자가
+근무했던사업장의물질안전보건자료, 특수건강진단결과, 작업환경측정결과, 생
+물학적노출지표(biological exposure markers) 검사결과등을활용할수있다.
+
+[Semantic Chunk 83]
+(3) 다만위의자료들만으로과거누적노출량을정량적으로평가하기어려운경우가
+많다.
+
+[Semantic Chunk 84]
+이러한경우에는노출량에대한합리적인추정을해야할필요가있다.
+
+[Semantic Chunk 85]
+이를
+위해유사작업자의노출수준과관련된문헌조사, 유사노출작업장의작업환경측
+정자료, 파악한발암인자와관련된특수건강진단결과보고서등을일차적으로이
+용할수있다.
+
+[Semantic Chunk 86]
+KOSHA GUIDE
+H - 48 - 2020
+- 5 -
+(4) 또한직무노출매트릭스(Job Exposure Matrix, JEM), 전문가의견에의한노출판
+단그리고구조화된설문지등을통한‘노출재구성’을활용하는것도가능하다.
+
+[Semantic Chunk 87]
+(5) 수집된자료에서개연성있는적절한자료를선별하여과거노출을평가(validation)
+한다.
+
+[Semantic Chunk 88]
+(6) 대표적으로직업성암업무상질병업무처리요령에서는특정기간·특정직종에종
+사한근로자들의산재보상에있어몇몇암의업무관련성인정을위한최소노출기
+간을제시하고있다<별표8>.
+
+[Semantic Chunk 89]
+4.3.
+
+[Semantic Chunk 90]
+노출과암의인과평가
+4.3.1.
+
+[Semantic Chunk 91]
+최소유도기와최대잠재기
+(1) 발암인자노출과질환발생시기를파악한뒤최소유도기와최대잠재기를고려
+하여업무관련성평가에반영한다.
+
+[Semantic Chunk 92]
+(2) 조사된연구의한계로인해이두기준이절대적으로작용하지는않지만, 충분히
+고려하여야한다.
+
+[Semantic Chunk 93]
+(3) 발암인자종류와진단된암에따라최소유도기및최대잠재기는상이하다.
+
+[Semantic Chunk 94]
+(4) 일반적으로발암인자노출로부터진단까지고형암의경우최소10년, 혈액암은
+최소1년이상의기간이확인되어야인과관계가인정되는경우가많다.
+
+[Semantic Chunk 95]
+다만단
+기간고농도노출이있었거나, 젊은나이에노출이있었던경우에는이보다짧은
+기간에서도발생가능하므로이를업무관련성평가시에고려한다.
+
+[Semantic Chunk 96]
+4.3.2.
+
+[Semantic Chunk 97]
+노출경로와암발생기전평가
+(1) 파악된발암인자의가능한노출경로(호흡기, 소화기, 피부등)를조사하고, 이에따
+라암의발생기전을파악하여발암인자노출로부터암발생까지의생물학적개연
+성에대한근거를확립한다.
+
+[Semantic Chunk 98]
+(2) 이를위해인간및동물에서발암인자의흡수, 분포, 대사, 배설과관련된문헌을
+KOSHA GUIDE
+H - 48 - 2020
+- 6 -
+참고할수있다.
+
+[Semantic Chunk 99]
+(3) 발암인자의종류와진단된암의종류에따라노출경로또는암발생기전등에대한
+정보가명확히밝혀지지않은경우도있다.
+
+[Semantic Chunk 100]
+4.3.3.
+
+[Semantic Chunk 101]
+역학연구검토
+(1) 연구대상, 노출평가또는노출기간등을고려하여해당근로자와관련된역학연
+구를일차적으로선정한뒤, 연구설계방법(사례군연구, 코호트연구, 환자-대조
+군연구등), 노출평가방법, 질환확진방법, 바이어스, 교란변수등여러항목을
+고려하여어떤연구를우선적으로고려할지결정한다.
+
+[Semantic Chunk 102]
+(2) 근로자에게적용가능한적절한역학연구가존재하지않을수도있다.
+
+[Semantic Chunk 103]
+이러한경우
+국내에서수행된유사산업군및인접노출기간연구등을우선적으로검토하고, 기
+타외국에서수행된연구를추가적으로검토한뒤적절한가정을통해외삽하여
+적용할수있다.
+
+[Semantic Chunk 104]
+4.4.
+
+[Semantic Chunk 105]
+결론
+(1) 업무관련성평가는개인의발암인자노출의특성(강도, 기간, 누적노출량)이비노
+출되었을경우에비해진단된암의발생을유의하게증가시키는지여부를평가하
+여업무관련성을결정한다.
+
+[Semantic Chunk 106]
+(2) 인과성확립을위해힐의기준(Hill’s criteria)을적용할수있다.
+
+[Semantic Chunk 107]
+다만, 여러제한점
+으로인해절대적인기준으로적용하지는않는다.
+
+[Semantic Chunk 108]
+(3) 이때파악된발암인자외에다른원인이존재한다면, 파악된발암인자와의상호작
+용과더불어인과성에대한추가적인평가가필요하다.
+
+[Semantic Chunk 109]
+(4) 대부분의의학적논문은일반적으로흡연등다른원인이보정된결과값을제시한
+다.
+
+[Semantic Chunk 110]
+개인에게서특정발암인자의문헌적근거가충분하다면, 다른원인의기여도가
+높더라도산재보상에있어특정발암인자의업무관련성을인정받을수있다.
+
+[Semantic Chunk 111]
+(5) 판단에있어인과관계정도는생물학적현상의복잡성, 질환에대한제한적인이해
+KOSHA GUIDE
+H - 48 - 2020
+- 7 -
+와개인적인감수성등으로인해개인에게있어확정론적보다는확률론적으로설
+명한다.
+
+[Semantic Chunk 112]
+(6) 산업재해보상보험법시행령제34조제3항별표3 제10호에서는직업성암의인정기
+준을법적으로명시하고있다<별표9>.
+
+[Semantic Chunk 113]
+(7) 기타, 석면에의한원발성폐암, 석면에의한악성중피종, 탄광부·용접공·석공·주물
+공·도장공에발생한원발성폐암, 벤젠에노출되어발생한악성림프·조혈기계질환
+등의경우에는, 직업성암업무상질병업무처리요령확대시행에따라별도로참고
+할수있는판단기준을제시하고있다<별표8>.
+
+[Semantic Chunk 114]
+(8) 희귀질환등산재보상의구체적사례에대한인정여부는, 현재까지의역학연구등
+의학적근거수준만으로결정되지않는다.
+
+[Semantic Chunk 115]
+개별법이나사회적합의수준등이함께
+고려되는법적․사회적성격을가진다.
+
+[Semantic Chunk 116]
+KOSHA GUIDE
+H - 48 - 2020
+- 8 -
+IARC
+그룹1
+인간에게발암확정물질(The agent(mixture) is carcinogenic to
+humans)
+그룹2A
+인간에게발암우려물질(The agent(mixture) is probably
+carcinogenic to humans)
+그룹2B
+인간에게발암가능물질(The agent(mixture) is possibly
+carcinogenic to humans)
+그룹3
+인간에게발암여부를구분할수없는물질(The agent(mixture) is
+not classifiable as to its carcinogenicity to humans)
+그룹4
+인간에게발암물질로의심되지않는물질(The agent(mixture) is
+probably not carcinogenic to humans)
+총계
+고용노동부
+1A
+사람에게충분한발암성증거가있는물질
+1B
+시험동물에서발암성증거가충분히있거나, 시험동물과사람
+모두에서제한된발암성증거가있는물질
+2
+사람이나동물에서제한된증거가있지만, 구분1로분류하기에는
+증거가충분하지않은물질
+<별표1> 고용노동부발암성정보물질의표기1)
+<별표2> 국제암연구소발암성분류기준비교2)
+1) 고용노동부고시제2018-62호.
+
+[Semantic Chunk 117]
+화학물질의분류·표시및물질안전보건자료에관한기준[별표1] 화학물질의노출기준.
+
+[Semantic Chunk 118]
+2) https://monographs.iarc.fr/agents-classified-by-the-iarc/
+KOSHA GUIDE
+H - 48 - 2020
+- 9 -
+ACGIH
+A1
+인간에게발암확정물질
+(Confirmed human carcinogen)
+A2
+인간에게발암우려물질
+(Suspected human carcinogen)
+A3
+인간에게발암가능물질
+(Confirmed animal carcinogen with unknown relevance to humans)
+A4
+인간에게발암여부를구분할수없는물질
+(Not classifiable as a human carcinogen)
+A5
+인간에게발암물질로의심되지않는물질
+(Not suspected as a human carcinogen)
+총계
+GHS
+그룹1
+인간에게발암확정인자(Known to have carcinogenic potential
+for humans)
+그룹1B
+인간에게발암우려인자(Presumed human carcinogens)
+그룹2
+인간에게발암가능인자(Suspected human carcinogens)
+총계
+<별표3> 화학물질분류및표지에관한세계조화시스템분류기준비교3)
+<별표4> 미국산업위생전문가기구발암성분류기준비교4)
+3) https://www.osha.gov/dsg/hazcom/ghsguideoct05.pdf
+4) https://www.acgih.org/docs/default-source/survey/notations-survey_ref-2.pdf?sfvrsn=6230bf0d_2
+KOSHA GUIDE
+H - 48 - 2020
+- 10 -
+<별표5> EU 발암성분류기준비교5)
+EU
+분류1
+인간에게발암확정인자
+(Substances known to be carcinogenic to humans)
+분류2
+인간에게발암우려인자
+(Substances which should be regarded as if they are carcinogenic to
+humans)
+분류3
+인간에게발암가능인자
+(Substances which cause concern for humans, owing to possible
+carcinogenic effects but in respect of which the available information
+is not adequate for making a satisfactory assessment)
+총계
+<별표6> 미국독성등록청(NTP) 제12차발암성분류기준비교6)
+NTP
+K
+인간에게발암확정인자
+(Known to be human carcinogen)
+R
+인간에게발암우려인자
+(Reasonably anticipated to be human carcinogen)
+총계
+5)
+https://www.hsa.ie/eng/your_industry/chemicals/legislation_enforcement/carcinogens/carcinogens_classification/carcinogens_c
+lassifications.html
+6) https://ntp.niehs.nih.gov/
+KOSHA GUIDE
+H - 48 - 2020
+- 11 -
+<별표7> 국제기관별발암성분류기준비교
+발암성분류기준
+기관별분류등급
+IARC
+ACGIH
+고용
+노동부
+GHS
+EU
+NTP
+미국환경보호청
+(US EPA)
+인간에게발암확정인자
+Group
+1
+A1
+1A
+1A
+Cat.
+
+[Semantic Chunk 119]
+1
+K
+Carcinogenic to Humans
+인간에게발암우려인자
+Group
+2A
+A2
+1B
+1B
+Cat. 2
+R
+Likely to be
+Carcinogenic to Humans
+인간에게발암가능인자
+Group
+2B
+A3
+2
+2
+Cat.
+
+[Semantic Chunk 120]
+3
+Suggestive Evidence of
+Carcinogenic Potential
+인간에게발암여부를확실히구분할수
+없는물질-발암가능하나자료부족상태
+Group
+3
+A4
+Inadequate Information to
+Assess Carcinogenic
+Potential
+발암성물질로의심되지않는인자
+Group
+4
+A5
+Not Likely to be
+Carcinogenic to Humans
+KOSHA GUIDE
+H - 48 - 2020
+- 12 -
+<별표8> 유해요인별판단기준
+가.
+
+[Semantic Chunk 121]
+석면에의한원발성폐암
+구분
+해당업종
+입사시기
+재직(노출)기간
+원발성
+폐암
+- 석면포함제품제조업
+1998년* 이전
+10년이상
+- 석면광업
+- 선박수리업
+무관
+10년이상
+* 입사시기는본문의표기년도를제외한이전이라는연구진설명에따라표기년도
+전년을기준으로역산한10년(2008년석면사용금지고시)
+나.
+
+[Semantic Chunk 122]
+석면에의한악성중피종
+구분
+해당업종
+입사시기
+재직(노출)기간
+악성
+중피종
+- 석면포함제품제조업
+- 제조공정에서석면포함제품
+을사용하는업종
+- 작업중에석면포함제품을
+취급하는업종
+무관
+1년이상
+단, 석면노출시작
+시점으로부터
+10년
+이후발생
+KOSHA GUIDE
+H - 48 - 2020
+- 13 -
+다.
+
+[Semantic Chunk 123]
+탄광부·용접공·석공·주물공에서발생한원발성폐암
+구분
+입사
+시기
+재직(노출)
+기간
+직종
+직무
+탄광부
+- 지하탄광에한함
+- 굴진, 채탄, 보갱, 운반, 적재작업을모두포
+함한누적노출기간
+무관
+10년이상
+용접공
+- 용접작업
+※ 배관공, 제관공은제외
+석공
+- 석재가공작업(할석, 조각, 각자포함)
+※ 석재부착(시공작업) 제외
+주물공
+- 주물작업
+도장공
+- 스프레이(분체) 도장
+※ 붓도장제외
+라.
+
+[Semantic Chunk 124]
+벤젠에노출되어발생한악성림프조혈기계질환*
+* 급성/만성골수성백혈병, 급성/만성림프구성백혈병, 골수증식질환, 골수형성이상증
+후군, 무형성빈혈, 다발성골수종, 비호지킨림프종
+구분
+입사
+시기**
+재직(노출)
+기간
+업종(직종)
+직무
+코크스
+제조
+- 코크스오븐* 작업자
+- 현장감독자포함하며코크스오븐실링,
+스트립공정수행자, 대정비작업수행자
+1994년
+이전
+10년이상
+인쇄업
+- 인쇄작업자
+1997년
+이전
+5년이상
+고무제품제
+조업
+- 타이어성형, 검사, 불량처리공정작업자
+도장공
+- 도장작업자
+※ 붓도장제외
+* 석탄을일정한크기의코크스(탄덩어리)로만드는화로
+** 입사시기는본문의표기년도를제외한이전이라는연구진설명에따라표기년도
+전년을기준으로역산한10년, 5년
+KOSHA GUIDE
+H - 48 - 2020
+- 14 -
+<별표9> 산업재해보상보험법에서의직업성암인정기준(2020.08.25)
+가.
+
+[Semantic Chunk 125]
+석면에노출되어발생한폐암, 후두암으로다음의어느하나에해당하며10년이
+상노출되어발생한경우
+1) 가슴막반(흉막반) 또는미만성가슴막비후와동반된경우
+2) 조직검사결과석면소체또는석면섬유가충분히발견된경우
+나.
+
+[Semantic Chunk 126]
+석면폐증과동반된폐암, 후두암, 악성중피종
+다.
+
+[Semantic Chunk 127]
+직업적으로석면에노출된후10년이상경과하여발생한악성중피종
+라.
+
+[Semantic Chunk 128]
+석면에10년이상노출되어발생한난소암
+마.
+
+[Semantic Chunk 129]
+니켈화합물에노출되어발생한폐암또는코안ㆍ코곁굴[부비동(副鼻洞)]암
+바.
+
+[Semantic Chunk 130]
+콜타르찌꺼기(coal tar pitch, 10년이상노출된경우에해당한다), 라돈-222 또는그붕
+괴물질(지하등환기가잘되지않는장소에서노출된경우에해당한다), 카드뮴
+또는그화합물, 베릴륨또는그화학물, 6가크롬또는그화합물및결정형유
+리규산에노출되어발생한폐암
+사.
+
+[Semantic Chunk 131]
+검댕에노출되어발생한폐암또는피부암
+아. 콜타르(10년이상노출된경우에해당한다), 정제되지않은광물유에노출되어
+발생한피부암
+자.
+
+[Semantic Chunk 132]
+비소또는그무기화합물에노출되어발생한폐암, 방광암또는피부암
+차.
+
+[Semantic Chunk 133]
+스프레이나이와유사한형태의도장업무에종사하여발생한폐암또는방광암
+카.
+
+[Semantic Chunk 134]
+벤지딘, 베타나프틸아민에노출되어발생한방광암
+타.
+
+[Semantic Chunk 135]
+목재분진에노출되어발생한비인두암또는코안ㆍ코곁굴암
+파.
+
+[Semantic Chunk 136]
+0.5피피엠이상농도의벤젠에노출된후6개월이상경과하여발생한급성ㆍ만
+성골수성백혈병, 급성ㆍ만성림프구성백혈병
+하. 0.5피피엠이상농도의벤젠에노출된후10년이상경과하여발생한다발성골수
+종, 비호지킨림프종. 다만, 노출기간이10년미만이라도누적노출량이
+10피피엠
+ㆍ년이상이거나과거에노출되었던기록이불분명하여현재의노출농도를기준
+으로10년이상누적노출량이0.5피피엠ㆍ년이상이면업무상질병으로본다.
+
+[Semantic Chunk 137]
+거.
+
+[Semantic Chunk 138]
+포름알데히드에노출되어발생한백혈병또는비인두암
+KOSHA GUIDE
+H - 48 - 2020
+- 15 -
+너.
+
+[Semantic Chunk 139]
+1,3-부타디엔에노출되어발생한백혈병
+더. 산화에틸렌에노출되어발생한림프구성백혈병
+러.
+
+[Semantic Chunk 140]
+염화비닐에노출되어발생한간혈관육종(4년이상노출된경우에해당한다) 또는
+간세포암
+머.
+
+[Semantic Chunk 141]
+보건의료업에종사하거나혈액을취급하는업무를수행하는과정에서B형또는
+C형간염바이러스에노출되어발생한간암
+버.
+
+[Semantic Chunk 142]
+엑스(X)선또는감마(ϒ)선등의전리방사선에노출되어발생한침샘암, 식도암,
+위암, 대장암, 폐암, 뼈암, 피부의기저세포암, 유방암, 신장암, 방광암, 뇌및중추
+신경계암, 갑상선암, 급성림프구성백혈병및급성ㆍ만성골수성백혈병
+

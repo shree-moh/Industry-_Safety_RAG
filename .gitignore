@@ -1,0 +1,20 @@
+# Raw and large data
+data/
+docs/
+
+# Video inputs and extracted frames
+output/video_frames/
+data/sample/Video_Input/
+data/Video_Input/
+
+# RAG intermediate artifacts
+output/parsed/
+output/chunk_texts.txt
+output/chunk_vectors.npy
+output/parse_log.txt
+output/vlm_video_results.txt
+
+# Python / env
+.venv/
+__pycache__/
+*.pyc

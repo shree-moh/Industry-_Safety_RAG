@@ -30,6 +30,7 @@ It combines **text RAG over safety documents** with a **vision‑language model 
 │ ├─ VLM_llava_inference.py # Runs VLM over frames and saves Q&A
 │ ├─ batch_parse.py # (Optional) bulk PDF/HWP parsing
 │ ├─ vectorize_chunks.py # Builds embeddings from semantic chunks
+│ ├─ rag_query.py # RAG retrieval + generation (CLI & library)
 │ └─ qa_annotation_app.py # (Optional) tooling for manual QA review
 ├─ output/
 │ ├─ video_frames/ # Extracted frames (git‑ignored)
@@ -143,11 +144,37 @@ This produces:
 - `output/chunk_texts.txt` – one chunk per line.
 - `output/chunk_vectors.npy` – embedding matrix aligned with chunks.
 
-You can then create a small retrieval script that:
+3. Run a RAG query:
 
-- Embeds a user question.
-- Finds top‑k similar chunks.
-- Calls an LLM with the question + retrieved context.
+```text
+python scripts/rag_query.py --query "What PPE is required for arc welding?"
+```
+
+Options:
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--query` / `-q` | *(required)* | The question to answer |
+| `--top-k` | `5` | Number of chunks to retrieve |
+| `--vectors` | `output/chunk_vectors.npy` | Path to the embedding matrix |
+| `--texts` | `output/chunk_texts.txt` | Path to the chunk text file |
+| `--llm` | *(none)* | HuggingFace causal-LM model ID for answer generation (e.g. `gpt2`) |
+
+When `--llm` is omitted, the top-k retrieved chunks are printed directly.
+When a model ID is provided (e.g. `--llm gpt2`), the script loads that model and
+generates a grounded answer from the retrieved context.
+
+The `RAGPipeline` class can also be imported as a library:
+
+```python
+from scripts.rag_query import RAGPipeline
+
+pipeline = RAGPipeline(top_k=3)
+answer, sources = pipeline.query("What are the risks of working at height?")
+for file_id, chunk, score in sources:
+    print(f"[{score:.3f}] {file_id}: {chunk[:120]}")
+print(answer)
+```
 
 ---
 

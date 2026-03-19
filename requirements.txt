@@ -1,0 +1,26 @@
+# Core ML / embedding
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+sentence-transformers>=2.2.2
+
+# Document parsing
+pymupdf>=1.23.0          # fitz – PDF parsing
+pdf2image>=1.16.3        # PDF page → image (requires poppler)
+pytesseract>=0.3.10      # OCR (requires Tesseract binary)
+python-pptx>=0.6.21      # PowerPoint parsing
+Pillow>=10.0.0
+
+# Video processing
+opencv-python>=4.8.0
+
+# Numeric / retrieval
+numpy>=1.24.0
+scikit-learn>=1.3.0      # optional – can replace manual cosine similarity
+
+# NLP utilities
+nltk>=3.8.1              # sentence tokenisation in batch_parse.py
+
+# UI / annotation
+streamlit>=1.28.0
+pandas>=2.0.0

@@ -30,6 +30,7 @@ It combines **text RAG over safety documents** with a **vision‑language model 
 │ ├─ VLM_llava_inference.py # Runs VLM over frames and saves Q&A
 │ ├─ batch_parse.py # (Optional) bulk PDF/HWP parsing
 │ ├─ vectorize_chunks.py # Builds embeddings from semantic chunks
+│ └─ rag_chat.py   #RAG 
 │ └─ qa_annotation_app.py # (Optional) tooling for manual QA review
 ├─ output/
 │ ├─ video_frames/ # Extracted frames (git‑ignored)
